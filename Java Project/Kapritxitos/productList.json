@@ -1,0 +1,41 @@
+{
+   "inventory" : {
+      "products" : [ {
+         "desc" : "Riñonera elvis inscripción logotipo",
+         "gen" : "hombre",
+         "price" : "85.00",
+         "shop" : "Guess",
+         "type" : "bolsos"
+      }, {
+         "desc" : "Bandolera elvis inscripción logo",
+         "gen" : "hombre",
+         "price" : "69.00",
+         "shop" : "G-Star",
+         "type" : "bolsos"
+      }, {
+         "desc" : "Mochila smart bolsillo frontal",
+         "gen" : "hombre",
+         "price" : "79.00",
+         "shop" : "NafNaf",
+         "type" : "bolsos"
+      }, {
+         "desc" : "Camiseta salameda",
+         "gen" : "hombre",
+         "price" : "129.00",
+         "shop" : "Guess",
+         "type" : "bolsos"
+      }, {
+         "desc" : "Mochila athleisure inscripción logo",
+         "gen" : "hombre",
+         "price" : "99.00",
+         "shop" : "Brownie",
+         "type" : "bolsos"
+      }, {
+         "desc" : "Chaqueta corta fahrenheit",
+         "gen" : "hombre",
+         "price" : "94.50",
+         "shop" : "Napapijri",
+         "type" : "chaquetas"
+      } ]
+   }
+}

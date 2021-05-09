@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                            
+    
+    
+    
+    
+    
+    <wb-module deploy-name="Kapritxitos">
+                                                        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                                                        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="json-20201115.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib//home/borja/STA/practicas-fdbe98/Librerias_Tomcat_Wildfly/json-20201115.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                                                        
+        
+        
+        
+        
+        
+        <property name="java-output-path" value="/TiendaDeBorja/build/classes"/>
+                        
+        
+        <property name="context-root" value="Kapritxitos"/>
+                                                    
+    
+    
+    
+    
+    
+    </wb-module>
+                        
+
+
+
+
+
+</project-modules>

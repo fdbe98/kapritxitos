@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Kapritxitos</title>
+<link rel="shortcut icon" href="../images/index.png" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="../css/clothes.css"/>
+</head>
+<body>
+	<h1>Kapritxitos - Tecnologías</h1>
+	<form id="myForm">
+		<div class="field_sel">
+			Categoría:<br> <select name="selCat">
+				<option>Portatiles</option>
+				<option>Monitores</option>
+				<option>Televisores</option>
+				<option>Smartphones</option>
+				<option>Tablets</option>
+			</select>
+		</div>
+		<div class="field">
+			Marca:<br> <select name="selMar">
+				<option>Cualquiera</option>
+				<option>Apple</option>
+				<option>Huawei</option>
+				<option>Xiaomi</option>
+				<option>Motorola</option>
+				<option>Toshiba</option>
+				<option>Samsung</option>
+				<option>LG</option>
+				<option>Hisense</option>
+				<option>JVC</option>
+				<option>Philips</option>
+			</select>
+		</div>
+		<div class="field">
+			Precio máx (€): <br> <input type="text" id="precio"
+				name="fprice" size="4" placeholder="Ej: 50">
+		</div>
+		<div class="field">
+			Producto:<br> <input type="text" id="producto" name="fdesc"
+				size="20" placeholder="">
+		</div>				
+			<input type="hidden" id="lat" name="lat" value="0" /> 
+			<input type="hidden" id="lng" name="lng" value="0" />
+		<div class="field_sel_ck">		 
+			<input type="checkbox" id="check" onchange="getCoords(this)"> <label for="coords">Habilitar mi ubicación</label>
+		</div>
+		
+		<div class="field_sel_tran">
+					Modo de transporte:<br> <select id="trans" name="trans">
+					<option value="WALKING">Andando</option>
+					<option value="DRIVING">Coche</option>
+					<option value="BICYCLING">Bicicleta</option></select>
+		</div>
+				<input type="submit" value="Enviar">
+		</form>
+		<div id="loader-container" class="loader-container" style="display:none">
+		<div class="loader"></div><div class="loader2"></div>
+		</div>
+		
+		
+
+		<p align="center">
+		<br>
+		<iframe id="frame"></iframe>
+	<div id="map"></div>
+</body>
+
+<script type="text/javascript">
+
+	const form = document.querySelector('#myForm');
+	
+	//listen for submit even
+	form.addEventListener('submit', () => {
+		 // disable default action
+		  event.preventDefault();
+	
+	  // configure a request
+	  const xhr = new XMLHttpRequest();
+	  xhr.open('POST', 'http://localhost:8080/Kapritxitos/technology');
+	  loader_load();
+	  // prepare form data
+	  let data = new FormData(form);
+	
+	
+	  // send request
+	  xhr.send(data);
+	
+	  // listen for `load` event
+	   	xhr.onload = () => {
+	      console.log(xhr.responseText);
+	      loader_unload();
+	      printResp(xhr.responseText);
+	  }
+	});
+    function initMap(shopClassName){
+		var latitude = parseFloat(document.getElementById("lat").value);
+		var longitude = parseFloat(document.getElementById("lng").value);
+	    var start = {lat: latitude, lng: longitude};
+		console.log(start);
+	    var end = getShopCoords(shopClassName);
+	
+    	var directionsService = new google.maps.DirectionsService;
+    	var directionsDisplay = new google.maps.DirectionsRenderer;
+
+		
+			var map = new google.maps.Map(document.getElementById('map'),{
+				zoom : 12,
+		            center : {lat: 43.263204, lng: -2.935126}
+						});
+			if(document.getElementById("lat").value == "0"){
+				const market = new google.maps.Marker({
+					position: end,
+					map: map,
+					icon: {
+					      url: "http://maps.google.com/mapfiles/ms/icons/orange-dot.png"
+					    }
+					});
+			}
+			else {
+				directionsDisplay.setMap(map);
+				calculateAndDisplayRoute(directionsService, directionsDisplay);
+			}
+
+			function calculateAndDisplayRoute(directionsService,directionsDisplay){
+				directionsService.route({
+					origin: start,
+					destination: end,
+					travelMode: document.getElementById("trans").value
+				},function(response,status){
+						if(status === 'OK'){
+							directionsDisplay.setDirections(response);
+						}
+						else{
+							//window.alert('Directions request failed due to '+status);
+							console.log("ERRROR REQUEST FAILED")
+							}
+					});
+				
+			}
+
+    }
+	function getShopCoords(shopClassName){
+		var end;
+		if(shopClassName == "Fnac")
+			end = {lat: 43.26130, lng: -2.93004};
+		else if(shopClassName == "K-tuin")
+			end = {lat: 46.26105, lng: -2.93894};
+		else if(shopClassName == "Milar")
+			end = {lat: 43.26001, lng: -2.93891};
+		else if(shopClassName == "Modpc")
+			end = {lat: 43.25991, lng: -2.94780};
+		else if(shopClassName == "Zbitt")
+			end = {lat: 43.25885, lng: -2.94068};
+		return end;
+	}
+	function getCoords(checkboxElem) {
+		  if (checkboxElem.checked) {
+			  	getMyLocation();
+		  } else {
+			 	document.getElementById("lat").value = 0;
+				document.getElementById("lng").value = 0;
+		  }
+		}
+	function getMyLocation(){
+		var lat = 0;
+		var lng = 0;
+		window.navigator.geolocation.getCurrentPosition(onSuccess,onError);
+				
+	}
+	function onSuccess(pos){
+		lat = pos.coords.latitude;
+		lng = pos.coords.longitude;
+		document.getElementById("lat").value = lat;
+		document.getElementById("lng").value = lng;
+		console.log("Se ha obtenido su ubicacion;");
+		console.log(lat,lng);
+	}
+	function onError(){
+		document.getElementById("check").checked = false;
+		console.log("Error, no ha sido posible obtener su ubicacion;");
+	}
+	function printResp(resp){
+		var doc = document.getElementById("frame").contentWindow.document;
+		doc.open();
+		doc.write(resp);
+		doc.close();
+	}
+	function validateForm(){
+		var precio = document.forms["myForm"]["fprice"];
+		if(isNaN(precio.value)){
+			precio.style.backgroundColor ="orange";
+			return false;
+		}
+	}
+	function loader_load(){
+		document.getElementById("loader-container").style.display = "block";
+	}
+	function loader_unload(){
+		document.getElementById("loader-container").style.display = "none";
+	}
+	
+	
+</script>
+
+<script async defer
+	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAz1NM-q-z4HG9gzImJkHbuAVIQA5Tg0-g">
+</script>
+
+</html>

@@ -1,0 +1,1525 @@
+{
+   "inventory" : {
+      "products" : [ {
+         "desc" : "\"spc - laika 8 gb 17,8 cm (7\"\") 1 gb wi-fi 4 (802.11n) android 8.1 rosa\"",
+         "price" : "61.8",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"innjoo - f704 3g 16 gb 17,8 cm (7\"\") spreadtrum 1 gb wi-fi 4 (802.11n) android 8.1 negro\"",
+         "price" : "62.7",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"innjoo - f704 3g 16 gb 17,8 cm (7\"\") spreadtrum 1 gb wi-fi 4 (802.11n) android 8.1 blanco\"",
+         "price" : "63.25",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"billow - x703w tablet 8 gb 17,8 cm (7\"\") 1 gb wi-fi 4 (802.11n) android 8.1 blanco\"",
+         "price" : "71.2",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"billow - x703b tablet 8 gb 17,8 cm (7\"\") 1 gb wi-fi 4 (802.11n) android 8.1 negro\"",
+         "price" : "71.2",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Alcatel - alcatel 1t 7 wifi 2021 mint green",
+         "price" : "72.7",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Alcatel - alcatel 1t 7 wifi 2021 black",
+         "price" : "72.7",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m7 16 gb 17,8 cm (7\"\") mediatek 1 gb wi-fi 4 (802.11n) android 9.0 negro\"",
+         "price" : "86.25",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"spc - lightyear 16 gb 20,3 cm (8\"\") arm 2 gb wi-fi 4 (802.11n) android 8.1 azul\"",
+         "price" : "87.7",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Lenovo - tb-7305l mt8321 syst 1gb 16gb 7in sp",
+         "price" : "112",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m7 4g lte 16 gb 17,8 cm (7\"\") mediatek 1 gb 802.11a negro\"",
+         "price" : "112",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"sunstech - tab1081 3g 32 gb 25,6 cm (10.1\"\") mediatek 2 gb wi-fi 4 (802.11n) android 8.1 plata, blanco\"",
+         "price" : "115",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"alcatel - 1t 10 16 gb 25,6 cm (10.1\"\") mediatek 1 gb wi-fi 4 (802.11n) android 8.1 go edition negro\"",
+         "price" : "117",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"spc - lightyear 32 gb 20,3 cm (8\"\") arm 3 gb wi-fi 4 (802.11n) android 8.1 blanco\"",
+         "price" : "117",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"spc - gravity max 32 gb 25,6 cm (10.1\"\") arm 2 gb wi-fi 4 (802.11n) android 8.1 plata, blanco\"",
+         "price" : "121",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"alcatel - 1t 10 32 gb 25,6 cm (10.1\"\") mediatek 2 gb wi-fi 4 (802.11n) android 8.1 go edition negro\"",
+         "price" : "122",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"huawei - mediapad t3 16 gb 24,4 cm (9.6\"\") qualcomm snapdragon 2 gb wi-fi 4 (802.11n) android 7.0 gris\"",
+         "price" : "125",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"billow - x101pros+ tablet 32 gb 25,6 cm (10.1\"\") 2 gb android 8.1 plata, blanco\"",
+         "price" : "128",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m8 32 gb 20,3 cm (8\"\") mediatek 2 gb wi-fi 5 (802.11ac) gris - za5g0053se\"",
+         "price" : "130",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m8 32 gb 20,3 cm (8\"\") mediatek 2 gb wi-fi 5 (802.11ac) gris - za5g0038se\"",
+         "price" : "131",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Talius - tablet 10 zircon 1015 quad core, ram 3gb, 32gb, android 9.0",
+         "price" : "131",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"brigmton - btpc-1025oc-b tablet 32 gb 25,4 cm (10\"\") 3 gb wi-fi 5 (802.11ac) android 9.0 blanco\"",
+         "price" : "134",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"brigmton - btpc-1025oc-n tablet 32 gb 25,4 cm (10\"\") 3 gb wi-fi 5 (802.11ac) android 9.0 negro\"",
+         "price" : "137",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"spc - gravity 4g lte 16 gb 25,6 cm (10.1\"\") arm 2 gb wi-fi 4 (802.11n) android 8.1 plata, blanco\"",
+         "price" : "138",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m10 32 gb 25,6 cm (10.1\"\") qualcomm snapdragon 2 gb wi-fi 5 (802.11ac) android 9.0 negro - za590017se\"",
+         "price" : "140",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m10 32 gb 25,6 cm (10.1\"\") qualcomm snapdragon 2 gb wi-fi 5 (802.11ac) android 9.0 negro - za4g0035se\"",
+         "price" : "144",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m10 32 gb 25,6 cm (10.1\"\") qualcomm snapdragon 2 gb wi-fi 5 (802.11ac) blanco\"",
+         "price" : "144",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"spc - gravity pro 32 gb 25,6 cm (10.1\"\") arm 3 gb wi-fi 4 (802.11n) blanco\"",
+         "price" : "144",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Sunstech - suntech tablet 10 64 gb silver",
+         "price" : "148",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Sunstech - suntech tablet 10 64 gb black",
+         "price" : "148",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"huawei - mediapad t3 4g lte 32 gb 24,4 cm (9.6\"\") qualcomm snapdragon 2 gb wi-fi 4 (802.11n) android 7.0 gris\"",
+         "price" : "148",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"innjoo - superb plus 4g 32 gb 25,6 cm (10.1\"\") mediatek 3 gb wi-fi 4 (802.11n) android 9.1 gris, blanco\"",
+         "price" : "153",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"huawei - matepad t10s 32 gb 25,6 cm (10.1\"\") hisilicon kirin 2 gb wi-fi 5 (802.11ac) negro, azul\"",
+         "price" : "162",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"spc - gravity pro 32 gb 25,6 cm (10.1\"\") mediatek 3 gb wi-fi 4 (802.11n) android 10 blanco\"",
+         "price" : "170",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"spc - gravity pro 32 gb 25,6 cm (10.1\"\") mediatek 3 gb wi-fi 4 (802.11n) android 10 negro\"",
+         "price" : "170",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"spc - tablet 10.1\"\" ips gravity octacore 4g 4gb/64gb lte 25,6 cm (10.1\"\") wi-fi 5 (802.11ac) android 9.0 aluminio, negro\"",
+         "price" : "170",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"alcatel - 3t 10 4g 16 gb 25,6 cm (10.1\"\") mediatek 2 gb wi-fi 4 (802.11n) android 9.0 azul\"",
+         "price" : "173",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"huawei - mediapad t5 32 gb 25,6 cm (10.1\"\") hisilicon kirin 2 gb wi-fi 5 (802.11ac) android 8.0 negro\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"alcatel - 3t 10 4g 16 gb 25,6 cm (10.1\"\") mediatek 2 gb wi-fi 4 (802.11n) android 9.0 negro\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Alcatel - alcatel 3t 10 4g 2021 black",
+         "price" : "177",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab a (2019) sm-t295n 4g lte-tdd & lte-fdd 32 gb 20,3 cm (8\"\") 2 gb wi-fi 4 (802.11n) negro\"",
+         "price" : "180",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"innjoo - ij-voom tab-gry tablet 4g 64 gb 25,6 cm (10.1\"\") spreadtrum 4 gb wi-fi 4 (802.11n) android 9.1 plata\"",
+         "price" : "181",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m10 4g lte 32 gb 25,6 cm (10.1\"\") qualcomm snapdragon 2 gb wi-fi 5 (802.11ac) android 9.0 negro\"",
+         "price" : "188",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"spc - gravity ultimate 64 gb 25,6 cm (10.1\"\") mediatek 4 gb wi-fi 4 (802.11n) android 10 negro\"",
+         "price" : "191",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m10 4g lte 32 gb 25,6 cm (10.1\"\") qualcomm snapdragon 2 gb wi-fi 5 (802.11ac) android 9.0 negro - za4h0021se\"",
+         "price" : "193",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"talius - tal-zaphyr-8005w tablet 64 gb 20,3 cm (8\"\") intel atom® 4 gb wi-fi 4 (802.11n) windows 10 s negro\"",
+         "price" : "194",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - smart tab m10 hd with alexa built-in 64 gb 25,6 cm (10.1\"\") mediatek 4 gb wi-fi 5 (802.11ac) android 10 gris, platino\"",
+         "price" : "196",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"huawei - mediapad t5 4g lte-tdd 32 gb 25,6 cm (10.1\"\") hisilicon kirin 2 gb wi-fi 5 (802.11ac) android 8.0 negro\"",
+         "price" : "201",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m10 plus 64 gb 26,2 cm (10.3\"\") mediatek 4 gb wi-fi 5 (802.11ac) gris\"",
+         "price" : "205",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Talius - tablet 4g octa core, ram 4gb, 64gb, android 9.0",
+         "price" : "206",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab sm-t500n 32 gb 26,4 cm (10.4\"\") qualcomm snapdragon 3 gb wi-fi 5 (802.11ac) android 10 gris\"",
+         "price" : "215",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m10 64 gb 26,2 cm (10.3\"\") mediatek 4 gb wi-fi 5 (802.11ac) android 9.0 gris\"",
+         "price" : "227",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab sm-t500n 32 gb 26,4 cm (10.4\"\") qualcomm snapdragon 3 gb wi-fi 5 (802.11ac) android 10 plata\"",
+         "price" : "239",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m10 fhd plus 26,2 cm (10.3\"\") mediatek 4 gb 64 gb wi-fi 5 (802.11ac) 4g lte-tdd & lte-fdd gris android 9.0\"",
+         "price" : "249",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab sm-t500n 64 gb 26,4 cm (10.4\"\") qualcomm snapdragon 3 gb wi-fi 5 (802.11ac) android 10 gris\"",
+         "price" : "257",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab m10 fhd plus 4g lte-tdd & lte-fdd 64 gb 26,2 cm (10.3\"\") mediatek 4 gb wi-fi 5 (802.11ac) android 9.0 gris\"",
+         "price" : "264",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - smart tab tb-x606x 4g lte-tdd & lte-fdd 128 gb 26,2 cm (10.3\"\") mediatek 4 gb wi-fi 5 (802.11ac) android 9.0 gris, plati\"",
+         "price" : "271",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab sm-t505n 4g lte 32 gb 26,4 cm (10.4\"\") qualcomm snapdragon 3 gb wi-fi 5 (802.11ac) android 10 gris\"",
+         "price" : "273",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab p11 128 gb 27,9 cm (11\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) android 10 gris\"",
+         "price" : "304",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - yoga tablet yt-x705f 64 gb 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) gris\"",
+         "price" : "304",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab sm-t505n 4g lte 64 gb 26,4 cm (10.4\"\") qualcomm snapdragon 3 gb wi-fi 5 (802.11ac) android 10 gris\"",
+         "price" : "311",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - 10e 32 gb 25,6 cm (10.1\"\") mediatek 4 gb wi-fi 5 (802.11ac) chrome os gris\"",
+         "price" : "332",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"huawei - mediapad m5 lite 4g lte 32 gb 25,6 cm (10.1\"\") hisilicon kirin 3 gb wi-fi 5 (802.11ac) android 8.0 gris\"",
+         "price" : "347",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Huawei - matepad 10.4 nwed wifi (4+64gb) hms",
+         "price" : "353",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s6 lite sm-p610n 64 gb 26,4 cm (10.4\"\") samsung exynos 4 gb wi-fi 5 (802.11ac) android 10 gris\"",
+         "price" : "368",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s6 lite sm-p610n 64 gb 26,4 cm (10.4\"\") samsung exynos 4 gb wi-fi 5 (802.11ac) android 10 azul\"",
+         "price" : "373",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Lenovo - 10e chrombook tablet 4/32",
+         "price" : "374",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Samsung - samsung tab s6 lite 10.4 128g wifi grey",
+         "price" : "389",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad 32 gb 25,9 cm (10.2\"\") wi-fi 5 (802.11ac) ipados oro\"",
+         "price" : "403",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Lenovo - duet 3 10igl5 n4020 4+64gb w10p",
+         "price" : "411",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad 32 gb 25,9 cm (10.2\"\") wi-fi 5 (802.11ac) ipados gris\"",
+         "price" : "420",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s6 lite sm-p615n 4g lte 64 gb 26,4 cm (10.4\"\") samsung exynos 4 gb wi-fi 5 (802.11ac) android 10 gris\"",
+         "price" : "422",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad 32 gb 25,9 cm (10.2\"\") wi-fi 5 (802.11ac) ipados plata\"",
+         "price" : "429",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s6 lite 4g lte-tdd 128 gb 26,4 cm (10.4\"\") 4 gb wi-fi 5 (802.11ac) gris\"",
+         "price" : "433",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Lenovo - duet 3 10igl5 n4020 4+128gb w10p",
+         "price" : "462",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface go 64 gb 25,4 cm (10\"\") intel® pentium® 4 gb wi-fi 5 (802.11ac) windows 10 s plata\"",
+         "price" : "463",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface go 2 64 gb 26,7 cm (10.5\"\") intel® pentium® 4 gb wi-fi 6 (802.11ax) platino\"",
+         "price" : "490",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"acer - enduro et108-11a-84n9 64 gb 20,3 cm (8\"\") mediatek 4 gb wi-fi 5 (802.11ac) android 9.0 negro\"",
+         "price" : "502",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Crosscall - tablet crosscall core-t4 lte",
+         "price" : "512",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Lenovo - duet 3 10igl5-lte n4020 4+128 w10p",
+         "price" : "514",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab active3 4g lte-tdd & lte-fdd 64 gb 20,3 cm (8\"\") samsung exynos 4 gb wi-fi 6 (802.11ax) android 10 negro\"",
+         "price" : "518",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad 128 gb 25,9 cm (10.2\"\") wi-fi 5 (802.11ac) ipados oro\"",
+         "price" : "531",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad 128 gb 25,9 cm (10.2\"\") wi-fi 5 (802.11ac) ipados gris\"",
+         "price" : "531",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Lenovo - ideapad duet 3",
+         "price" : "555",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s5e 5 128 gb 26,7 cm (10.5\"\") 6 gb wi-fi 5 (802.11ac) negro\"",
+         "price" : "564",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface go 2 64 gb 26,7 cm (10.5\"\") intel® core™ m 4 gb wi-fi 6 (802.11ax) platino\"",
+         "price" : "591",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s7 sm-t870nz 128 gb 27,9 cm (11\"\") qualcomm snapdragon 6 gb wi-fi 6 (802.11ax) android 10 negro\"",
+         "price" : "609",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s5e sm-t725n 4g lte 128 gb 26,7 cm (10.5\"\") 6 gb wi-fi 5 (802.11ac) android 9.0 negro\"",
+         "price" : "626",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface go 2 128 gb 26,7 cm (10.5\"\") intel® pentium® 8 gb wi-fi 6 (802.11ax) windows 10 home en modo s platino\"",
+         "price" : "628",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Lenovo - d330 n5000 8/128 w10p",
+         "price" : "635",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface go 2 128 gb 26,7 cm (10.5\"\") intel® pentium® 8 gb wi-fi 6 (802.11ax) platino\"",
+         "price" : "654",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad mini 4g lte 64 gb 20,1 cm (7.9\"\") 3 gb wi-fi 5 (802.11ac) ios 12 plata\"",
+         "price" : "672",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad mini 4g lte 64 gb 20,1 cm (7.9\"\") 3 gb wi-fi 5 (802.11ac) ios 12 oro\"",
+         "price" : "672",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 64 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 verde\"",
+         "price" : "679",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s7 sm-t875nz 4g lte 128 gb 27,9 cm (11\"\") qualcomm snapdragon 6 gb wi-fi 6 (802.11ax) android 10 negro\"",
+         "price" : "702",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab p11 pro 128 gb 29,2 cm (11.5\"\") qualcomm snapdragon 6 gb wi-fi 5 (802.11ac) android 10 gris\"",
+         "price" : "703",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad mini 256 gb 20,1 cm (7.9\"\") 3 gb wi-fi 5 (802.11ac) ios 12 oro\"",
+         "price" : "706",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad mini 256 gb 20,1 cm (7.9\"\") 3 gb wi-fi 5 (802.11ac) ios 12 gris\"",
+         "price" : "706",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad mini 256 gb 20,1 cm (7.9\"\") 3 gb wi-fi 5 (802.11ac) ios 12 plata\"",
+         "price" : "706",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab active pro sm-t545n 4g lte 64 gb 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) android 9.0 ne\"",
+         "price" : "710",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s7 sm-t870n 256 gb 27,9 cm (11\"\") qualcomm snapdragon 8 gb wi-fi 6 (802.11ax) android 10 negro\"",
+         "price" : "714",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 64 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 plata\"",
+         "price" : "719",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 64 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 oro rosa\"",
+         "price" : "719",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface go 2 128 gb 26,7 cm (10.5\"\") intel® core™ m 8 gb wi-fi 6 (802.11ax) plata\"",
+         "price" : "802",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface go 2 128 gb 26,7 cm (10.5\"\") intel® core™ m 8 gb wi-fi 6 (802.11ax) windows 10 pro plata\"",
+         "price" : "802",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s7 sm-t875n 4g lte 256 gb 27,9 cm (11\"\") qualcomm snapdragon 8 gb wi-fi 6 (802.11ax) android 10 negro\"",
+         "price" : "805",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"lenovo - tab p11 pro 4g lte 128 gb 29,2 cm (11.5\"\") qualcomm snapdragon 6 gb wi-fi 5 (802.11ac) android 10 gris\"",
+         "price" : "808",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"acer - enduro t1 et110-31w-c9xz 64 gb 25,6 cm (10.1\"\") intel® celeron® 4 gb wi-fi 5 (802.11ac) windows 10 pro negro\"",
+         "price" : "815",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s7+ sm-t970n 128 gb 31,5 cm (12.4\"\") qualcomm snapdragon 6 gb wi-fi 6 (802.11ax) android 10 negro\"",
+         "price" : "818",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 4g lte 64 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 gris\"",
+         "price" : "832",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad mini 4g lte 256 gb 20,1 cm (7.9\"\") 3 gb wi-fi 5 (802.11ac) ios 12 plata\"",
+         "price" : "852",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad mini 4g lte 256 gb 20,1 cm (7.9\"\") 3 gb wi-fi 5 (802.11ac) ios 12 gris\"",
+         "price" : "858",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad mini 4g lte 256 gb 20,1 cm (7.9\"\") 3 gb wi-fi 5 (802.11ac) ios 12 oro\"",
+         "price" : "858",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 128 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "863",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 4g lte 64 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 verde\"",
+         "price" : "866",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 4g lte 64 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 oro rosa\"",
+         "price" : "866",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 4g lte 64 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 azul\"",
+         "price" : "886",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"bluebird - rt080 4g lte 32 gb 20,3 cm (8\"\") 2 gb wi-fi 5 (802.11ac) android 7.0 negro\"",
+         "price" : "890",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 128 gb 31,2 cm (12.3\"\") intel® core™ i3 de 10ma generación 4 gb wi-fi 6 (802.11ax) windows 10 home plat\"",
+         "price" : "899",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 256 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 oro rosa\"",
+         "price" : "899",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s7 sm-t875n 4g lte 128 gb 27,9 cm (11\"\") qualcomm snapdragon 6 gb wi-fi 6 (802.11ax) android 10 negro\"",
+         "price" : "912",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Lenovo - tablet lv 10 8g 128 w10p",
+         "price" : "915",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface go 2 lte 128 gb 26,7 cm (10.5\"\") intel core m3 8 gb wi-fi 6 (802.11ax) windows 10 pro platino\"",
+         "price" : "916",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 256 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 verde\"",
+         "price" : "919",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 256 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 plata\"",
+         "price" : "919",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s7+ sm-t970n 256 gb 31,5 cm (12.4\"\") qualcomm snapdragon 8 gb wi-fi 6 (802.11ax) android 10 negro\"",
+         "price" : "920",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 256 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "964",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 256 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "964",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 128 gb 31,2 cm (12.3\"\") intel® core™ i5 de 10ma generación 8 gb wi-fi 6 (802.11ax) windows 10 pro plati\"",
+         "price" : "979",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - zx70 g2 64 gb 17,8 cm (7\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) android 9.0 negro, amarillo\"",
+         "price" : "1009",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 128 gb 31,2 cm (12.3\"\") intel® core™ i3 de 10ma generación 4 gb wi-fi 6 (802.11ax) windows 10 pro plati\"",
+         "price" : "1020",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface go 2 26,7 cm (10.5\"\") intel® core™ m 8 gb 256 gb wi-fi 6 (802.11ax) 4g lte plata windows 10 pro\"",
+         "price" : "1021",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s7+ 5g sm-t976b lte 128 gb 31,5 cm (12.4\"\") qualcomm snapdragon 6 gb wi-fi 6 (802.11ax) android 10 negro\"",
+         "price" : "1023",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - scanpal eda71 17,8 cm (7\"\") qualcomm snapdragon 4 gb 64 gb wi-fi 5 (802.11ac) negro android 8.0\"",
+         "price" : "1024",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Fujitsu - st q509 10.1 wuxga tch ag syst 10.1 wuxga tch ag/ cel n4100/ssd uk",
+         "price" : "1025",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 4g lte 256 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 verde\"",
+         "price" : "1052",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 4g lte 256 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 azul\"",
+         "price" : "1052",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad air 4g lte 256 gb 27,7 cm (10.9\"\") wi-fi 6 (802.11ax) ios 14 oro rosa\"",
+         "price" : "1052",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 128 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1054",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 4g lte 128 gb 31,2 cm (12.3\"\") 7ª generación de procesadores intel® core™ i5 4 gb wi-fi 5 (802.11ac) wind\"",
+         "price" : "1063",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 128 gb 31,2 cm (12.3\"\") intel® core™ i3 de 11ma generación 8 gb wi-fi 6 (802.11ax) windows 10 pro plat\"",
+         "price" : "1080",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"zebra - et51 32 gb 21,3 cm (8.4\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) android 10 negro\"",
+         "price" : "1121",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Lenovo - duet 7 13iml05 i5-10210u 8/256 w10h",
+         "price" : "1121",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung - galaxy tab s7+ 5g sm-t976b lte 256 gb 31,5 cm (12.4\"\") qualcomm snapdragon 8 gb wi-fi 6 (802.11ax) android 10 negro\"",
+         "price" : "1125",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 128 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1129",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 128 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1129",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"advantech - aim-68 4g lte 64 gb 25,6 cm (10.1\"\") intel atom® 4 gb wi-fi 5 (802.11ac) android 6.0 negro\"",
+         "price" : "1163",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 10ma generación 8 gb wi-fi 6 (802.11ax) windows 10 pro negro\"",
+         "price" : "1164",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 10ma generación 8 gb wi-fi 6 (802.11ax) windows 10 pro plati\"",
+         "price" : "1164",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 256 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1177",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 256 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1177",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"zebra - et51 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb 32 gb wi-fi 5 (802.11ac) negro android 8.1 oreo\"",
+         "price" : "1187",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 128 gb 31,2 cm (12.3\"\") intel® core™ i5 de 11ma generación 8 gb wi-fi 6 (802.11ax) windows 10 pro plat\"",
+         "price" : "1203",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 512 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1206",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 512 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1206",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 256 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1249",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 256 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1249",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 1024 gb 27,9 cm (11\"\") wi-fi 5 (802.11ac) ios 12 plata\"",
+         "price" : "1253",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 4g lte 256 gb 31,2 cm (12.3\"\") 7ª generación de procesadores intel® core™ i5 8 gb wi-fi 5 (802.11ac) wind\"",
+         "price" : "1253",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro x 4g lte 128 gb 33 cm (13\"\") 8 gb wi-fi 5 (802.11ac) windows 10 pro negro\"",
+         "price" : "1278",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 10ma generación 8 gb wi-fi 6 (802.11ax) wi - pvr-00019#kitbl\"",
+         "price" : "1280",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"zebra - et51 64 gb 21,3 cm (8.4\"\") intel atom® 4 gb wi-fi 5 (802.11ac) windows 10 iot enterprise negro\"",
+         "price" : "1299",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Microsoft - surface pro7 i5 8gb 256gb w1 syst comm black nd",
+         "price" : "1305",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 128 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1315",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 128 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1315",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"zebra - et51 32 gb 25,6 cm (10.1\"\") intel atom® 4 gb wi-fi 5 (802.11ac) android 10 negro\"",
+         "price" : "1328",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 10ma generación 8 gb wi-fi 6 (802.11ax) windows 10 home plat\"",
+         "price" : "1349",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - zx70 g2 4g lte 64 gb 17,8 cm (7\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) android 9.0 negro, amarillo - z1c72xdi5oax\"",
+         "price" : "1351",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - t800 g2 20,6 cm (8.1\"\") intel atom® 4 gb 128 gb wi-fi 5 (802.11ac) negro windows 10 pro\"",
+         "price" : "1360",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "Microsoft - surfac prolte i5 8gb 256gb w10psyst type cover black kit sp",
+         "price" : "1367",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 4g lte-a 128 gb 31,2 cm (12.3\"\") intel® core™ i5 de 11ma generación 8 gb wi-fi 6 (802.11ax) windows 10\"",
+         "price" : "1386",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 512 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1392",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 512 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1392",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"zebra - et51 32 gb 21,3 cm (8.4\"\") intel atom® 4 gb wi-fi 5 (802.11ac) android 10 negro\"",
+         "price" : "1405",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro x 4g lte 256 gb 33 cm (13\"\") 8 gb wi-fi 5 (802.11ac) windows 10 home negro\"",
+         "price" : "1426",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - thor vm3 2 gb 30,7 cm (12.1\"\") intel atom® 4 gb wi-fi 4 (802.11n) windows embedded compact 7 gris\"",
+         "price" : "1436",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 10ma generación 16 gb wi-fi 6 (802.11ax) w - pvs-00004#kitbl\"",
+         "price" : "1444",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - zx70 g2 4g lte 64 gb 17,8 cm (7\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) android 9.0 negro, amarillo - z1c72xdi5rax\"",
+         "price" : "1445",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 1000 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1447",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 1000 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1447",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 256 gb 31,2 cm (12.3\"\") intel® core™ i7 de 10ma generación 16 gb wi-fi 6 (802.11ax) windows - pvt-00018\"",
+         "price" : "1460",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 256 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1469",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 256 gb 31,2 cm (12.3\"\") intel® core™ i7 de 10ma generación 16 gb wi-fi 6 (802.11ax) w - pvt-00018#kitbl\"",
+         "price" : "1482",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 512 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1491",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 512 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1491",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 11ma generación 8 gb wi-fi 6 (802.11ax) windows 10 pro negr\"",
+         "price" : "1494",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 11ma generación 8 gb wi-fi 6 (802.11ax) windows 10 pro plat\"",
+         "price" : "1494",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"zebra - et51 25,6 cm (10.1\"\") intel atom® 4 gb 64 gb 802.11b 4g lte negro windows 10 iot enterprise\"",
+         "price" : "1578",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 256 gb 31,2 cm (12.3\"\") intel® core™ i7 de 10ma generación 16 gb wi-fi 6 (802.11ax) windows 10 home neg\"",
+         "price" : "1630",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 256 gb 31,2 cm (12.3\"\") intel® core™ i7 de 10ma generación 16 gb wi-fi 6 (802.11ax) windows 10 home pla\"",
+         "price" : "1630",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 1000 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1633",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 1000 gb 27,9 cm (11\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1633",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 4g lte-a 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 11ma generación 8 gb wi-fi 6 (802.11ax) windows 10\"",
+         "price" : "1635",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 10ma generación 16 gb wi-fi 6 (802.11ax) windows - pvs-00004\"",
+         "price" : "1659",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - t800 g2 4g lte 128 gb 20,6 cm (8.1\"\") intel atom® 4 gb wi-fi 5 (802.11ac) windows 10 negro\"",
+         "price" : "1663",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 512 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1677",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 512 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1677",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 11ma generación 16 gb wi-fi 6 (802.11ax) windows 10 pro pla\"",
+         "price" : "1728",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 1024 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1732",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 1024 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1732",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"zebra - et51 128 gb 25,6 cm (10.1\"\") intel atom® 8 gb wi-fi 5 (802.11ac) windows 10 iot enterprise negro\"",
+         "price" : "1748",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 256 gb 31,2 cm (12.3\"\") intel® core™ i7 de 11ma generación 16 gb wi-fi 6 (802.11ax) windows 10 pro pla\"",
+         "price" : "1748",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 256 gb 31,2 cm (12.3\"\") intel® core™ i7 de 11ma generación 16 gb wi-fi 6 (802.11ax) windows 10 pro neg\"",
+         "price" : "1748",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 31,2 cm (12.3\"\") intel® core™ i7 de 10ma generación 16 gb 512 gb wi-fi 6 (802.11ax) negro windows 10 pr\"",
+         "price" : "1834",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 512 gb 31,2 cm (12.3\"\") intel® core™ i7 de 10ma generación 16 gb wi-fi 6 (802.11ax) w - pvu-00004#kitbl\"",
+         "price" : "1834",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 512 gb 31,2 cm (12.3\"\") intel® core™ i7 de 10ma generación 16 gb wi-fi 6 (802.11ax) windows - pvu-00004\"",
+         "price" : "1835",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 4g lte-a 256 gb 31,2 cm (12.3\"\") intel® core™ i5 de 11ma generación 16 gb wi-fi 6 (802.11ax) windows 1\"",
+         "price" : "1899",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 1024 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados plata\"",
+         "price" : "1918",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"apple - ipad pro 4g lte 1024 gb 32,8 cm (12.9\"\") 6 gb wi-fi 6 (802.11ax) ipados gris\"",
+         "price" : "1918",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - f110 g5 128 gb 29,5 cm (11.6\"\") 8ª generación de procesadores intel® core™ i3 4 gb wi-fi 5 (802.11ac) windows 10 pro negr\"",
+         "price" : "1957",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro x 4g lte 512 gb 33 cm (13\"\") 16 gb wi-fi 5 (802.11ac) windows 10 pro negro\"",
+         "price" : "2053",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro x 4g lte 512 gb 33 cm (13\"\") 16 gb wi-fi 5 (802.11ac) windows 10 pro platino\"",
+         "price" : "2110",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 512 gb 31,2 cm (12.3\"\") intel® core™ i7 de 10ma generación 16 gb wi-fi 6 (802.11ax) windows 10 pro negr\"",
+         "price" : "2153",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7 1024 gb 31,2 cm (12.3\"\") intel® core™ i7 de 10ma generación 16 gb wi-fi 6 (802.11ax) windows 10 pro pla\"",
+         "price" : "2168",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 512 gb 31,2 cm (12.3\"\") intel® core™ i7 de 11ma generación 16 gb wi-fi 6 (802.11ax) windows 10 pro neg\"",
+         "price" : "2185",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 512 gb 31,2 cm (12.3\"\") intel® core™ i7 de 11ma generación 16 gb wi-fi 6 (802.11ax) windows 10 pro pla\"",
+         "price" : "2185",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - thor vm1a 20,3 cm (8\"\") qualcomm snapdragon 4 gb 32 gb wi-fi 5 (802.11ac) negro android 8.1 oreo\"",
+         "price" : "2215",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10a 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb 32 gb wi-fi 5 (802.11ac) negro\"",
+         "price" : "2260",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10w-l00-17c12s0e tablet 25,6 cm (10.1\"\") intel® pentium® 8 gb 128 gb wi-fi 5 (802.11ac) negro windows 10\"",
+         "price" : "2411",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10a 32 gb 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) negro - rt10a-l0n-18c12s0e\"",
+         "price" : "2461",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10a 4g lte-tdd & lte-fdd 32 gb 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) ne - rt10a-l1n-17c12s0e\"",
+         "price" : "2461",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10w 25,6 cm (10.1\"\") intel® pentium® 8 gb 128 gb wi-fi 5 (802.11ac) negro windows 10\"",
+         "price" : "2511",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10a 4g lte-tdd & lte-fdd 32 gb 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) ne - rt10a-l1n-17c12s1e\"",
+         "price" : "2562",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10a 32 gb 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) negro - rt10a-l0n-18c12e0e\"",
+         "price" : "2562",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10w 128 gb 25,6 cm (10.1\"\") intel® pentium® 8 gb wi-fi 5 (802.11ac) windows 10 negro\"",
+         "price" : "2612",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10w 25,6 cm (10.1\"\") intel® pentium® 8 gb 128 gb wi-fi 5 (802.11ac) 4g lte negro windows 10 - rt10w-l10-17c12s0e\"",
+         "price" : "2612",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"microsoft - surface pro 7+ 1000 gb 31,2 cm (12.3\"\") intel® core™ i7 de 11ma generación 16 gb wi-fi 6 (802.11ax) windows 10 pro pl\"",
+         "price" : "2643",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10a 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb 32 gb wi-fi 5 (802.11ac) 4g lte-tdd & lte-fdd ne - rt10a-l1n-18c12s0e\"",
+         "price" : "2662",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10a 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb 32 gb wi-fi 5 (802.11ac) 4g lte-tdd & lte-fdd ne - rt10a-l1n-18c22s0e\"",
+         "price" : "2662",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - ux10 g2 256 gb 25,6 cm (10.1\"\") intel® core™ i5 de 10ma generación 8 gb wi-fi 6 (802.11ax) windows 10 pro negro\"",
+         "price" : "2704",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10w 25,6 cm (10.1\"\") intel® pentium® 8 gb 128 gb wi-fi 5 (802.11ac) 4g lte negro windows 10 - rt10w-l10-17c12s1e\"",
+         "price" : "2712",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10w 128 gb 25,6 cm (10.1\"\") intel® pentium® 8 gb wi-fi 5 (802.11ac) windows 10 pro negro\"",
+         "price" : "2712",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10w 25,6 cm (10.1\"\") intel® pentium® 8 gb 128 gb wi-fi 5 (802.11ac) 4g lte negro windows 10 - rt10w-l10-17c12e0e\"",
+         "price" : "2712",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - f110 g5 256 gb 29,5 cm (11.6\"\") 8ª generación de procesadores intel® core™ i5 8 gb wi-fi 5 (802.11ac) wind - fl21z4ji1djx\"",
+         "price" : "2727",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10a 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb 32 gb wi-fi 5 (802.11ac) 4g lte-tdd & lte-fdd ne - rt10a-l1n-18c12e0e\"",
+         "price" : "2763",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10a 4g lte-tdd & lte-fdd 32 gb 25,6 cm (10.1\"\") qualcomm snapdragon 4 gb wi-fi 5 (802.11ac) ne - rt10a-l1n-18c12s1e\"",
+         "price" : "2763",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10w 4g lte 128 gb 25,6 cm (10.1\"\") intel® pentium® 8 gb wi-fi 5 (802.11ac) windows 10 negro - rt10w-l10-18c12s0e\"",
+         "price" : "2813",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - f110 g5 256 gb 29,5 cm (11.6\"\") 8ª generación de procesadores intel® core™ i5 8 gb wi-fi 5 (802.11ac) wind - fl21z4ji1hxx\"",
+         "price" : "2847",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10w 4g lte 128 gb 25,6 cm (10.1\"\") intel® pentium® 8 gb wi-fi 5 (802.11ac) windows 10 negro - rt10w-l10-18c12s1e\"",
+         "price" : "2913",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"honeywell - rt10w 4g lte 128 gb 25,6 cm (10.1\"\") intel® pentium® 8 gb wi-fi 5 (802.11ac) windows 10 negro - rt10w-l10-18c12e0e\"",
+         "price" : "2913",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"ads-tec - itc8113 120 gb 33,8 cm (13.3\"\") intel® celeron® 8 gb wi-fi 4 (802.11n) windows 10 negro\"",
+         "price" : "2938",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"ads-tec - itc8113 4g 120 gb 33,8 cm (13.3\"\") intel® celeron® 8 gb wi-fi 4 (802.11n) windows 10 negro\"",
+         "price" : "3264",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - ex80 128 gb 20,3 cm (8\"\") intel atom® 4 gb wi-fi 4 (802.11n) windows 10 pro negro, amarillo\"",
+         "price" : "3403",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"ads-tec - itc8113 120 gb 33,8 cm (13.3\"\") 4ª generación de procesadores intel® core™ i5 8 gb wi-fi 4 (802.11n) windows 10 negro\"",
+         "price" : "3489",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"ads-tec - itc8113 4g lte 120 gb 33,8 cm (13.3\"\") 4ª generación de procesadores intel® core™ i5 8 gb wi-fi 4 (802.11n) windows 10 \"",
+         "price" : "3815",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - ex80 4g lte 128 gb 20,3 cm (8\"\") intel atom® 4 gb wi-fi 4 (802.11n) windows 10 pro negro, amarillo\"",
+         "price" : "3884",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"getac - a140 g2 256 gb 35,6 cm (14\"\") intel® core™ i5 de 10ma generación 8 gb wi-fi 6 (802.11ax) windows 10 pro negro\"",
+         "price" : "3275",
+         "shop" : "Zbitt",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"samsung galaxy tab active 2 t395 16 gb 4g 8\"\" black\"",
+         "price" : "483.9",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"spc tablet gravity pro 10.1\"\" ips 32 gb white\"",
+         "price" : "152.05",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"tablet 10.1\"\" spc gravity ips 2gb/16gb 3g/4g blanco\"",
+         "price" : "139",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"tablet 10.3\"\" lenovo tb-x606f oc 4gb 64gb fullhd\"",
+         "price" : "210.5",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"tablet 13.3\"\" hannspree hannspad 2gb 16gb fullhd android5.1\"",
+         "price" : "276.25",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"tablet 7\"\" innjoo f702 white 3g 1gb/16gb android6.0\"",
+         "price" : "65.9",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"tablet bq aquaris e10 10.1\"\" octacore 2gb 16gb android4.4 bla\"",
+         "price" : "276.7",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "Tablet huawei matepad 10.4 3gb/32gb 8mp/8gb midnight grey",
+         "price" : "209",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"tablet x101pro+ 10.1\"\" ips 32 gb silver billow\"",
+         "price" : "120.45",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"tablet x703 7\"\" ips 8 gb gps 3g black billow\"",
+         "price" : "72.6",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"tablet x703 7\"\" ips 8 gb gps 3g white billow\"",
+         "price" : "72.6",
+         "shop" : "Modpc",
+         "type" : "tablets"
+      }, {
+         "desc" : "\"ipad pro 11\"\" (2ª gen) 1tb wifi gris espacial\"",
+         "price" : "1319",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad pro 11\"\" (2ª gen) 1tb wifi plata\"",
+         "price" : "1319",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad pro 11\"\" (2ª gen) 128gb celular plata\"",
+         "price" : "939",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 32gb wifi gris espacial\"",
+         "price" : "379",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 32gb wifi plata\"",
+         "price" : "379",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 32gb wifi oro\"",
+         "price" : "379",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 128gb wifi gris espacial\"",
+         "price" : "479",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 128gb wifi plata\"",
+         "price" : "479",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 128gb wifi oro\"",
+         "price" : "479",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 32gb wifi + cellular gris espacial\"",
+         "price" : "519",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 32gb wifi + cellular plata\"",
+         "price" : "519",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 32gb wifi + cellular oro\"",
+         "price" : "519",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 128gb wifi + cellular gris espacial\"",
+         "price" : "619",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 128gb wifi + cellular plata\"",
+         "price" : "619",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ipad 10,2\"\" 128gb wifi + cellular oro\"",
+         "price" : "619",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 64 gb wifi gris espacial",
+         "price" : "649",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 64 gb wifi plata",
+         "price" : "649",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 64 gb wifi oro rosa",
+         "price" : "649",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 64 gb wifi verde",
+         "price" : "649",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 64 gb wifi azul",
+         "price" : "649",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 256gb wifi gris espacial",
+         "price" : "819",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 256gb wifi plata",
+         "price" : "819",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 256gb wifi oro rosa",
+         "price" : "819",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 256gb wifi verde",
+         "price" : "819",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 256gb wifi azul",
+         "price" : "819",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 64 gb wifi + cellular gris espacial",
+         "price" : "789",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 64 gb wifi + cellular plata",
+         "price" : "789",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 64 gb wifi + cellular oro rosa",
+         "price" : "789",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 64 gb wifi + cellular verde",
+         "price" : "789",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 64 gb wifi + cellular azul",
+         "price" : "789",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 256 gb wifi + cellular gris espacial",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 256 gb wifi + cellular plata",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 256 gb wifi + cellular oro rosa",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 256 gb wifi + cellular verde",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad air 256 gb wifi + cellular azul",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi 64 gb plata",
+         "price" : "449",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi 64 gb oro",
+         "price" : "449",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi 256 gb gris espacial",
+         "price" : "619",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi 256 gb plata",
+         "price" : "619",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi 256 gb oro",
+         "price" : "619",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi + cellular 64 gb gris espacial",
+         "price" : "589",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi + cellular 64 gb plata",
+         "price" : "589",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi + cellular 64 gb oro",
+         "price" : "589",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi + cellular 256 gb gris espacial",
+         "price" : "759",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi + cellular 256 gb plata",
+         "price" : "759",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ipad mini wifi + cellular 256 gb oro",
+         "price" : "759",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      } ]
+   }
+}

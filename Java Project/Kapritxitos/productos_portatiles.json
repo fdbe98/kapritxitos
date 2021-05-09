@@ -1,0 +1,4390 @@
+{
+   "inventory" : {
+      "products" : [ {
+         "desc" : "Apple macbook air 13,3'' m1 8c/7c 8/512gb gris espacial",
+         "price" : "1155",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 8c/7c 8/256gb gris espacial",
+         "price" : "959",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 8c/7c 8/512gb plata",
+         "price" : "1155",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 8c/7c 16/512gb plata",
+         "price" : "1350",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 256gb oro",
+         "price" : "959",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 8c/7c 16gb/1tb gris espacial",
+         "price" : "1529",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 8c/7c 8/512gb oro",
+         "price" : "1155",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook pro 13,3'' m1 16/512gb touch bar gris espacial",
+         "price" : "1614",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 8c/7c 16/512gb gris espacial",
+         "price" : "1350",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook pro 13,3'' m1 8/256gb touch bar plata",
+         "price" : "1231",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook pro 13,3'' m1 256gb touch bar gris espacial",
+         "price" : "1231",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 8c/8c 8/512gb plata",
+         "price" : "1189",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 8c/7c 8/256gb plata",
+         "price" : "959",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 8c/8c 16/512gb gris espacial",
+         "price" : "959",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook air 13,3'' m1 8c/7c 16/512gb oro",
+         "price" : "1350",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple macbook pro 13\"\" i5 1.4ghz 512gb touch bar gris espacial\"",
+         "price" : "1444",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook pro 13,3'' m1 8c/8c 8/512gb touch bar gris espacial",
+         "price" : "1427",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook pro 16'' i9 2.3ghz 1tb touch bar gris espacial",
+         "price" : "2719",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook pro 13,3'' m1 8c/8c 16gb/2tb touch bar gris espacial",
+         "price" : "2719",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple macbook pro 13,3'' m1 8c/8c 16gb/1tb touch bar plata",
+         "price" : "2719",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi gs66 stealth 10se-051es 15,6'' negro",
+         "price" : "1699",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil msi modern 15 a11sb-011es 15,6'' negro",
+         "price" : "1149",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil msi prestige 15 a10sc-295es 15,6'' gris",
+         "price" : "1349",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi gp75 leopard 10sek-018es 17,3'' negro",
+         "price" : "1349",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil msi creator 17 a10se-206es 17,3'' gris",
+         "price" : "1349",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi gl65 leopard 10ser-468xes 15,6'' negro sin s.o.",
+         "price" : "1199",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil msi prestige 14 a11scx-060es 14'' blanco",
+         "price" : "1449",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil msi modern 14 b11sb-008es 14'' negro",
+         "price" : "1399",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi gl65 leopard 10sek-429es 15,6'' negro",
+         "price" : "1649",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi gf63 thin 10scsr-835es 15,6'' negro",
+         "price" : "1199",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi gp65 leopard 10sek-029es 15,6'' negro",
+         "price" : "1199",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi gs65 stealth 9sf-454es 15,6'' negro",
+         "price" : "1199",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil msi prestige 14 a10rb-021es 14'' negro",
+         "price" : "1169",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi gs65 stealth 9sd-1426xes 15,6'' negro sin s.o.",
+         "price" : "1169",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi gs75 stealth 9sf-1041es 17,3'' negro",
+         "price" : "1169",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi ge75 raider 9se-1236es 17,3'' negro",
+         "price" : "1742",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil msi prestige 15 a10sc-008es 15,6'' negro",
+         "price" : "1742",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil msi 15.6\"\"\"\" / 16 gb ddr4 ram | 512 gb ssd / windows 10\"",
+         "price" : "1742",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil msi 17,3\"\"\"\" / 32 gb de memoria ddr4 | nvme pcie m.2 1 tb ssd / windows 10\"",
+         "price" : "1742",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil 17.3\"\"\"\" msi / 32gb de memoria ddr4 | nvme pcie m.2 512gb ssd / windows 10\"",
+         "price" : "1742",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming lenovo legion y540-15irh 1tb + 512gb 15,6'' negro",
+         "price" : "1279",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming lenovo legion y540-15irh 15,6'' negro",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming lenovo legion y540-15irh 1tb + 512gb 15,6'' negro",
+         "price" : "1279",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming lenovo legion 7 15imh05 15,6'' gris",
+         "price" : "2490",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming lenovo legion y540-15irh 15,6'' negro sin s.o.",
+         "price" : "2490",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming lenovo legion y540-15irh 15,6'' negro",
+         "price" : "2490",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming lenovo legion y540-17irh 17,3'' negro sin s.o.",
+         "price" : "1529",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil lenovo 17.3\"\"\"\" legion 5 / 16gb ddr4 ram | 512gb nvme m.2 ssd m.2 / windows 10\"",
+         "price" : "1529",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lenovo ideapad 5 15itl05 15,6'' gris",
+         "price" : "1529",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 lenovo ideapad flex 5 14itl05 14'' gris",
+         "price" : "1529",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil lenovo thinkbook 14 iil 20sl000msp 14\"\" 256gb ssd i5\"",
+         "price" : "1529",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 lenovo ideapad flex 5 cb 13iml05 13,3'' gris",
+         "price" : "1529",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 lenovo yoga chromebook c630 15,6'' azul medianoche",
+         "price" : "1529",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 lenovo ideapad flex 5 14iil05 14'' gris",
+         "price" : "662",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 lenovo ideapad flex 5 14iil05 i5 14'' gris",
+         "price" : "730",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lenovo ideapad s540-14iwl 14'' gris sin s.o.",
+         "price" : "730",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 lenovo ideapad c340-14iml 14'' plata",
+         "price" : "730",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lenovo yoga s730-13iwl 13,3'' gris",
+         "price" : "730",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 lenovo yoga c930-13ikb 13,9'' mica",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil lenovo 15.6\"\"\"\" / 8 go de ram ddr4 | 256 go ssd / windows 10\"",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo 15.6\"\"\"\" ideapad 5 laptop - 2.3 ghz - 8gb - 512 gb ssd/ windows 10\"",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portatil lenovo v15-iil i5-1035g1/8g/256ssd/15.6/w10pro",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portatil lenovo v14-iil i5-1035g1/8g/256ssd/14/w10",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil lenovo thinkpad e15 20rd001fsp 15.6\"\" 256gb ssd i5\"",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo v14-iil 14\"\"\"\" 8/256gb ssd i5-1035g1\"",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Pc portátil lenovo v330-14ikb 81b0004msp 14'' i5-8250u 8gb 256gb",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portatil lenovo v130-14ikb i5-7200u 14fhd 8gb 256ssd hdmi gibalan w10 webcam peso 1,55kg",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo 500-15isk 80nt - core i5 2.3 ghz - 15.6\"\"\"\" - 8 gb ram\"",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 lenovo ideapad flex 5 cb 13iml05 13,3'' gris",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lenovo thinkbook 15-iil 20sm002lsp 15,6'' plata",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo 14\"\"\"\" - 8gb - 256gb ssd / windons 10\"",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Pc portátil lenovo c15-iil i3 8/256gb ssd w10 home",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Pc portátil lenovo thinkpad edge e540",
+         "price" : "1184",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp omen laptop 15-en0008ns 15,6'' negro",
+         "price" : "1189",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp pavilion 15-ec2016ns 15,6'' negro",
+         "price" : "722",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp omen 15-en0000ns 15,6'' negro",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp pavilion 15-dk0035ns 15,6'' negro",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp pavilion 16-a0016ns 16'' negro",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp omen laptop 15-ek0010ns 15,6'' negro",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp laptop 15s-fq2099ns 15,6'' plata sin s.o.",
+         "price" : "577",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp envy laptop 17-cg1000ns 17,3'' plata",
+         "price" : "1062",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp envy laptop 13-ba1016ns 13,3'' plata",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 hp pavilion x360 14-dw1012ns 14'' plata",
+         "price" : "807",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp 15s-fq1079ns 15,6'' plata",
+         "price" : "764",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp envy laptop 13-ba1019ns 13,3'' oro",
+         "price" : "934",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp envy 15-ep0012ns 15,6'' plata",
+         "price" : "1317",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp envy 14-eb0002ns 14'' plata",
+         "price" : "1232",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp notebook 15s-fq1053ns 15,6'' blanco",
+         "price" : "1232",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp pavilion 16-a0016ns 16'' negro",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp pavilion 15-cs3021ns 15,6'' blanco",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp pavilion 15-cs3020ns 15,6'' plata",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp omen laptop 15-ek0010ns 15,6'' negro",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp envy 13-ba0004ns 13,3'' plata",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp 15s-fq1059ns 15,6'' blanco",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 hp spectre x360 13-ap0001ns 13,3'' azul",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil hp 15.6\"\"\"\" / 8 gb ddr4 ram | 512 gb pcie m.2 ssd disk / windows 10\"",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil hp 15.6\"\"\"\" / 16 gb de ram ddr4 | 512 gb de disco ssd pcie m.2 / windows 10\"",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil hp 17.3\"\"\"\" / 8 gb ddr4 ram | 512 gb pcie m.2 ssd disk / windows 10\"",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Pc portátil hp 16.1 / 16 gb ddr4 ram | nvme m.2 512 gb pcie ssd / windows 10",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp omen laptop 15-ek0010ns 15,6'' negro",
+         "price" : "1247",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp pavilion 16-a0016ns 16'' negro",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus rog zephyrus s17 gx701lws 17,3'' negro",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil acer aspire 3 a315-56 15,6'' negro",
+         "price" : "479",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp laptop 15s-fq2099ns 15,6'' plata sin s.o.",
+         "price" : "577",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp envy laptop 17-cg1000ns 17,3'' plata",
+         "price" : "1062",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 hp pavilion x360 14-dw1010ns 14'' azul",
+         "price" : "594",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus tuf dash f15 fx516pm-hn023 15,6'' negro sin s.o.",
+         "price" : "1104",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus x413ja-eb470t 14'' negro",
+         "price" : "552",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus l203ma-fd105ts 11,6'' gris",
+         "price" : "220",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Pc gaming lenovo legion t5 28imb05 sin s.o.",
+         "price" : "781",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Tablet lenovo ideapad duet 3 10igl5 10,3'' 128gb gris",
+         "price" : "449",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus zenbook 14 ux425ea-hm165t 14'' gris",
+         "price" : "934",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Todo en uno hp 24-df0002ns 24'' blanco",
+         "price" : "679",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus laptop e410ma-ek007ts 14'' azul",
+         "price" : "254",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming msi gs66 stealth 10se-051es 15,6'' negro",
+         "price" : "1699",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lenovo ideapad 5 15itl05 15,6'' gris",
+         "price" : "1699",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil hp pavilion laptop 15-eg0005ns 15,6'' plata sin s.o.",
+         "price" : "594",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Tablet lenovo ideapad duet 3 10igl5 10,3'' 64gb gris",
+         "price" : "330",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil toshiba dynabook satellite l50-g-18r 15,6'' negro",
+         "price" : "759",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus rog zephyrus g14 ga401ii-he004t 14'' gris",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Todo en uno hp 22-df0024ns 21,5'' blanco nieve",
+         "price" : "424",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus  rog zephyrus g14 ga401iu-ha134t 14'' negro",
+         "price" : "1359",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming hp omen 15-en0000ns 15,6'' negro",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil primux ioxbook 15r5a 15,6'' gris",
+         "price" : "1019",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 gaming asus gv301qh-k6069t 13,4'' negro",
+         "price" : "1529",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Todo en uno lenovo ideacentre 24are05 24'' negro",
+         "price" : "552",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Microsoft surface laptop 4 15'' amd r7 8gb 512gb negro",
+         "price" : "552",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil huawei matebook d 15 15,6'' gris",
+         "price" : "649",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 hp envy 13-ay0001ns 13,3'' negro",
+         "price" : "764",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Pc sobremesa asus s425mc-r3220g032t negro",
+         "price" : "424",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Todo en uno lenovo ideacentre aio 3 22ada05 22'' negro",
+         "price" : "339",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Todo en uno hp 27-dp0012ns 27'' plata",
+         "price" : "594",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus rog zephyrus g14 ga401iu-ha068 14'' blanco",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus rog zephyrus g15 ga503qs-hq073t 15,6'' negro",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming rog zephyrus g14 ga401ii-he004 14'' negro sin s.o.",
+         "price" : "1189",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Todo en uno hp 27-dp0015ns 27'' plata",
+         "price" : "679",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus tuf a15 fa506qr-az001 15,6'' negro sin s.o.",
+         "price" : "679",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus rog strix scar 17 g733qs-hg026t 17,3'' negro",
+         "price" : "679",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Pc sobremesa hp slim s01-af0031ns negro",
+         "price" : "339",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil acer aspire 3 a315-56 15,6'' negro",
+         "price" : "479",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil acer sf314-57-5217 14'' plata",
+         "price" : "764",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil acer extensa 15 ex215-22-r322 15.6\"\"\"",
+         "price" : "764",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 acer chromebook spin 513 13,3'' plata",
+         "price" : "764",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil acer swift 5 sf514-55t 14'' negro",
+         "price" : "999",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 acer chromebook spin cp713-2w 13,5'' gris",
+         "price" : "999",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 acer chromebook spin 713 cp713-2w 13,5'' gris",
+         "price" : "999",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil acer aspire 3 a315-56 15,6'' negro",
+         "price" : "535",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming acer predator helios 300 ph315-52 15,6'' negro",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming acer vx5-591g-70ad negro",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil acer nitro 5 con 15.6\"\"\"\" / 16 gb de memoria ddr4 | nvme pcie m.2 512 gb ssd / windows 10\"",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil acer 15.6\"\"\"\" / 16 gb de memoria ddr4 | nvme pcie m.2 1 tb ssd / windows 10\"",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil acer 15.6\"\"\"\" / 32gb ddr4 ram | 1tb ssd m.2 / windows 10\"",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil acer 17.3\"\"\"\" / 16 gb ddr4 ram | 1 tb ssd m.2 / windows 10\"",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil acer 15.6\"\"\"\" gaming / 16 gb ddr4 ram | 512 gb ssd m.2 / windows 10\"",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Pc portátil acer 15.6 / 16 gb ddr4 ram | ssd 1 tb / windows 10",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil acer nitro 5 15.6\"\"\"\" / 16gb memoria ddr4 | nvme pcie m.2 512gb ssd / windows 10\"",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg gram 17z90p-g.aa79b 17'' blanco",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg gram 14z90p-g.aa78b 14'' negro",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg gram 16z90p-g.aa78b 16'' negro",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg gram 15z95n-g.aa78b 15,6'' plata",
+         "price" : "1444",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg gram 17z95n-g.aa78b 17'' plata",
+         "price" : "1571",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg gram 14z90n-v-ar51b 14'' gris",
+         "price" : "959",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg ultra 17u70n-j.aa78b 17'' gris",
+         "price" : "1529",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg ultra 15u70n-j.aa78b 15,6'' gris",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg gram 17z90n-vaa78b 17'' plata",
+         "price" : "1487",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg gram 15z90n-vaa78b 15'' plata",
+         "price" : "1359",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg gram 14z90n-var55b 14'' plata",
+         "price" : "1004",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil lg gram 14z90n-var50b 14'' plata",
+         "price" : "749",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 lg gram 14t90n-vaa78b 14'' plata",
+         "price" : "1486",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Ultrabook lg 14z90n-v.aa78b i7-1065g7/8g/512ssd/14/w10 g",
+         "price" : "1486",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"ultrabook lg 14z90n-v i5-1035g7/8g/256ssd/14\"\"\"\"/w10 plata\"",
+         "price" : "1486",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus tuf dash f15 fx516pm-hn023 15,6'' negro sin s.o.",
+         "price" : "1104",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus zenbook 14 ux425ea-hm165t 14'' gris",
+         "price" : "934",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 asus zenbook flip 13 ux363ea-hp359t 13,3'' gris",
+         "price" : "934",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus zenbook pro duo ux482eg-ka148t 14'' azul",
+         "price" : "934",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus zenbook pro duo ux581gv 15,6'' azul",
+         "price" : "2124",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"pc portátil asus b9450fa i7-10510u/16g/1tb ssd 14\"\"\"",
+         "price" : "2124",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus zenbook 13 ux325ea-kg245 13,3'' gris sin s.o.",
+         "price" : "2124",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus zenbook ux535lh-bn128t 15,6'' gris",
+         "price" : "2124",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus zenbook 14 ux425ea-ki358t 14'' gris",
+         "price" : "2124",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus zenbook pro duo 15 oled ux582lr-h2017t 15,6'' azul",
+         "price" : "2124",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus tuf gaming f17 fx706li-h7117  17,3'' negro sin s.o.",
+         "price" : "1062",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus zenbook ux535li-bn010t 15,6'' gris",
+         "price" : "1062",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus vivobook s14 s435ea-kc033t 14'' verde",
+         "price" : "849",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil gaming asus fx516pm-hn023t 15,6'' gris",
+         "price" : "1189",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 asus ux371ea-hl259t 13,3'' negro",
+         "price" : "1274",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus ux435eal-kc096t 14'' gris",
+         "price" : "1149",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus ux425ea-bm094t 14'' gris",
+         "price" : "1002",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus s433ea-am612t 14'' plata/blanco",
+         "price" : "764",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil asus k413ea-eb608t 14'' plata",
+         "price" : "722",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Convertible 2 en 1 asus tp412fa-ec655t 14'' gris",
+         "price" : "849",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil huawei matebook d 15 15,6'' gris",
+         "price" : "649",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil huawei matebook 13 2020 13'' plata",
+         "price" : "722",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil huawei matebook x pro 13,9'' 16/512gb gris",
+         "price" : "722",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil huawei matebook x pro 13,9'' gris",
+         "price" : "722",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil huawei matebook x pro 13,9'' 16gb/1tb gris",
+         "price" : "722",
+         "shop" : "Fnac",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil primux ioxbook n4000 8gb ssd256 15.6\"\" fhd w10pro\"",
+         "price" : "429",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"all-in-one medion e23403 i3-1005g1 8gb ssd256gb 23.8\"\" w10pro\"",
+         "price" : "519",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil lenovo v15-iil i5-1035g1 8gb ssd256 15.6\"\" dos\"",
+         "price" : "626.7",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil dell vostro i3-1005g1 8gb ssd256gb 15.6\"\" fhd win10p\"",
+         "price" : "650.9",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil hp i5-1135g7 8gb ssd512 15.6\"\" dos\"",
+         "price" : "677.3",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil medion akoya i5-1135g7 8gb ssd256 15.6\"\" fhd w10pro\"",
+         "price" : "699",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil acer extensa i5-1035g1 8gb ssd256 15.6\"\" fhd w10\"",
+         "price" : "735.4",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil medion akoya i5-1135g7 8gb ssd512 15.6\"\" fhd w10pro\"",
+         "price" : "739",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil asus m509da ryzen5 3500u 8gb ssd512 15.6\"\" fhd w10pro\"",
+         "price" : "749",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil acer extensa i5-1035g1 8gb ssd512 15.6\"\" fhd w10\"",
+         "price" : "759",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil lenovo v15 i5-1035g1 8gb ssd256 15.6\"\" fhd w10pro\"",
+         "price" : "763.6",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil hp 250 g7 i5-1035g1 16gb ssd512 mx110 15.6\"\" fhd w10\"",
+         "price" : "783.55",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil dell vostro 3400 i5-1135g7 8gb ssd512 14\"\" fhd w10pro\"",
+         "price" : "860.55",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil lenovo x395 ryzen5 16gb 512gb 13.3\"\" w10pro\"",
+         "price" : "888.7",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil hp 250 g8 i5-1137g7 16gb ssd512 15.6\"\" fhd w10pro\"",
+         "price" : "927",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil msi 15 a10m-628xes negro i5-10210u 16gb 512ssd w10p",
+         "price" : "949",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil dell latitude i5-8265u 8gb ssd256 13.3\"\" fhd w10pro\"",
+         "price" : "963.75",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Portátil msi gf63-876xes i7-10750 16ddr 1tb 1650ti dos",
+         "price" : "1094.55",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil gigabyte g5 i5-10500h 16gb ssd512 rtx3060 15.6\"\" w10\"",
+         "price" : "1199",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"portátil msi gf75-017xes i7-10750h 16gb 512 3060 17.3\"\" w10pr\"",
+         "price" : "1489.95",
+         "shop" : "Modpc",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook air 13\"\" chip m1 de apple 8gb 256gb gris espacial\"",
+         "price" : "1129",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook air 13\"\" chip m1 de apple 8gb 256gb plata\"",
+         "price" : "1129",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook air 13\"\" chip m1 de apple 8gb 256gb oro\"",
+         "price" : "1129",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook air 13\"\" chip m1 de apple 16gb 256gb plata\"",
+         "price" : "1359",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook air 13\"\" chip m1 de apple 16gb 256gb gris espacial\"",
+         "price" : "1359",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook air 13\"\" chip m1 de apple 8gb 512gb gris espacial\"",
+         "price" : "1399",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook air 13\"\" chip m1 de apple 8gb 512gb plata\"",
+         "price" : "1399",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook air 13\"\" chip m1 de apple 8gb 512gb oro\"",
+         "price" : "1399",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook air 13\"\" chip m1 de apple 16gb 512gb gris espacial\"",
+         "price" : "1629",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" chip m1 de apple 8gb 256gb gris espacial\"",
+         "price" : "1449",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" chip m1 de apple 8gb 256gb plata\"",
+         "price" : "1449",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" chip m1 de apple 8gb 512gb gris espacial\"",
+         "price" : "1679",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" chip m1 de apple 8gb 512gb plata\"",
+         "price" : "1679",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" chip m1 de apple 16gb 256gb gris espacial\"",
+         "price" : "1679",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" chip m1 de apple 16gb 512gb gris espacial\"",
+         "price" : "1909",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" chip m1 de apple 16gb 1tb gris espacial\"",
+         "price" : "2139",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" i5 1.4ghz 8gb 512gb gris espacial touch bar + disco duro 1tb\"",
+         "price" : "1619",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 16\"\" i7 2.6ghz 16gb 512gb gris espacial touch bar\"",
+         "price" : "2699",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" i5 1.4ghz 8gb 512gb plata touch bar + disco duro 1tb\"",
+         "price" : "1619",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" i5 2ghz 16gb 1tb gris espacial touch bar\"",
+         "price" : "2359",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 13\"\" i5 2ghz 16gb 1tb plata touch bar\"",
+         "price" : "2699",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 16\"\" i7 2.6ghz 16gb 512gb plata touch bar\"",
+         "price" : "2699",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 16\"\" i9 2.3ghz 16gb 1tb gris espacial touch bar\"",
+         "price" : "3199",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"macbook pro 16\"\" i9 2.3ghz 16gb 1tb plata touch bar\"",
+         "price" : "3199",
+         "shop" : "K-tuin",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"innjoo - voom portátil 35,8 cm (14.1\"\") 1366 x 768 pixeles intel® celeron® n 4 gb 64 gb flash wi-fi 4 (802.11n) windows 10 gris\"",
+         "price" : "266",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Medion - portatil medion e11201/11,6 hd/ic-n3450/1,10-2,20 ghz/4gb/64gb emmc/w10 pro academic/white",
+         "price" : "275",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"innjoo - voom laptop max portátil 35,8 cm (14.1\"\") 1366 x 768 pixeles intel® celeron® n 6 gb 64 gb windows 10 negro\"",
+         "price" : "295",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - e410ma-ek007ts - ordenador portátil de 14\"\" full hd (intel core n4020, 4gb ram, 64gb emmc, intel uhd graphics 600, windows\"",
+         "price" : "311",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - spin 1 n4020 4/64 w10hs+offi365",
+         "price" : "312",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 240 g8 ddr4-sdram portátil 35,6 cm (14\"\") 1366 x 768 pixeles intel® celeron® 4 gb 500 gb unidad de disco duro wi-fi 5 \"",
+         "price" : "323",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - ideapad duet híbrido (2-en-1) 25,6 cm (10.1\"\") 1920 x 1200 pixeles pantalla táctil mediatek 4 gb lpddr4x-sdram 128 gb em\"",
+         "price" : "332",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - chromebook 11a g8 ee ddr4-sdram 29,5 cm (11.6\"\") 1366 x 768 pixeles amd a4 4 gb 32 gb emmc wi-fi 5 (802.11ac) chrome os verde\"",
+         "price" : "341",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"innjoo - voom pro portátil 35,8 cm (14.1\"\") 1366 x 768 pixeles intel® celeron® n 6 gb 128 gb ssd windows 10 negro\"",
+         "price" : "350",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - chromebook 14 g6 lpddr4-sdram 35,6 cm (14\"\") 1366 x 768 pixeles pantalla táctil intel® celeron® 4 gb 32 gb emmc wi-fi\"",
+         "price" : "373",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 240 g8 ddr4-sdram portátil 35,6 cm (14\"\") 1366 x 768 pixeles intel® celeron® 8 gb 128 gb ssd wi-fi 5 (802.11ac) windows 10 \"",
+         "price" : "402",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - ideapad duet 3 10igl5 híbrido (2-en-1) 26,2 cm (10.3\"\") 1920 x 1200 pixeles pantalla táctil intel® celeron® n 4 gb ddr4\"",
+         "price" : "409",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - chromebook 11 g8 ee lpddr4-sdram 29,5 cm (11.6\"\") 1366 x 768 pixeles pantalla táctil intel® celeron® 4 gb 32 gb emmc wi-fi 5\"",
+         "price" : "410",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"samsung - chromebook xe350xba lpddr4-sdram 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® celeron® n 6 gb 64 gb emmc wi-fi 5 (802.11)\"",
+         "price" : "411",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - 14w w a6 4/128 w10p mc00005720",
+         "price" : "416",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 240 g8 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® celeron® 8 gb 256 gb ssd wi-fi 5 (802.11ac) windows 10\"",
+         "price" : "442",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - tmb311rn-31 qc n4120 4gbgb 128ssd w10h",
+         "price" : "448",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - hp portatil g7 15a04ea - freedos - ryzen 3 3200u2.6ghz - 8gb - 256gb ssd sata - rad vega 3 - 15.6",
+         "price" : "449",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - extensa 15 ex215-52-37y7 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb ddr4-sdram\"",
+         "price" : "463",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g7 ddr4-sdram portátil 39,6 cm (15.6\"\") intel® core™ i3 de 10ma generación 8 gb 256 gb ssd negro\"",
+         "price" : "463",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v15 ada portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 3 8 gb ddr4-sdram 256 gb ssd wi-fi 5 (802.11ac) freedos\"",
+         "price" : "467",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb ddr4-sdram 256 - 82c500jssp\"",
+         "price" : "490",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g7 portátil 39,6 cm (15.6\"\") intel® core™ i3 de 10ma generación 8 gb ddr4-sdram 512 gb ssd negro\"",
+         "price" : "490",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook 15 s512ja-bq1028 - ordenador portátil de .6\"\" full hd (intel core i3-1005g1, 8gb ram, 256gb ssd, intel uhd graphics\"",
+         "price" : "490",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook x360 11 g5 ee ddr4-sdram híbrido (2-en-1) 29,5 cm (11.6\"\") 1366 x 768 pixeles pantalla táctil intel® celeron® 4 gb\"",
+         "price" : "500",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v14 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb 256 gb ssd wi-fi 5\"",
+         "price" : "503",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 15s-eq1010ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles amd ryzen 3 8 gb 512 gb ssd wi-fi 4 (802.11n) windows 10\"",
+         "price" : "503",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - laptop i3-1005g1 8g 256g silver 14 w10h",
+         "price" : "510",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - hp stream 11 pro g5 notebook p syst 128gb 4gb 11in w10p sp",
+         "price" : "512",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - portátil 255 g7 ddr4-sdram 39,6 cm (15.6\"\") 1366 x 768 pixeles amd ryzen 3 8 gb 256 gb ssd wi-fi 5 (802.11ac) windows 10 home\"",
+         "price" : "517",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - cs/ex215-22r33250u 8gb 256gbssdw10shm",
+         "price" : "518",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles amd ryzen 3 8 gb ddr4-sdram 256 gb ssd wi-fi 5 (802.11ac) windows 10\"",
+         "price" : "522",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - f415ja-bv393t - ordenador portátil de 14\"\" hd (intel core i3-1005g1, 8gb ram, 256gb ssd, intel uhd graphics, windows 10\"",
+         "price" : "525",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3501 ddr4-sdram portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles intel® core™ i3 de 10ma generación 4 gb 256 gb ssd wi-fi\"",
+         "price" : "535",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - duet 3 10igl5 pentium n5030 syst 8gb 128gb 10in w10h in",
+         "price" : "538",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 15s-fq2028ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd wi-f\"",
+         "price" : "544",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 255 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb 256 gb ssd wi-fi 5 (802.11ac) freedos grafi\"",
+         "price" : "544",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3501 portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles intel® core™ i3 de 10ma generación 4 gb ddr4-sdram 256 gb ssd wi-fi\"",
+         "price" : "544",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb ddr4-sdram 256 - 82c500g5sp\"",
+         "price" : "546",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"fujitsu - lifebook a3510 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb 256 gb\"",
+         "price" : "551",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v15 ada portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 3 8 gb ddr4-sdram 256 gb ssd wi-fi 5 (802.11ac) windows\"",
+         "price" : "557",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v15 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 11ma generación 8 gb 256 - 82kb0004sp\"",
+         "price" : "557",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g7 ddr4-sdram portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles intel® core™ i3 de 10ma generación 8 gb 256 gb ssd wi-fi 5\"",
+         "price" : "558",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - m415da-ek274t - ordenador portátil de 14\"\" full hd (amd ryzen 5 3500u, 8gb ram, 512gb ssd, amd radeon vega 8, windows 10 h\"",
+         "price" : "567",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 11ma generación 8 gb 256 gb ssd - 2w9a0ea\"",
+         "price" : "571",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v15 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb 512 gb ssd wi-fi\"",
+         "price" : "571",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - satp c50-e-11n i3-7020u 8/256 w10p",
+         "price" : "575",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v15 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 11ma generación 8 gb 512 gb ssd wi-fi\"",
+         "price" : "584",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook 15 p1511cja-br743r - ordenador portátil de .6\"\" hd (intel core i3-1005g1, 8gb ram, 256gb ssd, intel uhd graphics\"",
+         "price" : "584",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - extensa 15 ex215-22-r84h ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb 512 gb ssd wi-fi 5\"",
+         "price" : "585",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - tmp215-52 ci310110u 8gb 256gbssd w10p",
+         "price" : "597",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v15 ddr4-sdram portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb ssd wi-fi\"",
+         "price" : "597",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3501 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb 256 g - dpdmv\"",
+         "price" : "600",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3501 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb 256 g - t67nx\"",
+         "price" : "602",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 11ma generación 8 gb 256 gb ssd - 2w8z8ea\"",
+         "price" : "609",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - satp c50-e-11l i3 8/256 w10p",
+         "price" : "614",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 255 g7 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb 256 gb ssd wi-fi 5 (802.11ac) windows 10 pro\"",
+         "price" : "621",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v15 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 11ma generación 8 gb 256 - 82kb0003sp\"",
+         "price" : "622",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g7 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 512 gb ssd wi-fi 5\"",
+         "price" : "624",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd wi-fi 4\"",
+         "price" : "624",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - y1511cda-br582r - ordenador portátil de 15.6\"\" hd (amd ryzen 5 3500u, 8gb ram, 256gb ssd, amd radeon vega 8, windows 10 pro\"",
+         "price" : "630",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 255 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb 256 gb ssd wi-fi 6 (802.11ax) windows 10 home\"",
+         "price" : "631",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 255 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb 256 gb ssd wi-fi 5 (802.11ac) windows 10 home\"",
+         "price" : "636",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - hp 250g7 i3-1005g1 15 8gb/256 pc",
+         "price" : "644",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - sat pro c40-g-119 i3-10110u 8g 256g w10p",
+         "price" : "647",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3500 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 11ma generación 8 gb 256 gb ssd\"",
+         "price" : "659",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dynabook - satellite pro c50-h-103 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8\"",
+         "price" : "659",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - f415ja-ek395t - ordenador portátil de 14\"\" full hd (intel core i5-1035g1, 8gb ram, 512gb ssd, intel uhd graphics, windows 10\"",
+         "price" : "662",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook flip tp412fa-ec641t - ordenador portátil de 14\"\" full hd (intel core i3-10110u, 8gb ram, 256gb ssd, intel uhd gra\"",
+         "price" : "663",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - vivob flip i3-1011u 8g256g grey 14 w10h",
+         "price" : "664",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - m415da-ek337t - ordenador portátil de 14\"\" full hd (amd ryzen 7 3700u, 8gb ram, 512gb ssd, amd radeon rx vega 10, windows 10\"",
+         "price" : "665",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - cs/ex215-52-59maci51035g18gb256gbssdw10h",
+         "price" : "666",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v14 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb ssd wi-fi 5\"",
+         "price" : "669",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop go portátil 31,6 cm (12.4\"\") 1536 x 1024 pixeles pantalla táctil intel® core™ i5 de 10ma generación 4\"",
+         "price" : "669",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tb14-iil i3-1005g1 8gb 256gb w10h",
+         "price" : "678",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 340s g7 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb 256 gb ssd wi-fi 6\"",
+         "price" : "681",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - p1411cja-bv377r - ordenador portátil de 14\"\" hd (intel core i5-1035g1, 8gb ram, 256gb ssd, intel uhd graphics, windows 10\"",
+         "price" : "686",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - extensa 15 ex215-52 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb\"",
+         "price" : "687",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v15 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd wi-fi 5\"",
+         "price" : "691",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd - 2w8y5ea\"",
+         "price" : "691",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - extensa 15 ex215-53g-56mt ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb\"",
+         "price" : "695",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook 14 x413ja-eb470 - ordenador portátil de \"\" full hd (intel core i5-1035g1, 8gb ram, 512gb ssd, intel uhd graphics\"",
+         "price" : "699",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 512 gb ssd wi-fi \"",
+         "price" : "705",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15 g2 portátil gris 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 3 8 gb ddr4-sdram 256 gb ssd wi-fi 6 (802.1)\"",
+         "price" : "705",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 15s-fq1048ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles intel® core™ i5 de 10ma generación 8 gb 512 gb ssd wi-fi 5\"",
+         "price" : "706",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 15s-fq2029ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 512 gb ssd\"",
+         "price" : "706",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook v15 iil portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb\"",
+         "price" : "711",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb ddr4-sdram 256 gb ssd\"",
+         "price" : "711",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 14 b10mw-474xes ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 512 gb\"",
+         "price" : "712",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 14 b10mw-421xes portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 512 gb\"",
+         "price" : "712",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 11ma generación 8 gb 256 gb ssd wi-fi 6\"",
+         "price" : "713",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - f415ja-ek398t - ordenador portátil de 14\"\" full hd (intel core i7-1065g7, 8gb ram, 512gb ssd, intel iris plus graphics\"",
+         "price" : "715",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15 iil portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb 256 gb ssd wi-fi 5\"",
+         "price" : "716",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - v v15 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 512 gb ssd wi-fi 5\"",
+         "price" : "718",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - expertbook i5-1035g1 8g512g grey 14w10p",
+         "price" : "719",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - vivobook 14 m413da-eb462t - ordenador portátil de full hd (amd ryzen 7 3700u, 8gb ram, 512gb ssd, amd radeon rx vega 10",
+         "price" : "719",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - expertb i5-1035g1 8g512g grey 15.6 w10p",
+         "price" : "719",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 15s-fq1165ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles intel® core™ i7 de 10ma generación 8 gb 512 gb ssd wi-f\"",
+         "price" : "722",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd wi-fi 5 (\"",
+         "price" : "725",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - p1411cja-bv378r - ordenador portátil de 14\"\" hd (intel core i5-1035g1, 8gb ram, 512gb ssd, intel uhd graphics, windows 10 \"",
+         "price" : "727",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - extensa 15 ex215-53g-59rl ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb\"",
+         "price" : "734",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3500 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb ddr4-sdram 256 gb ssd wi\"",
+         "price" : "738",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g7 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb ssd wi-fi 5 (\"",
+         "price" : "738",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp v15 gen2 i5-1135g7 4gb+4gb 256gb w10p",
+         "price" : "745",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i3 de 11ma generación 8 gb 256 gb ssd\"",
+         "price" : "745",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb ddr4-sdram 256 gb ssd w\"",
+         "price" : "751",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 15s-fq1060ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles intel® core™ i5 de 10ma generación 16 gb 512 gb ssd wi-\"",
+         "price" : "752",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i3 de 11ma generación 8 gb ddr4-sdram 256 gb ssd w\"",
+         "price" : "756",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - ex215-22 ryz5-3500u 8/256fhdw10h",
+         "price" : "757",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3400 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd wi-f\"",
+         "price" : "759",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - aspire 5 a515-56-77uc ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 8 gb 512\"",
+         "price" : "759",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tbook 15 ryzen 5 4500u 8/256 w10p",
+         "price" : "764",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tb 14 g2 ryzen 5 4500u 8gb 256gb w10p",
+         "price" : "764",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 340s g7 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ssd - 8vv95ea\"",
+         "price" : "765",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook flip tm420ia-ec198t - ordenador portátil de 14\"\" full hd (amd ryzen 5 4500u, 8gb ram, 512gb ssd, amd radeon graph\"",
+         "price" : "765",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 15 a10m-628xes ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb 512\"",
+         "price" : "766",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 15s-fq1005ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles intel® core™ i7 de 10ma generación 8 gb 256 gb ssd wi-f\"",
+         "price" : "767",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - notebook 14s-dq1018ns ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 8 gb 256 gb \"",
+         "price" : "770",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"huawei - matebook d 14 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 512 gb ssd \"",
+         "price" : "770",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - msi portatil modern 15 a10m-610xes. 15.6 fhd (1920*1080) 60hz. i5-10210u. uma. ddr4 16gb (2666mhz). 512gb ssd. free dos.",
+         "price" : "771",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dynabook - satellite pro c50-h-108 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 \"",
+         "price" : "774",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - satp c40-g-116 i5-10210u 8 256 w10p",
+         "price" : "777",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad e14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i3 de 10ma generación 8 gb ddr4-sdram 256 gb ssd w\"",
+         "price" : "778",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - cp713-2w ci310110u 8gb 128gbssd chrome",
+         "price" : "781",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook s15 s533ea-bn149t - ordenador portátil de 15.6\"\" full hd (intel core i5-1135g7, 8gb ram, 512gb ssd, intel iris xe\"",
+         "price" : "782",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g7 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb 512 gb ssd nvidia® \"",
+         "price" : "784",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 14s-dq1028ns ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 8 gb 512 gb ssd wi-fi\"",
+         "price" : "784",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 340s g7 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ssd - 8vv01ea\"",
+         "price" : "785",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - expertb i7-1065g7 8g512g grey 15.6 w10p",
+         "price" : "786",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - sat pro c40-h-101 i5-1035g1 8g 256g w10p",
+         "price" : "788",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - expertb i3-1005g1 8g256g grey 15.6 w10p",
+         "price" : "795",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - bravo 15 a4dcr-288xes portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb ddr4-sdram 512 gb ssd amd radeon rx 53\"",
+         "price" : "797",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3500 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 512 gb ssd\"",
+         "price" : "798",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - tmp214-53 ci51135g7 8gb 256gbssd w10p",
+         "price" : "799",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 3510 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb ssd \"",
+         "price" : "801",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 5301 lpddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd \"",
+         "price" : "802",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - pavilion 14-dv0002ns ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 512 gb s\"",
+         "price" : "803",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - chromebook cb714-1w-57wf 35,6 cm (14\"\") 1920 x 1080 pixeles 8ª generación de procesadores intel® core™ i5 8 gb ddr4-sdram \"",
+         "price" : "803",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - chromebook cb715-1w-50lt 39,6 cm (15.6\"\") 1920 x 1080 pixeles 8ª generación de procesadores intel® core™ i5 8 gb ddr4-sdra\"",
+         "price" : "803",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook s413fa-eb560t portátil negro 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdra\"",
+         "price" : "804",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14 portátil gris 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb \"",
+         "price" : "804",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 250 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd - 2w8y9ea\"",
+         "price" : "806",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - cs/sf314-57-5217 i5-1035g1 8gb 512gb w10",
+         "price" : "809",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - vivob i5-1135g7 8g 512g white 14 w10h",
+         "price" : "809",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook flip tp412fa-ec707t - ordenador portátil de 14\"\" full hd (intel core i5-10210u, 8gb ram, 512gb ssd, intel uhd gra\"",
+         "price" : "810",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook s14 s433ea-am423t - ordenador portátil de 14\"\" full hd (intel core i5-1135g7, 8gb ram, 512gb ssd, intel iris xe g\"",
+         "price" : "813",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ssd\"",
+         "price" : "813",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - pro p3540fa-bq1301r - ordenador portátil de 15.6\"\" full hd (intel core i5-8265u, 8gb ram, 256gb ssd, intel uhd graphics, w\"",
+         "price" : "815",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - satp c40-g-11g i5-10210u 8 512 w10p",
+         "price" : "816",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3400 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb ddr4-sdram 512 gb ssd wi-f\"",
+         "price" : "817",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 3410 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb ssd wi\"",
+         "price" : "818",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - flip i5-10210u 8gb 512gb w10h",
+         "price" : "819",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Microsoft - surface go2 intl core m3-8100y syst 128gb 8gb 10in w10s lte in",
+         "price" : "821",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - tmp214-53 ci51135g7 8gb 512gbssd w10p - nx.vq6eb.002",
+         "price" : "823",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - chromebook cb714-1w-32yx 35,6 cm (14\"\") 1920 x 1080 pixeles 8ª generación de procesadores intel® core™ i3 8 gb ddr4-sdram \"",
+         "price" : "825",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - chromebook cb715-1w-30jy 39,6 cm (15.6\"\") 1920 x 1080 pixeles 8ª generación de procesadores intel® core™ i3 8 gb ddr4-sdra\"",
+         "price" : "825",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - 15s-fq1053ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1366 x 768 pixeles intel® core™ i7 de 10ma generación 8 gb 512 gb ssd wi-f\"",
+         "price" : "829",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - pavilion x360 14-dw1007ns ddr4-sdram híbrido (2-en-1) 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i5 de \"",
+         "price" : "832",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop go portátil 31,6 cm (12.4\"\") 1536 x 1024 pixeles pantalla táctil intel® core™ i5 de 10ma g - 21l-00012\"",
+         "price" : "834",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - 340s g7 i5-1035g1 14 16/512 w10p",
+         "price" : "835",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tb 14 g2 itl i5-1135g7 8gb 256gb w10p",
+         "price" : "836",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb ddr4-sdram 256 gb ssd\"",
+         "price" : "836",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"toshiba - tecra a40-g-123 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb s\"",
+         "price" : "837",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkpad l14 amd ryzen_3_4300u syst 8gb 256gb_ssd 14in w10pro in",
+         "price" : "837",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - sat pro c40-h-100 i5-1035g1 8g 512g w10p",
+         "price" : "841",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb ddr4-sdram 256 gb ssd w\"",
+         "price" : "842",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"fujitsu - lifebook a3510 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb 512 gb\"",
+         "price" : "842",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - sat pro c50-g-10o i5-10210u 8g 512g w10p",
+         "price" : "844",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad e15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ssd\"",
+         "price" : "845",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - work i3-10110u 8/256 fhd chrome",
+         "price" : "849",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook 14 k413ea-eb608t - ordenador portátil de \"\" full hd (intel core i7-1165g7, 8gb ram, 512gb ssd, intel iris xe grap\"",
+         "price" : "853",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 5502 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd wi\"",
+         "price" : "855",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - tuf gaming fx505dt-bq121 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 7 16 gb 512 gb ssd nvidia® gef\"",
+         "price" : "857",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 5301 lpddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 512 gb ssd \"",
+         "price" : "857",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 5402 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd wi-f\"",
+         "price" : "858",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 15 a10rbs-485xes portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb ddr4-sdram 5\"",
+         "price" : "859",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - vivob i7-1165g7 8g 512g silver 14 w10h",
+         "price" : "860",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 15 a10m-627xes ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 512\"",
+         "price" : "860",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Honor - honor magicbook pro 16/512, amd ryzen 5 4600h, pantalla honor fullview de 16,1, batería de 56wh",
+         "price" : "864",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 3301 lpddr3-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles 8ª generación de procesadores intel® core™ i5 8 g\"",
+         "price" : "866",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - vivob i5-10510u 8gb 256gb ssd 14 w10p",
+         "price" : "872",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - x395 ryzen 5 13.3in 16gb 512gb syst w10p 3y sp",
+         "price" : "872",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 15 a10m-486xes ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 512\"",
+         "price" : "873",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - cp713-2w ci510210u 8gb 256gb ssd chrome",
+         "price" : "875",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 15 g2 itl ci3-11-8gb syst with microsoft 365 business stan",
+         "price" : "876",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook x360 435 g7 ddr4-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil amd ryzen 3 8 gb 256 gb\"",
+         "price" : "877",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Cer - ex215-53g ci7-1065g7 syst 8gb 512ssd 15in mx330 2gb w10h",
+         "price" : "880",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - expertbook p2 p2451fa-eb1533r - ordenador portátil de 14\"\" full hd (intel core i5-10210u, 8gb ram, 512gb ssd, intel uhd gr\"",
+         "price" : "882",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad e15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb ddr4-sdram 256 gb ssd\"",
+         "price" : "888",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 14 g2 itl ci3-11-8gb syst with microsoft 365 business stan",
+         "price" : "889",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - pavilion 14-dv0003ns ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 16 gb 512 gb \"",
+         "price" : "896",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad e14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb ddr4-sdram 256 gb ssd w\"",
+         "price" : "897",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - travelmate p2 p214-52-56mu portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram \"",
+         "price" : "898",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - sat pro c50-h-105 i7-1065g7 bga 8gb 256",
+         "price" : "904",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - l480 i5-8250u 8/256 w10p mc-ik",
+         "price" : "906",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad l13 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ssd\"",
+         "price" : "912",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3500 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 8 gb 512 gb ssd wi\"",
+         "price" : "918",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - tmp214-53 ci51135g7 8gb 512gbssd w10p - nx.vq7eb.001",
+         "price" : "924",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 440 g7 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ssd wi-\"",
+         "price" : "927",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad e14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ssd w\"",
+         "price" : "929",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14 portátil gris 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb ddr4-sdram 512 gb\"",
+         "price" : "929",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad l13 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb ddr4-sdram 256 gb ssd\"",
+         "price" : "929",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 430 g7 ddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb ssd w\"",
+         "price" : "931",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 13s portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ss\"",
+         "price" : "938",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - k/340sg7 i5-1035g1 14 8gb/256+sc165",
+         "price" : "941",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 14 b10rbsw-064xes portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 51\"",
+         "price" : "942",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - c436faflip i5-10210u 8g256gwhi 14chrome",
+         "price" : "943",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 440 g8 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd wi-\"",
+         "price" : "945",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 5402 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 512 gb ssd wi-f\"",
+         "price" : "946",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - c434ta flip i5-8200y 8/128 14 chrom",
+         "price" : "949",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 430 g8 ddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd w\"",
+         "price" : "951",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop go portátil 31,6 cm (12.4\"\") 1536 x 1024 pixeles pantalla táctil intel® core™ i5 de 10ma g - tnu-00012\"",
+         "price" : "951",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - cto/tp x390 i5-8265u 8gb 256gb w10p",
+         "price" : "952",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 5502 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 512 gb ssd wi\"",
+         "price" : "954",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - chromebook cb714-1w-54wb gris 35,6 cm (14\"\") 1920 x 1080 pixeles 8ª generación de procesadores intel® core™ i5 8 gb ddr4-s\"",
+         "price" : "958",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - chromebook cb715-1w-54ne gris 39,6 cm (15.6\"\") 1920 x 1080 pixeles 8ª generación de procesadores intel® core™ i5 8 gb ddr4\"",
+         "price" : "958",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 450 g7 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ssd w\"",
+         "price" : "961",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook flip tp412fa-ec655t - ordenador portátil de 14\"\" full hd (intel core i7-10510u, 8gb ram, 512gb ssd, intel uhd gra\"",
+         "price" : "962",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - sat pr c50-g-10p i7-10510u 16g 512g w10p",
+         "price" : "966",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 14 b10mw-473xes ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 1000\"",
+         "price" : "967",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Huawei - matebook 14 r5-16-512 non-touchscreen",
+         "price" : "967",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 450 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd w\"",
+         "price" : "967",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad e15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb ddr4-sdram 512 gb ss\"",
+         "price" : "968",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 14 b10rbsw-420xes ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 51\"",
+         "price" : "974",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 14 b10rbsw-419xes portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 10\"",
+         "price" : "974",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - k/340sg7 i5-1035g1 14 8gb/256+sc260",
+         "price" : "977",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 16 gb ddr4-sdram 512 gb ssd \"",
+         "price" : "978",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 16 gb ddr4-sdram 512 gb ss\"",
+         "price" : "978",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - bravo 15 a4ddr-217xes portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 7 16 gb ddr4-sdram 512 gb ssd amd radeon rx 5\"",
+         "price" : "981",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 14 g2 itl ci5-11-8gb syst with microsoft 365 business stan",
+         "price" : "982",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook s15 s533ea-bn147t - ordenador portátil de 15.6\"\" full hd (intel core i7-1165g7, 16gb ram, 512gb ssd, intel iris x\"",
+         "price" : "982",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 3510 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 512 gb ssd \"",
+         "price" : "987",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - tmp214-53 ci71165g7 16gb 512gbssd w10p",
+         "price" : "988",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 3500 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 8 gb 512 gb ssd nv\"",
+         "price" : "994",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 440 g8 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 16 gb 512 gb ssd wi\"",
+         "price" : "999",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - e14 i5-10210u 8/256gb w10p",
+         "price" : "1004",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 15 g2 itl ci3-11-8gb syst with office home and business 20",
+         "price" : "1005",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad e15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 16 gb ddr4-sdram 512 gb ss\"",
+         "price" : "1000",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 5510 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb ssd \"",
+         "price" : "1005",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 5301 lpddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 8 gb 512 gb ssd \"",
+         "price" : "1005",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - vostro 5502 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 512 gb ssd nv\"",
+         "price" : "1005",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 15 g2 itl ci5-11 -8gbsyst with microsoft 365 business stan",
+         "price" : "1009",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook 14 um425ia-am006t - ordenador portátil de \"\" full hd (amd ryzen 7 4700u, 16gb ram, 512gb ssd, amd radeon graphics,\"",
+         "price" : "1005",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 3410 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 512 gb ssd wi\"",
+         "price" : "1007",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lifebook e5510 i5-10210u 8gb syst ssd256 15.6in fp scard cmara ir",
+         "price" : "1012",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"fujitsu - lifebook e5510 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb \"",
+         "price" : "1007",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - pavilion 15-eg0001ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 8 gb 512 gb\"",
+         "price" : "1010",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - modern 14 b11m-090xes i7-1165g7syst 512gb 16gb 14in noos",
+         "price" : "1013",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern b11m-091xes portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sdram 512 gb s\"",
+         "price" : "1013",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop go portátil 31,6 cm (12.4\"\") 1536 x 1024 pixeles pantalla táctil intel® core™ i5 de 10ma g - 21m-00012\"",
+         "price" : "1015",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 440 g7 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb ddr4-sdram 512 gb ssd wi\"",
+         "price" : "1016",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 14 g2 itl ci3-11-8gb syst with office home and business 20",
+         "price" : "1018",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 13s g2 itl ci5-1135g7syst 16gb 512gb_ssd 13.3in w10pro in",
+         "price" : "1021",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - cp713-2w ci710510u 16gb 256gbssd chrome",
+         "price" : "1022",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - vivobook s14 s433ea-am612t - ordenador portátil de 14\"\" full hd (intel core i7-1165g7, 16gb ram, 512gb ssd, intel iris xe \"",
+         "price" : "1024",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - tecra a30-g 116 ci5-10210u syst 8gb 256gb 13.3in w10p es",
+         "price" : "1026",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 450 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 16 gb 512 gb ssd \"",
+         "price" : "1026",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 430 g8 ddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 16 gb 512 gb ssd \"",
+         "price" : "1026",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gf63 10scsr-876xes thin portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-\"",
+         "price" : "1028",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - modern a10rbs-484xes i7-10510u syst 1tb 16gb 15.6in mx350 2gb noos",
+         "price" : "1028",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 430 g7 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb ddr4-sdram 512 gb ssd \"",
+         "price" : "1033",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook 14 ux425ea-bm136t - ordenador portátil de \"\" full hd (intel core i5-1135g7, 16gb ram, 512gb ssd, intel iris xe gra\"",
+         "price" : "1033",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - e15 gen 2-itu t ci5-11 -8gb 256syst with microsoft 365 business stan",
+         "price" : "1034",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 640 g8 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd wi-\"",
+         "price" : "1036",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook x360 435 g7 ddr4-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil amd ryzen 5 8 gb 256 gb\"",
+         "price" : "1036",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dynabook - satellite pro l50-g-159 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 \"",
+         "price" : "1040",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook x360 435 g7 ddr4-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil amd ryzen 5 16 gb 512 g\"",
+         "price" : "1041",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14s yoga híbrido (2-en-1) 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i5 de 11ma generació\"",
+         "price" : "1041",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - cto/tp x390 i5-8265u 8gb 512gb w10h",
+         "price" : "1041",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 14 b11sb-009xes portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sdram 512 \"",
+         "price" : "1042",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 512 gb ss\"",
+         "price" : "1045",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - pavilion 14-dv0010ns ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb 1000 gb\"",
+         "price" : "1053",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - work i7-10510u 8/256 14 flip chrome",
+         "price" : "1057",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 512 gb ssd \"",
+         "price" : "1060",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp l13 yoga g2 i5-1135g7 8gb 256gb w10p",
+         "price" : "1060",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp l13 clam g2 i5-1135g7 16gb 512gb w10p",
+         "price" : "1060",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 635 aero g7 ddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles amd ryzen 5 pro 8 gb 256 gb ssd wi-fi 6 (802.11\"",
+         "price" : "1068",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb 512 gb ss\"",
+         "price" : "1068",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - pbs12e-09e019ce l50-g-1ef cel syst ddr4 2666 8gb 15.6 in w10p 1y sp ",
+         "price" : "1068",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb 512 gb ssd \"",
+         "price" : "1068",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook 14 bx425ea-bm200r - ordenador portátil de \"\" full hd (intel core i5-1135g7, 8gb ram, 512gb ssd, intel iris xe grap\"",
+         "price" : "1071",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 5310 ddr4-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i5 de 10ma gen\"",
+         "price" : "1071",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 15 a11m-045xes portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sdram 512\"",
+         "price" : "1074",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - l13 clam g2 t ci5-11 -8gb 256gbsyst with microsoft 365 business stan",
+         "price" : "1075",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Microsoft - surface pro 7+i5/8/128 edu plat nord",
+         "price" : "1076",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - tmp414-51 ci51135g7 16gb 512gbssd w10p - nx.vpceb.001",
+         "price" : "1080",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - alpha 15 a4dek-006xes portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 7 16 gb ddr4-sdram 512 gb ssd amd radeon rx 5\"",
+         "price" : "1082",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 3301 lpddr3-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles 8ª generación de procesadores intel® core™ i7 8 g\"",
+         "price" : "1083",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook i5-1135g7 8g 512g grey 14 w10p,\"\"1084.00\"",
+         "price" : "1085",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - k/340sg7 i5-1035g1 14 8gb/256+a460t",
+         "price" : "1085",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp l15 g1 t i5-10210u 8gb 512gb w10p",
+         "price" : "1087",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad l14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ssd w\"",
+         "price" : "1087",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 755 g5 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles amd ryzen 7 8 gb ddr4-sdram 256 gb ssd wi-fi 5 (802.11ac) fre\"",
+         "price" : "1102",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"fujitsu - lifebook e5510 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb ddr4-sdram 512 gb\"",
+         "price" : "1105",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 14 g2 itl ci5-11-8gb syst with office home and business 20",
+         "price" : "1111",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - precision 3560 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma g - 0ndm4\"",
+         "price" : "1117",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook 13 ux325ja-eg007t lpddr4x-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 1\"",
+         "price" : "1119",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad e15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sd - 20td001jsp\"",
+         "price" : "1124",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lg - 14in 14z90n ci5g10 512 ssd syst 8gb ram silver w10h es",
+         "price" : "1124",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"huawei - matebook x pro lpddr3-sdram portátil 35,3 cm (13.9\"\") 3000 x 2000 pixeles pantalla táctil intel® core™ i5 de 10ma genera\"",
+         "price" : "1124",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - bravo 17 a4ddk-002xes portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles amd ryzen 7 16 gb ddr4-sdram 1000 gb ssd amd radeon rx \"",
+         "price" : "1127",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp l14 i5-10210u 8gb 512gb w10p",
+         "price" : "1134",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - travelmate p6 p614-51-g2-58xz portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdr\"",
+         "price" : "1135",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop go portátil 31,6 cm (12.4\"\") 1536 x 1024 pixeles pantalla táctil intel® core™ i5 de 10ma g - tnv-00012\"",
+         "price" : "1135",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 15 g2 itl ci5-11 -8gbsyst with office home and business 20",
+         "price" : "1137",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp l13 clam g2 t core i5-1135g7syst with microsoft 365 business stan - 20vk000xsp#officestd",
+         "price" : "1141",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - travelmate x5 tmx514-51t portátil 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación de procesadores intel® \"",
+         "price" : "1145",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - pbs22e-00q006ce l50-g-159 c5g10syst 15.6in w10p nood ddr4 8gb 1tb in",
+         "price" : "1147",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 5520 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd \"",
+         "price" : "1147",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - tuf gaming a17 fa706ii-h7071 - portátil gaming de 17.3\"\" full hd (ryzen 7 4800h, 16gb ram, 1tb ssd, geforce gtx 1650 ti 4g\"",
+         "price" : "1149",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 5510 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 512 gb ssd \"",
+         "price" : "1149",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"ell - latitude 5320 ddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 8 gb 256 gb ssd \"",
+         "price" : "1151",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - tmp414-51 ci51135g7 16gb 512gbssd w10p - nx.vpbeb.002",
+         "price" : "1152",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14s yoga ddr4-sdram híbrido (2-en-1) 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i5 de 11m\"",
+         "price" : "1153",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad l13 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sdram 512 gb ss\"",
+         "price" : "1153",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - chromebook spin 13 cp713-1wn 34,3 cm (13.5\"\") 2256 x 1504 pixeles pantalla táctil 8ª generación de procesadores intel® cor\"",
+         "price" : "1157",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - e15 gen 2-itu t ci5-11 -8gb 256syst with office home and business 20",
+         "price" : "1163",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"toshiba - portégé z30-e-12m ddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles 8ª generación de procesadores intel® core™ i\"",
+         "price" : "1164",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Dell - cto/insp13 7000 2in1 i5-10210u 8g512w10p",
+         "price" : "1168",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - l13 clam g2 t ci5-11-16gb 256gbsyst with microsoft 365 business stan",
+         "price" : "1168",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 650 g8 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma generación 16 gb 512 gb ssd \"",
+         "price" : "1169",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 430 g8 ddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb 512 gb ssd \"",
+         "price" : "1172",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 15 a11sb-066xes portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sdram 10\"",
+         "price" : "1180",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 14s yoga itl ci5-11 syst with microsoft 365 business stan",
+         "price" : "1181",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"toshiba - tecra a50-ec-10z ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles 8ª generación de procesadores intel® core™ i7\"",
+         "price" : "1181",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb u7310 i7-10210u 13in syst w10 pro ssd 256gb 8gb in",
+         "price" : "1186",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gf75 10ser-427xes thin portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-s\"",
+         "price" : "1189",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tb 15 g2 i7-1165g7 8gb+8gb 512gb w10p",
+         "price" : "1192",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp l13 yoga g2 i5-1135g7 16gb 512gb w10p",
+         "price" : "1192",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook 14 bx425ja-bm145r ordenador portatil portátil gris 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma gene\"",
+         "price" : "1192",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lg - lg gram 14 i5 16gb ram 512gb",
+         "price" : "1199",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad l14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb ddr4-sdram 512 gb ssd \"",
+         "price" : "1200",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - l13 clam g2 t ci5-11 -8gb 256gbsyst with office home and business 20",
+         "price" : "1204",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - tmp414-51 ci71165g7 16gb 512gbssd w10p",
+         "price" : "1206",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gf63 10scsr-1051xes thin ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación\"",
+         "price" : "1208",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb e5510 15.6in fhd i7-10510u syst ssd 512gb 16 gb w10 pro in",
+         "price" : "1213",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb e5410 14in i5-10210u syst w10 pro 8gb ssd 512gb in",
+         "price" : "1213",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook 14 ux425ea-bm094t - ordenador portátil de \"\" full hd (intel core i7-1165g7, 16gb ram, 512gb ssd, intel iris xe gra\"",
+         "price" : "1214",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - zenbook i7-1165g7 16g512 grey 13.3 w10h",
+         "price" : "1214",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - zenbook i7-1165g7 16g512g grey 14 w10h",
+         "price" : "1214",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook 13 oled ux325ea-kg245t - ordenador portátil de .3\"\" full hd (intel core i7-1165g7, 16gb ram, 512gb ssd, intel iris\"",
+         "price" : "1215",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - travelmate p6 p614-51-g2 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 8 gb ddr4-sdram 51\"",
+         "price" : "1221",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - expertbook b9450fa-bm0306r portátil negro 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb lpdd\"",
+         "price" : "1224",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb u7410 14.0in i510210u fhd syst w10 pro ssd 256gb 8 gb in",
+         "price" : "1226",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad e15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sd - 20td002msp\"",
+         "price" : "1227",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - gf65 thin 10ser-1256xes syst i7-10750h 512gb 16gb 15.6in rtx2",
+         "price" : "1234",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 15 a11sb-011es portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sdram 100\"",
+         "price" : "1234",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook air portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles apple m 8 gb 256 gb ssd wi-fi 6 (802.11ax) macos big sur gris\"",
+         "price" : "1238",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook air portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles apple m 8 gb 256 gb ssd wi-fi 6 (802.11ax) macos big sur oro\"",
+         "price" : "1238",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook air portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles apple m 8 gb 256 gb ssd wi-fi 6 (802.11ax) macos big sur plata\"",
+         "price" : "1238",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook x360 830 g6 híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación de procesadores in\"",
+         "price" : "1250",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - msi portatil gl65 leopard 10sdk-600xes. 15.6 fhd (1920*1080) 144hz.i7-10750h. gtx 1660 ti gddr6 6gb. ddr4 16gb (2666mhz). ",
+         "price" : "1252",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - msi portatil alpha 17 a4dek-022xes. 17.3 fhd 144hz. ryzen 7 4800h. rx5600m gddr6 6gb. ddr4 8gb*2 (3200mhz). 1tb ssd",
+         "price" : "1255",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gf75 10scsr-245xes ordenador portatil ddr4-sdram portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10\"",
+         "price" : "1255",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook 15v g5 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles 9na generación de procesadores intel®\"",
+         "price" : "1257",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14s yoga híbrido (2-en-1) 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 11ma generació\"",
+         "price" : "1258",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - probook 440 g8 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb 512 gb ssd wi\"",
+         "price" : "1261",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - precision 3550 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generació\"",
+         "price" : "1262",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop go portátil 31,6 cm (12.4\"\") 1536 x 1024 pixeles pantalla táctil intel® core™ i5 de 10ma g - 14m-00012\"",
+         "price" : "1264",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - tmp414rn-51 ci5-1135g7 touch syst 16gb 512ssd 14in w10pro",
+         "price" : "1266",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp l13 clam g2 t core i5-1135g7syst with office home and business 20 - 20vk000xsp#office",
+         "price" : "1270",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 14s yoga ddr4-sdram híbrido (2-en-1) 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 11m\"",
+         "price" : "1271",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp l13 clam g2 t core i5-1135g7syst with microsoft 365 business stan - 20vk000wsp#officestd",
+         "price" : "1274",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 735 g6 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb ddr4-sdram 256 gb ssd wi-fi 6 (802 - 9ft15ea\"",
+         "price" : "1278",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gf63 10scxr-042xes thin portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-\"",
+         "price" : "1279",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - gl65 leo 10sfr-483xes i7-10750hsyst 512gb 16gb 15in rtx2070 8gb noos",
+         "price" : "1285",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - travelmate p6 p614-51-g2-790a portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sd\"",
+         "price" : "1286",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gf63 10scsr-835es thin portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-s\"",
+         "price" : "1292",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - l13 clam g2 t ci5-11-16gb 256gbsyst with office home and business 20",
+         "price" : "1297",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - msi portatil gl75 leopard 10sdk-278xes. 17.3 fhd 144hz. i7-10750h. gtx 1660 ti gddr6 6gb. ddr4 16gb (2666mhz). 1tb ssd. fr",
+         "price" : "1297",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook 13 bx325ja-eg081r portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb lpddr4x-s\"",
+         "price" : "1298",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad l15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 512 gb ss\"",
+         "price" : "1301",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - tuf gaming f15 fx506lu-hn106 - portátil gaming de 15.6\"\" full hd (core i7-10850h, 16gb ram, 1tb ssd, geforce gtx 1660 ti 6\"",
+         "price" : "1306",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - modern 14 b11sb-008es portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sdram 1000 \"",
+         "price" : "1306",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb u7410 14.0in fhd i510210u syst ssd 512gb 16 gb w10 pro in",
+         "price" : "1307",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop 3 portátil 38,1 cm (15\"\") 2496 x 1664 pixeles pantalla táctil intel® core™ i5 de 10ma generación 8 gb \"",
+         "price" : "1308",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkbook 14s yoga itl ci5-11 syst with office home and business 20",
+         "price" : "1310",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 735 g6 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb ddr4-sdram 256 gb ssd wi-fi 5 (802 - 7kn29ea)\"",
+         "price" : "1318",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - en314-51w i5-10210u 8/1tb ips w10p",
+         "price" : "1322",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - x13 ryzen 5 8/256 w10p",
+         "price" : "1324",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 13s portátil 33,8 cm (13.3\"\") 1920 x 1200 pixeles pantalla táctil intel® core™ i7 de 11ma generación 16 gb lpd\"",
+         "price" : "1324",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15p portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb ddr4-sdram 512 gb s\"",
+         "price" : "1324",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gf75 10sc-011xes thin ddr4-sdram portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16\"",
+         "price" : "1332",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp l14 g1 t i7-10510u 16gb 512gb w10p",
+         "price" : "1333",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple - portatil apple macbook air 13 mba 2020 gold m1 tid/chip m1 8c/16gb/ssd256gb/gpu 7c/13.3",
+         "price" : "1337",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple - portatil apple macbook air 13 mba 2020 gold m1 tid/chip m1 8c/8gb/ssd512gb/gpu 7c/13.3",
+         "price" : "1337",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple - portatil apple macbook air 13 mba 2020 sp. grey m1 tid/chip m1 8c/8gb/ssd512gb/gpu 7c/13.3",
+         "price" : "1337",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple - portatil apple macbook air 13 mba 2020 silver m1 tid/chip m1 8c/8gb/ssd512gb/gpu 7c/13.3",
+         "price" : "1337",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple - portatil apple macbook air 13 mba 2020 silver m1 tid/chip m1 8c/16gb/ssd256gb/gpu 7c/13.3",
+         "price" : "1337",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 735 g6 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb ddr4-sdram 256 gb ssd wi-fi 5 (802 - 7kn14ea)\"",
+         "price" : "1337",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple - portatil apple macbook air 13 mba 2020 sp. grey m1 tid/chip m1 8c/16gb/ssd256gb/gpu 7c/13.3",
+         "price" : "1337",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 7410 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb ssd wi\"",
+         "price" : "1339",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gl65 10ser-468xes leopard portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr\"",
+         "price" : "1339",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - portégé x50-g-120 i5-10210u 8 512 w10p",
+         "price" : "1340",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - precision 3560 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 11ma g - 1ry1n\"",
+         "price" : "1347",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - stealth a11sdk-056xes i7-1185g7syst 1tb 16gb 15.6in gtx1660 6gb noos",
+         "price" : "1350",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - gf75 thin 10sdr-283es i7-10750hsyst 1tb 16gb gtx1660 6gb 17.3in w10 in",
+         "price" : "1354",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - nitro 5 an517-52-758k ddr4-sdram portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 10\"",
+         "price" : "1358",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"acer - predator helios 300 ph315-53-71nt ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generac\"",
+         "price" : "1358",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - portege x30-f-14v ci5-g8 13.3insyst 8gb 512gb w10p sp",
+         "price" : "1364",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 735 g6 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles amd ryzen 5 pro 8 gb ddr4-sdram 256 gb ssd wi-fi 5 (802.11ac)\"",
+         "price" : "1365",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - gf75 thin 10ser-613xes syst i7-10750h 512gb 16gb 17.3in rtx2",
+         "price" : "1365",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - omen 15-ek0023ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 1000 gb s\"",
+         "price" : "1377",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - portege x30l-j-130 i5 8/256 13 w10p",
+         "price" : "1381",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 7310 ddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb ssd \"",
+         "price" : "1381",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - conceptd cn315 i5-10300h 8gb512gbssdw10h",
+         "price" : "1387",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - conceptd cn314 i5-10300h 8gb512gbssdw10h",
+         "price" : "1387",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - (agp/e) portatil asus ga502du-bq030,ryzen 7 3750h,16gb,512gb ssd,15,6 fhd wv,vganvgtx1660ti/6gb,no odd,endless,4 celdas",
+         "price" : "1388",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop go portátil 31,6 cm (12.4\"\") 1536 x 1024 pixeles pantalla táctil intel® core™ i5 de 10ma g - 21o-00012\"",
+         "price" : "1388",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lg - 16in i5 syst 16gb 512gb ssd win home + black",
+         "price" : "1388",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad l14 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 512 gb ssd \"",
+         "price" : "1390",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - port x30l-j-131 i5-1135g7 16g 512g w10p",
+         "price" : "1391",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gf75 10ue-017xes thin portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sd\"",
+         "price" : "1394",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - hp x2 1012 g2 i5-7200u 8/256 w10p",
+         "price" : "1397",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp l13 clam g2 t core i5-1135g7syst with office home and business 20 - 20vk000wsp#office",
+         "price" : "403",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb u7410 14.0in fhd i7-10510u syst w10 pro 16 gb ssd 512gb in",
+         "price" : "414",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook 14 ultralight ux435eal-kc096t - portátil de 14\"\" full hd (i7-1165g7, 16gb ram, 512gb ssd, 32gb intel optane, intel\"",
+         "price" : "1417",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 735 g6 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb ddr4-sdram 256 gb ssd wi-fi 5 (802 - 7kp20ea\"",
+         "price" : "1418",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 745 g6 portátil 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil amd ryzen 5 pro 8 gb ddr4-sdram 512 gb ssd wi-f\"",
+         "price" : "1424",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 850 g7 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb ssd\"",
+         "price" : "1427",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 735 g6 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb ddr4-sdram 256 gb ssd wi-fi 6 (802 - 7kp87ea\"",
+         "price" : "1439",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - zenbook flip ux363ea-em189t híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 11ma \"",
+         "price" : "1444",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop 3 portátil 34,3 cm (13.5\"\") 2256 x 1504 pixeles pantalla táctil intel® core™ i7 de 10ma ge - pla-00011\"",
+         "price" : "1446",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 735 g6 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil amd ryzen 5 8 gb ddr4-sdram 512 gb ssd wi-fi \"",
+         "price" : "1446",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop 3 portátil 34,3 cm (13.5\"\") 2256 x 1504 pixeles pantalla táctil intel® core™ i7 de 10ma ge - pla-00032\"",
+         "price" : "1446",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - l14 g1 i7-10510u 16/512gb lte w10p",
+         "price" : "1456",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad t15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb ddr4-sdram 256 gb ssd\"",
+         "price" : "1456",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lg - 15u70n-j portátil 39,6 cm (15.6\"\") 2560 x 1600 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 512 gb ssd nvidia\"",
+         "price" : "1456",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gp65 10sek-029es leopard portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4\"",
+         "price" : "1458",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - (e) portatil acer predator helios 300 ph315-53-77m4 (nh.q7zeb.003) 15.6, ci7-10750h, 16gb, 1tb ssd, gtx 2070 8",
+         "price" : "1462",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - tuf dash f15 fx516pm-hn026 - portátil gaming de 15.6\"\" full hd (core i7-11370h, 16gb ram, 1tb ssd, geforce rtx 3060 6gb gd\"",
+         "price" : "1462",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 735 g6 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles amd ryzen 5 8 gb ddr4-sdram 512 gb ssd wi-fi 5 (802.11ac) win\"",
+         "price" : "1465",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkpad l14 ci7-10510u-16gb 25syst with microsoft 365 business stan",
+         "price" : "1473",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - tuf gaming a15 fa506qm-hn016 - portátil gaming de 15.6\"\" full hd (ryzen 7 5800h, 16gb ram, 512gb ssd, geforce rtx 3060 6gb\"",
+         "price" : "1473",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lg - lg gram 14 i7 16 gb ram",
+         "price" : "1482",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 5310 ddr4-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 10ma gen\"",
+         "price" : "1484",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - conceptd cn315i5-10300h 8gb512gbssdw10h",
+         "price" : "1494",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lg - gram 14z90n-v-aa78b portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 512 gb s\"",
+         "price" : "1497",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gf65 10ue-033es thin ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 \"",
+         "price" : "1500",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - wf65 10th-1203xes i7-10750h syst 1t 16g 15.6in quad p620 4gb noos en",
+         "price" : "1501",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - hp ebx3601030g3 i5-8350u 13 8gb/256 pc",
+         "price" : "1532",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook air portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles apple m 8 gb 512 gb ssd wi-fi 6 (802.11ax) macos big sur oro\"",
+         "price" : "1535",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook air portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles apple m 8 gb 512 gb ssd wi-fi 6 (802.11ax) macos big sur plata\"",
+         "price" : "1535",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook air portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles apple m 8 gb 512 gb ssd wi-fi 6 (802.11ax) macos big sur gris\"",
+         "price" : "1535",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop 3 portátil 34,3 cm (13.5\"\") 2256 x 1504 pixeles pantalla táctil intel® core™ i7 de 10ma ge - qxs-00011\"",
+         "price" : "1536",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 735 g6 portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles amd ryzen 5 16 gb ddr4-sdram 512 gb ssd wi-fi 5 (802.11ac) wi\"",
+         "price" : "1536",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"gigabyte - aorus 15g kc portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 512 gb \"",
+         "price" : "1549",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - omen 15-ek0024ns ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 1000 gb s\"",
+         "price" : "1550",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - prestige 15 a11scx-018es portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sdram \"",
+         "price" : "1554",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - prestige a11scx-002es portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb lpddr4-sdram 100\"",
+         "price" : "1565",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Toshiba - port x30w-j-10p i5-1135g7 16g 512g w10p",
+         "price" : "1569",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - prestige 14 a11scx-060es portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb lpddr4-sdram \"",
+         "price" : "1576",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 9510 lpddr3-sdram ultraportátil 38,1 cm (15\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 8 gb 256 gb\"",
+         "price" : "1577",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface laptop 3 portátil 38,1 cm (15\"\") 2496 x 1664 pixeles pantalla táctil amd ryzen 5 8 gb ddr4-sdram 256 gb ssd w\"",
+         "price" : "1579",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lg - 14in i7 syst 16gb 1tb ssd win home + black",
+         "price" : "1581",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gp75 10sek-018es leopard portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4\"",
+         "price" : "1587",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles apple m 8 gb 256 gb ssd wi-fi 6 (802.11ax) macos big sur gris\"",
+         "price" : "1589",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles apple m 8 gb 256 gb ssd wi-fi 6 (802.11ax) macos big sur plata\"",
+         "price" : "1589",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - conceptd cn314 i5-10300h 8gb512gbssdw10p",
+         "price" : "1601",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad p15v estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb dd\"",
+         "price" : "1601",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - conceptd cn314 i7-10750h 16gb1024gbssdwp",
+         "price" : "1601",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - thinkpad l14 ci7-10510u-16gb 25syst with office home and business 20",
+         "price" : "1602",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"gigabyte - aorus 15p wb-7pt1130sd portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdr\"",
+         "price" : "604",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles 8ª generación de procesadores intel® core™ i5 8 gb lpddr3-sdram\"",
+         "price" : "604",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - prestige 14 a11scs-039es lpddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb \"",
+         "price" : "607",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - cto/tp x1 i7-8650 16g 256g 4g w10p uk 1n",
+         "price" : "620",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 8mk78ea\"",
+         "price" : "1623",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook x360 1030 g4 lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación de p\"",
+         "price" : "1623",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lg - gram 15z95n-g.aa78b ordenador portatil lpddr4x-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma g\"",
+         "price" : "1629",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - prestige 15 a11scs-031es portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb ddr4-sdram \"",
+         "price" : "1630",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - p15v i7-10750h 16/512 w10p ps",
+         "price" : "1641",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad p14s estación de trabajo móvil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4\"",
+         "price" : "1654",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 830 g7 ddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb 512 gb ss\"",
+         "price" : "1659",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - precision 3551 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generació\"",
+         "price" : "1673",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gf75 10ue-016es thin portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdr\"",
+         "price" : "1679",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lg - lg gram 16 i7 16gb ram 512 mb",
+         "price" : "1680",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - p15s i7-10510u 16/512 p520 w10p ps",
+         "price" : "1682",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - creator 15 a10sd-276es portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 32 gb ddr4-sdram 10\"",
+         "price" : "1690",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 840 g7 ddr4-sdram ultraportátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb 512 gb\"",
+         "price" : "1695",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - conceptd cn314 i7-10750h8gb1024gbssdw10p",
+         "price" : "1707",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad p14s ddr4-sdram estación de trabajo móvil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación\"",
+         "price" : "1709",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 850 g7 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i5 de 10ma generación 16 gb 512 gb ss\"",
+         "price" : "1715",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tp x13 i5-10210u 16gb 512gb w10p",
+         "price" : "1719",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - tb plus i5-10210u 8gb 512gb w10p",
+         "price" : "1719",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lg - ultra portátil 43,2 cm (17\"\") 2560 x 1600 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 512 gb ssd nvidia® gef\"",
+         "price" : "1720",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lg - gram híbrido (2-en-1) 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 10ma generación 16 gb ddr4-sdram\"",
+         "price" : "1722",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - creator 15 a10sd-490xes ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 32 gb 1\"",
+         "price" : "1731",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkbook 15p portátil 39,6 cm (15.6\"\") 3840 x 2160 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 1000 gb \"",
+         "price" : "1733",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad p14s (intel) estación de trabajo móvil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16\"",
+         "price" : "1734",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - expertbook i710510u 16g 1tssd 14 w10p",
+         "price" : "1738",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - expertbook b9 b9400cea-kc0304r - ordenador portátil de 14\"\" full hd (intel core i7-1165g7, 16gb ram, 1tb ssd, intel iris x\"",
+         "price" : "1758",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lg - 17in corei7 1.5 noos syst 16gb ram 512gb ssd in",
+         "price" : "1766",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - rog zephyrus g14 ga401iu-ha123t - portátil gaming de 14\"\" quad hd (ryzen 9 4900hs, 16gb ram, 1tb ssd, gtx 1660 ti 6gb gddr\"",
+         "price" : "1776",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 9410 lpddr3-sdram ultraportátil 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 10ma genera\"",
+         "price" : "1779",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gp66 10ue-065es leopard portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-\"",
+         "price" : "1783",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - p14s i7-10510u 16/512 p520 w10p ps",
+         "price" : "1785",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Lenovo - p15v i7-10750h 16/512 p620 w10p ps",
+         "price" : "1785",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - creator 15 a10sdt-065es portátil carbono, gris 39,6 cm (15.6\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 10ma\"",
+         "price" : "1793",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - stealth 15m a11uek-023es ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb \"",
+         "price" : "1796",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - rog gv301qh-k6069t - ordenador portátil gaming de 13.4\"\" wuxga (amd ryzen 7 5800hs, 16gb ram, 512gb ssd, nvidia geforce gt\"",
+         "price" : "1821",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 7410 ddr4-sdram portátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 512 gb ssd w\"",
+         "price" : "1826",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles apple m 8 gb 512 gb ssd wi-fi 6 (802.11ax) macos big sur gris\"",
+         "price" : "1842",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles apple m 8 gb 512 gb ssd wi-fi 6 (802.11ax) macos big sur plata\"",
+         "price" : "1842",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - prestige14a11scs038es i7-1185g7syst 1tb 16gb 14in gtx1650 4gb w10 sp",
+         "price" : "1847",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad t15 portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 512 gb ss\"",
+         "price" : "1851",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 7310 ddr4-sdram portátil 33,8 cm (13.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 512 gb ssd\"",
+         "price" : "1851",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 7520 lpddr4x-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generación 16 gb 512 gb \"",
+         "price" : "1851",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - creator15 a10set-082es i7-10750syst 1tb 32gb rtx2060 6gb 15.6in w10 in",
+         "price" : "1852",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gp66 10ue-226xes leopard portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4\"",
+         "price" : "1854",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Gigabyte - gigabyte portatil aorus 15g xc, i7-10870h,32gb,ssd 512g,15.6 fhd,vgartx3070q/8gb,no odd,w10",
+         "price" : "1857",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - xps 15 9500 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1200 pixeles intel® core™ i5 de 10ma generación 8 gb 512 gb ssd wi\"",
+         "price" : "1865",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb u9310x red i5-10210u 13.3in syst 16gb 256gb ssd win10 pro",
+         "price" : "1869",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lifebook u9310x ci5g10 syst 8gb 256gb ssd win10 pro black 4g",
+         "price" : "1869",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb u9310 i7-10610u 13.3in syst win10 pro 256gb 8gb in - vfy:u9310m17a0es",
+         "price" : "1869",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb u9310 i7-10610u 13.3in syst win10 pro 256gb 8gb in - vfy:u9310m17a1es",
+         "price" : "1869",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 8mk82ea\"",
+         "price" : "1872",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gp76 10ue-060es leopard portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-\"",
+         "price" : "1888",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook 850 g7 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 512 gb ss\"",
+         "price" : "1892",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface book 3 híbrido (2-en-1) 34,3 cm (13.5\"\") 3000 x 2000 pixeles pantalla táctil intel® core™ i5 de 10ma generaci\"",
+         "price" : "1917",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"gigabyte - aero 17 kc ddr4-sdram portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 1000 gb s\"",
+         "price" : "1918",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - rog zephyrus g14 ga401iu-he118t - portátil gaming de 14\"\" full hd (ryzen 9 4900hs, 16gb ram, 1tb ssd, gtx 1660 ti 6gb gddr\"",
+         "price" : "1922",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook firefly 14 g8 ddr4-sdram estación de trabajo móvil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma generaci\"",
+         "price" : "1937",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad x13 yoga híbrido (2-en-1) negro 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 10ma ge\"",
+         "price" : "1943",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - xps 13 9310 lpddr4x-sdram portátil 34 cm (13.4\"\") 1920 x 1200 pixeles intel® core™ i7 de 11ma generación 16 gb 1000 gb ssd\"",
+         "price" : "1962",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - latitude 9510 lpddr3-sdram ultraportátil 38,1 cm (15\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 512 g\"",
+         "price" : "1963",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook power g7 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación \"",
+         "price" : "1963",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gp66 leopard 10ug-445xes ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación\"",
+         "price" : "1992",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - rog zephyrus g14 ga401iu-ha134t - portátil gaming de 14\"\" quad hd (ryzen 9 4900hs, 16gb ram, 1tb ssd, gtx 1660 ti 6gb gddr\"",
+         "price" : "1995",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - workstation wf65 10th-1202es estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generac\"",
+         "price" : "2000",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - msi portatil summit e14 a11scs-037es. 14 uhd (3840*2160) 4k. i7-1185g7. gtx 1650 ti max q gddr5 4gb. lpddr3 32gb (2133mhz)",
+         "price" : "2009",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - proart studiobook pro 17 w700g1t-av046r portátil 43,2 cm (17\"\") 1920 x 1200 pixeles 9na generación de pr - 90nb0nx2-m01850\"",
+         "price" : "2049",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - summit e15 a11scs-078es ddr4-sdram portátil 39,6 cm (15.6\"\") 3840 x 2160 pixeles intel® core™ i7 de 11ma generación 32 gb 1\"",
+         "price" : "2063",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - msi portatil creator 15 a10se-265es. 15.6 uhd (3840*2160) 4k. i7-10875h. rtx 2060 gddr6 6gb. ddr4 16gb*2 (2666mhz). 1tb ss",
+         "price" : "2070",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook firefly 14 g7 ddr4-sdram ultraportátil 35,6 cm (14\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 512\"",
+         "price" : "2079",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gp76 10ug-065es leopard portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-\"",
+         "price" : "2087",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook firefly 15 g7 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i\"",
+         "price" : "2095",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - workstation wf65 10ti-468es estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generaci\"",
+         "price" : "2097",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb u9310 i7-10610u 13.3in syst noos 256gb 8gb - vfy:u931xm17a0es",
+         "price" : "2097",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Fujitsu - lb u9310 i7-10610u 13.3in syst noos 256gb 8gb - vfy:u931xm17a1es",
+         "price" : "2097",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gp66 10ug-064es leopard portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-\"",
+         "price" : "2112",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 8mk79ea\"",
+         "price" : "2121",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - rog zephyrus g14 ga401qm-k2029t - portátil gaming de 14\"\" quad hd (ryzen 9 5900hs, 16gb ram, 1tb ssd, rtx 3060 6gb gddr6, \"",
+         "price" : "2125",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - rog g713qr-hg016 - ordenador portátil gaming de 17.3\"\" full hd (amd ryzen 7 5800h, 16gb ram, 1tb ssd, nvidia geforce rtx 3\"",
+         "price" : "2125",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - proart studiobook 15 h500gv-hc039r portátil 39,6 cm (15.6\"\") 3840 x 2160 pixeles 9na generación de procesadores intel® cor\"",
+         "price" : "2137",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook firefly 15.6 g8 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 11ma gene\"",
+         "price" : "2149",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - xps 13 9310 lpddr4x-sdram portátil 34 cm (13.4\"\") 3840 x 2400 pixeles pantalla táctil intel® core™ i7 de 11ma generación 1\"",
+         "price" : "2160",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - proart studiobook pro 17 w700g2t-av065r portátil 43,2 cm (17\"\") 1920 x 1200 pixeles 9na generación de procesadores intel® \"",
+         "price" : "2181",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad p15 estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr\"",
+         "price" : "2186",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gp76 10ug-066xes leopard portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4\"",
+         "price" : "2201",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - proart studiobook pro 17 w700g2t-av065r portátil gris 43,2 cm (17\"\") 1920 x 1200 pixeles 9na generación de procesadores in\"",
+         "price" : "2203",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - workstation wf75 10ti-210es estación de trabajo móvil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generaci\"",
+         "price" : "2217",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gs66 10ue-260es stealth portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 32 gb ddr4-\"",
+         "price" : "2217",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - rog zephyrus g15 ga503qm-hq046t - portátil gaming de 15.6\"\" quad hd (amd ryzen 7 5800hs, 16gb ram, 1tb ssd, geforce rtx 30\"",
+         "price" : "2226",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad p17 estación de trabajo móvil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr\"",
+         "price" : "2226",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook studio g7 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación\"",
+         "price" : "2231",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - cs/90nr01q1-m03940_gaming",
+         "price" : "2238",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - xps 15 9500 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1200 pixeles intel® core™ i7 de 10ma generación 16 gb 512 gb ssd n\"",
+         "price" : "2249",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - k/zb ffly 15 g7 i7-10510u 16gb 512gb+a3 - 1j3q1ea#abe+ep1000209",
+         "price" : "2264",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - k/zb ffly 15 g7 i7-10510u 16gb 512gb+a3 - 1j3q1ea#abe+ep1000210",
+         "price" : "2264",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - k/zb ffly 15 g7 i7-10510u 16gb 512gb+a4",
+         "price" : "2298",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook x360 1040 g7 lpddr4-sdram híbrido (2-en-1) 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 1\"",
+         "price" : "2306",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - workstation wf65 10tj-467es estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generaci\"",
+         "price" : "2306",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - rog strix scar 17 g713qr-hg022t - portátil gaming de 17.3\"\" full hd (ryzen 9 5900hx, 16gb ram, 1tb ssd, geforce rtx 3070 8\"",
+         "price" : "2327",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles intel® core™ i5 de 10ma generación 16 gb lpddr4x-sdr - mwp72y/a\"",
+         "price" : "2335",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles intel® core™ i5 de 10ma generación 16 gb lpddr4x-sdr - mwp42y/a\"",
+         "price" : "2335",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - proart studiobook pro 17 w700g1t-av046r portátil 43,2 cm (17\"\") 1920 x 1200 pixeles 9na generación de pr - 90nb0nx2-m02160\"",
+         "price" : "2337",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Gigabyte - gigabyte portatil aorus 15g yc, i7-10870h,32gb,ssd 1tb,15.6 fhd,vgartx3080q/8g,no odd,w10",
+         "price" : "2383",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Gigabyte - portatil gigabyte aorus 15g wb-8es2130mh 15.6 fhd 240hz/i7-10875h",
+         "price" : "2403",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming 10uh-446xes ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb 1000 g\"",
+         "price" : "2410",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gs66 10ug-035es stealth portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 32 gb ddr4-\"",
+         "price" : "2410",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - workstation wf75 10tj-209es estación de trabajo móvil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generaci\"",
+         "price" : "2410",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook x360 1030 g3 lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación de p\"",
+         "price" : "2459",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - creator 15 a10uet-217es portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 10ma generación 32\"",
+         "price" : "2515",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Asus - cs/studiob i7-9750h 32g1t rtx3 17.3 w10p",
+         "price" : "2535",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Millenium - portatil millenium aurelion ml3/ i7-9750h/16gb/500gb ssd/gtx 1660/6gb/15.6fhd/win10",
+         "price" : "2537",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - rog strix g732lxs-hg014t ddr4-sdram portátil 43,9 cm (17.3\"\") 1920 x 1070 pixeles intel® core™ i7 de 10ma generación 32 gb\"",
+         "price" : "2560",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - proart studiobook pro 17 w700g3t-av093r - portátil de 17\"\" wuxga (i7-9750h, 32gb ram, 1tb ssd, quadro rtx 3000 6gb gddr6, \"",
+         "price" : "2566",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - proart studiobook 15 h500gv-hc039r - portátil de .6\"\" 4k ultra hd (i7-9750h, 32gb ram, 512gb + 512gb ssd, geforce rtx 2060\"",
+         "price" : "2566",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook create g7 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación\"",
+         "price" : "2583",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - precision 5550 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1200 pixeles intel® core™ i7 de 10ma g - gfyg3\"",
+         "price" : "2583",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil gris 33,8 cm (13.3\"\") 2560 x 1600 pixeles intel® core™ i5 de 10ma generación 16 gb lpddr4x-sdram 100\"",
+         "price" : "2587",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 33,8 cm (13.3\"\") 2560 x 1600 pixeles intel® core™ i5 de 10ma generación 16 gb lpddr4x-sdram 1000 gb \"",
+         "price" : "2587",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook firefly 15 g7 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 3840 x 2160 pixeles intel® core™ i7 de 10ma genera\"",
+         "price" : "2616",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - workstation wf75 10tk-265es estación de trabajo móvil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generaci\"",
+         "price" : "2619",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface book 3 híbrido (2-en-1) 38,1 cm (15\"\") 3240 x 2160 pixeles pantalla táctil intel® core™ i7 de 10ma generación\"",
+         "price" : "2650",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook firefly 15.6 g8 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 3840 x 2160 pixeles intel® core™ i7 de 11ma gene\"",
+         "price" : "2653",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - precision 5550 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1200 pixeles intel® core™ i7 de 10ma g - 3x6fv\"",
+         "price" : "2657",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - y920 portátil 43,9 cm (17.3\"\") 1920 x 1080 pixeles 7ª generación de procesadores intel® core™ i7 8 gb ddr4-sdram 1256 gb\"",
+         "price" : "2659",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad x1 nano lpddr4x-sdram portátil 33 cm (13\"\") 2160 x 1350 pixeles intel® core™ i7 de 11ma generación 16 gb 1000 g\"",
+         "price" : "2660",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - conceptd7pro i7-10750h 32gb1024gbssdw10p",
+         "price" : "2668",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad p15 estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 32 gb ddr\"",
+         "price" : "2691",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad t15g portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 16 gb ddr4-sdram 512 gb s\"",
+         "price" : "2704",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - precision 7550 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generació\"",
+         "price" : "2723",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - ws66 10tk-482xes i7-10875h 1tb syst 32gb 15.6in rtx3000 6gb freedos",
+         "price" : "2724",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface book 2 híbrido (2-en-1) 34,3 cm (13.5\"\") 3000 x 2000 pixeles pantalla táctil 8ª generación de pro - hnl-00017\"",
+         "price" : "2735",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 8mk74ea\"",
+         "price" : "2756",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"lenovo - thinkpad x1 yoga lpddr3-sdram híbrido (2-en-1) 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 10m\"",
+         "price" : "2773",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook fury 17 g7 ddr4-sdram estación de trabajo móvil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma - 2c9v1ea\"",
+         "price" : "2818",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming ge66 10ug-270es raider portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i9 de 10ma generación 32 gb ddr4-s\"",
+         "price" : "2828",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - workstation ws63 8sl-013es estación de trabajo móvil 39,6 cm (15.6\"\") 3840 x 2160 pixeles 8ª generación de procesadores int\"",
+         "price" : "2829",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 8mk83ea\"",
+         "price" : "2837",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - proart studiobook pro x w730g2t-h8007r portátil 43,2 cm (17\"\") 1920 x 1200 pixeles 9na generación de procesadores intel® c\"",
+         "price" : "2870",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite x2 g4 híbrido (2-en-1) 33 cm (13\"\") 1920 x 1280 pixeles pantalla táctil 8ª generación de procesadores intel® core™ i5 \"",
+         "price" : "2891",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 8ml20ea\"",
+         "price" : "2895",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface book 3 híbrido (2-en-1) 34,3 cm (13.5\"\") 3000 x 2000 pixeles pantalla táctil intel® core™ i7 de 10ma generaci\"",
+         "price" : "2905",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - creator 15 a10ug-294es portátil 39,6 cm (15.6\"\") 3840 x 2160 pixeles intel® core™ i7 de 10ma generación 32 gb ddr4-sdram 10\"",
+         "price" : "2932",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Msi - ws66 10tk-281es i7-10875h syst 1tb 32gb 15.6in rtx3000 6gb w10p in",
+         "price" : "2933",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook x360 1040 g7 lpddr4-sdram ultraportátil 35,6 cm (14\"\") 1920 x 1080 pixeles pantalla táctil intel® core™ i7 de 10ma\"",
+         "price" : "2939",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 8ml08ea\"",
+         "price" : "2951",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - en714-51w i5-8250u 8/256 14ips w10p",
+         "price" : "2952",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"dell - precision 7750 ddr4-sdram estación de trabajo móvil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generació\"",
+         "price" : "2982",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 9ft18ea\"",
+         "price" : "2020",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 40,6 cm (16\"\") 3072 x 1920 pixeles 9na generación de procesadores intel® core™ i7 16 gb ddr4-sdram 5\"",
+         "price" : "2028",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 8ml06ea\"",
+         "price" : "2037",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming gs66 10uh-034es stealth portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 32 gb ddr4-\"",
+         "price" : "2059",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook create g7 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i9 de 10ma generación\"",
+         "price" : "2086",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 8mk84ea\"",
+         "price" : "2095",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface book 3 híbrido (2-en-1) platino 34,3 cm (13.5\"\") 3000 x 2000 pixeles pantalla táctil intel® core™ i7 de 10ma \"",
+         "price" : "2104",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 1920 x 1080 pixeles pantalla táctil 8ª generación d - 9ft16ea\"",
+         "price" : "2106",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - ph717-72-766p ci7-10875h syst 1tbssd 32gb 17in rtx20708g w10h",
+         "price" : "2123",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"asus - rog zephyrus duo 15 se gx551qm-hf052t - portátil gaming de 15.6\"\" full hd (amd ryzen 7 5800h, 32gb ram, 1tb ssd, geforce r\"",
+         "price" : "2137",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elite dragonfly lpddr3-sdram híbrido (2-en-1) 33,8 cm (13.3\"\") 3840 x 2160 pixeles pantalla táctil 8ª generación de procesad\"",
+         "price" : "2163",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Hp - hp ex21013g3 i5-8350u 16g 512g w10p",
+         "price" : "2174",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - conceptd7ezelpi7-10875h32gb1024gbssdw10p",
+         "price" : "2202",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - gaming ge66 10ug-269es raider portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i9 de 10ma generación 64 gb ddr4-s\"",
+         "price" : "2246",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"microsoft - surface book 2 híbrido (2-en-1) 34,3 cm (13.5\"\") 3000 x 2000 pixeles pantalla táctil 8ª generación de pro - hnn-00028\"",
+         "price" : "2301",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook fury 17 g7 ddr4-sdram estación de trabajo móvil 43,9 cm (17.3\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma - 2c9v2ea\"",
+         "price" : "2405",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 40,6 cm (16\"\") 3072 x 1920 pixeles 9na generación de procesadores intel® core™ i9 16 gb d - mvvk2y/a\"",
+         "price" : "2508",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"apple - macbook pro portátil 40,6 cm (16\"\") 3072 x 1920 pixeles 9na generación de procesadores intel® core™ i9 16 gb d - mvvm2y/a\"",
+         "price" : "2508",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook studio g7 ddr4-sdram portátil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generación 32 gb 512 gb ssd\"",
+         "price" : "2523",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Acer - conceptd7pro i7-10875h32gb1024gbssd w10p",
+         "price" : "2736",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - creator 15 a10uh-037es portátil 39,6 cm (15.6\"\") 3840 x 2160 pixeles intel® core™ i7 de 10ma generación 64 gb ddr4-sdram 20\"",
+         "price" : "2873",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "Apple - 13in macbook air ci5 1.1 syst 8gb ssd 256gb esp sp",
+         "price" : "2947",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - elitebook x360 1020 g2 lpddr3-sdram portátil 31,8 cm (12.5\"\") 3840 x 2160 pixeles pantalla táctil 7ª generación de procesado\"",
+         "price" : "2967",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook fury 15 g7 ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 1920 x 1080 pixeles intel® core™ i7 de 10ma generació\"",
+         "price" : "3610",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"hp - zbook fury 17 g7 ddr4-sdram estación de trabajo móvil 43,9 cm (17.3\"\") 3840 x 2160 pixeles intel® core™ i9 de 10ma generació\"",
+         "price" : "3686",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      }, {
+         "desc" : "\"msi - workstation ws66 10tm-279es ddr4-sdram estación de trabajo móvil 39,6 cm (15.6\"\") 3840 x 2160 pixeles intel® core™ i9 de 10\"",
+         "price" : "3709",
+         "shop" : "Zbitt",
+         "type" : "portatiles"
+      } ]
+   }
+}

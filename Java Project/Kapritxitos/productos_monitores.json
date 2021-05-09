@@ -1,0 +1,3270 @@
+{
+   "inventory" : {
+      "products" : [ {
+         "desc" : "\"monitor 24.5\"\" aoc gaming g2590px 144hz fullhd 2xhdmi/dp hub\"",
+         "price" : "267.35",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 25\"\" lg 25um58-p ips hdmi wqhd 2560x1080 21:9\"",
+         "price" : "203.4",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 26.9\"\" samsung c27r500 curvo fullhd vga/hdmi\"",
+         "price" : "205.75",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" acer r270si ips fullhd 75hz 1ms\"",
+         "price" : "187.35",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" aoc gaming c27g1 144hz curvo hdmi/dp\"",
+         "price" : "293.05",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" dell p2719h ips fullhd hdmi/dp\"",
+         "price" : "237.3",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" gigabyte g27f 144hz 1ms fullhd 2xhdmi/dp usb3\"",
+         "price" : "276.95",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" gigabyte gaming g27fc 165hz ips fullhd\"",
+         "price" : "295.4",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" hanns hq272ppb 2560 x1440 2xhdmi altavoces\"",
+         "price" : "230.9",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" hannspree hl274hpb fullhd hdmi/dvi multimedia\"",
+         "price" : "161.4",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" keepout xgm27v3 fullhd 75hz 4ms\"",
+         "price" : "126",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" lg gaming ultragear 27gl650f 144hz\"",
+         "price" : "312.2",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" lg gaming ultragear 27gl850-b 144hz qhd\"",
+         "price" : "516.95",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" millenium gaming md27pro 144hz qhd\"",
+         "price" : "327.4",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" philips 273v7qdab ips fhd hdmi multimedia\"",
+         "price" : "172.55",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 27\"\" viewsonic vx2758-2kp-mhd 144hz qhd\"",
+         "price" : "383.35",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 31.5\"\" lg 32mn500 ips fullhd\"",
+         "price" : "199.99",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 31.5\"\" lg gaming 32gk650f-b 144hz qhd\"",
+         "price" : "407.95",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 32\"\" viewsonic vx3211-mh ips fullhd hdmi\"",
+         "price" : "248.6",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor 32\"\" viewsonic vx3276-2k-mhd 2k ips 75hz multimedia\"",
+         "price" : "291.5",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor gaming 24.5\"\" benq zowie xl2546 240hz\"",
+         "price" : "551.5",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor gaming 27\"\" lg 27gk750f-b 240hz\"",
+         "price" : "416.95",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"monitor gaming 27\"\" samsung c27rg50fqu curvo 240hz\"",
+         "price" : "328.3",
+         "shop" : "Modpc",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - soporte de montaje de cliente bs6b2234b/00",
+         "price" : "13",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - v6 v206hqlab 49,5 cm (19.5\"\") 1600 x 900 pixeles negro\"",
+         "price" : "88.25",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vs197de 47 cm (18.5\"\") 1366 x 768 pixeles wxga negro\"",
+         "price" : "88.25",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - e series e2016hv led display 49,5 cm (19.5\"\") 1600 x 900 pixeles hd+ lcd negro\"",
+         "price" : "97",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - v6 v226hql 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "103",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - e series e2020h 50,8 cm (20\"\") 1600 x 900 pixeles hd+ lcd negro\"",
+         "price" : "103",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Samsung - ls22f350fhrxen",
+         "price" : "108",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - s22a330nhu 55,9 cm (22\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "109",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - ka240hqbbid 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "111",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - hl225hpb pantalla para pc 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "114",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - v6 v246hql 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "114",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - e series e2220h 55,9 cm (22\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "116",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - s24a310nhu 61 cm (24\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "116",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - v line monitor lcd con smartcontrol lite 223v5lhsb2/00",
+         "price" : "117",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vz229he 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "119",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vp228he 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "119",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 20mk400h-b pantalla para pc 50,8 cm (20\"\") 1366 x 768 pixeles wxga led negro\"",
+         "price" : "121",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - v7 v227qbip 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "122",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - v line monitor lcd full hd 223v7qdsb/00",
+         "price" : "122",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"nilox - nxmmled236el led display 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "122",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - professional b226hql 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd gris\"",
+         "price" : "123",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vs247hr 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "124",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - sa240yabi 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "124",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - va249he 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "125",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - he 247 hpb 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "125",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vc239he-w 58,4 cm (23\"\") 1920 x 1080 pixeles full hd led negro, blanco\"",
+         "price" : "126",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - hc240hfw pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led plata, blanco\"",
+         "price" : "127",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - hanns.g hp 225 pjb 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "130",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 22mk400h-b pantalla para pc 55,9 cm (22\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "130",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - e series e2421hn 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "131",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vp247hae 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "131",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vz249he 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "132",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - v7 v247ybip 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "133",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - f24t350fhr 61 cm (24\"\") 1920 x 1080 pixeles negro\"",
+         "price" : "133",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - r240y 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "133",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vp229he 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "133",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite x2283hs-b5 led display 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "133",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series se2219h 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "133",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - v24 fhd 61 cm (24\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "134",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - gw2283 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "134",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - e series e2318h 58,4 cm (23\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "134",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - gw2280 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "134",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - essenti 21.5 1920x1080fhd 2hdmi",
+         "price" : "134",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - p-series p21b g4 52,6 cm (20.7\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "135",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - va24dq 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "135",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vp248h 61 cm (24\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "136",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - v24 fhd 61 cm (24\"\") 1920 x 1080 pixeles full hd led\"",
+         "price" : "136",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vz249he-w pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led blanco\"",
+         "price" : "137",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - hs248ppb led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "139",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - hx194hpb pantalla para pc 48,3 cm (19\"\") 1280 x 1024 pixeles sxga led negro\"",
+         "price" : "139",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - e series e1715s 43,2 cm (17\"\") 1280 x 1024 pixeles sxga led negro\"",
+         "price" : "139",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vz249he 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "139",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - b1 24b1h pantalla para pc 61 cm (24\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "140",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"xiaomi - 1c 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "140",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - b6 b226hqlymiprx 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led gris\"",
+         "price" : "141",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - m2060pwda2 led display 49,6 cm (19.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "141",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - m2470swh led display 61 cm (24\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "142",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - b2 24b2xhm2 pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "142",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series s2421hn 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd gris\"",
+         "price" : "142",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vp229q 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "142",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - led lcd va2405-h led display 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "143",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - e series e2420h 61 cm (24\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "143",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xu2294hsu-b1 led display 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "143",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xu2292hs-b1 led display 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "143",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Nilox - monitor led 27 fhd hdmi vga",
+         "price" : "144",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - b2 24b2xh pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "144",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 24mk400h-b pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "145",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - ka0 ka270habid 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "145",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - monitor 23.8 gw2480",
+         "price" : "146",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - bl2480 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro - 9h.lh1la.cpe\"",
+         "price" : "146",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - 23 8 led 1920x1080 16:9 5ms mntr gw2480 250cdm dp hdmi mm in",
+         "price" : "146",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - v line monitor lcd full hd 243v7qdsb/00",
+         "price" : "147",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite x2474hs-b2 pantalla para pc 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "148",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - b7 b227q 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro - um.wb7ee.006\"",
+         "price" : "149",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - v line monitor lcd full hd 223v7qhab/00",
+         "price" : "150",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - va2418-sh 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "150",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 24mk430h-b led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "150",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vy249he 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "151",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - va229qsb 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "151",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - mb168b 39,6 cm (15.6\"\") 1366 x 768 pixeles hd negro, plata\"",
+         "price" : "151",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xu2390hs 58,4 cm (23\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "152",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - b2 24b2xdam led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "152",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - professional p2219h_wost 55,9 cm (22\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "152",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - f24t400fhr 61 cm (24\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "153",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - v line monitor lcd full hd 243v7qdab/00",
+         "price" : "153",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 22mk600m-b led display 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "153",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 22bl450y-b pantalla para pc 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "153",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - se2417hgx 61 cm (24\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "153",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - ka ka272bi 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "154",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - 24fh 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro, plata\"",
+         "price" : "154",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series s2421h 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd gris\"",
+         "price" : "154",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xu2492hsu 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "155",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master g2530hsu-b1 led display 62,2 cm (24.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "155",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite x2483hsu-b3 led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "155",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xu2395wsu-b1 led display 57,1 cm (22.5\"\") 1920 x 1200 pixeles wuxga negro\"",
+         "price" : "155",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 24mp59g-p led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "155",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - bl2480 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro - 9h.lh1la.tbe\"",
+         "price" : "156",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Nilox - monitor ips led 27 hdmi vga lbl 2ms",
+         "price" : "156",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - v line 271v8l/00 led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "156",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - gw2480 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "156",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2217 led display 55,9 cm (22\"\") 1680 x 1050 pixeles wsxga+ lcd negro\"",
+         "price" : "156",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - hl274hpb led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "156",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - va24ehl 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "157",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - be249qlb-g 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led gris\"",
+         "price" : "157",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - 22m 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "157",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vb199tl 48,3 cm (19\"\") 1280 x 1024 pixeles sxga led negro\"",
+         "price" : "157",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite b1780sd-b1 pantalla para pc 43,2 cm (17\"\") 1280 x 1024 pixeles led negro\"",
+         "price" : "158",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - v line monitor lcd full hd 273v7qdsb/00",
+         "price" : "158",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - c24-25 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "159",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - pro mp242 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "159",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - hs275hfb led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro, gris\"",
+         "price" : "160",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - hp247hjv led display 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "160",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - hs278ppb led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro, gris\"",
+         "price" : "160",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - 27b2h pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "160",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xub2294hsu-w1 led display 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd negro, blanco\"",
+         "price" : "162",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - f24t450fqr 61 cm (24\"\") 1920 x 1080 pixeles negro\"",
+         "price" : "162",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series s2421hs 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd plata\"",
+         "price" : "162",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - va27ehe 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "163",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - v line 271v8la/00 led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "163",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - b2 27b2h/eu led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "163",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - v line monitor lcd full hd 273v7qdab/00",
+         "price" : "164",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Huawei - monitor 23.8 ips 16:9 1920x1080p",
+         "price" : "164",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hannspree - hc 270 hcb 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "164",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite e1980sd 48,3 cm (19\"\") 1280 x 1024 pixeles sxga led negro\"",
+         "price" : "165",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xub2292hs-b1 led display 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "165",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xb2481hs-b1 led display 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "165",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - v7 v277bip 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "166",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 24bk550y-b led display 61 cm (24\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "166",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"keepout - xgm27v3 pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro, rojo\"",
+         "price" : "167",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2219h led display 55,9 cm (22\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "167",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - gl2480 61 cm (24\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "167",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - v line 272v8la/00 pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "168",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vg series vg2239smh-2 pantalla para pc 55,9 cm (22\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "168",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - lf27t350fhu 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "168",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - ew2480 60,5 cm (23.8\"\") 1920 x 1080 pixeles ips negro, gris\"",
+         "price" : "169",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - e2475pwj pantalla para pc 61 cm (24\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "170",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix g241v 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "171",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix g241vc 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "172",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vp248qg 61 cm (24\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "172",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 24tl510v-pz led display 59,9 cm (23.6\"\") 1366 x 768 pixeles hd negro\"",
+         "price" : "172",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2419h 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "173",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - b2 27b2da led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "173",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xb2474hs-b2 led display 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "173",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision t23d 57,1 cm (22.5\"\") 1920 x 1200 pixeles wuxga led negro\"",
+         "price" : "175",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xub2390hs-b1 led display 58,4 cm (23\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite x1670hc-b1 pantalla para pc 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite b2280wsd-b1 led display 55,9 cm (22\"\") 1680 x 1050 pixeles negro\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite b1980sd 48,3 cm (19\"\") 1280 x 1024 pixeles led negro\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xub2496hsu-b1 led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xub2492hsu-w1 led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd blanco\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series s2721hn 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd gris\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 24mk600m-w pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro, plata, blanco\"",
+         "price" : "177",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c27f390fhr 68,6 cm (27\"\") 1920 x 1080 pixeles negro\"",
+         "price" : "177",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - p1 22p1 pantalla para pc 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "177",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 24tl510v-wz led display 59,9 cm (23.6\"\") 1366 x 768 pixeles hd blanco\"",
+         "price" : "177",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vp279he 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "178",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - va2732-h 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "178",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - value series va2718-sh led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "178",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27mk400h-b pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "179",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vp279he pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "179",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p1917s 19\"\" hd ips negro pantalla para pc\"",
+         "price" : "179",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - b7 b227q 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro - um.wb7ee.008\"",
+         "price" : "180",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - r0 r270 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "180",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27mk430h-b pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "180",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series s2721h 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd gris\"",
+         "price" : "181",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - l24i-30 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro, gris\"",
+         "price" : "182",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vz279he-w 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro, blanco\"",
+         "price" : "182",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - e series e2720hs 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "182",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2319h 58,4 cm (23\"\") 1920 x 1080 pixeles full hd lcd negro - dell-p2319h\"",
+         "price" : "182",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2018h 50,8 cm (20\"\") 1600 x 900 pixeles hd+ lcd negro\"",
+         "price" : "183",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vy279he 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "183",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - ed242qr 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "183",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision t2054p 49,5 cm (19.5\"\") 1440 x 900 pixeles wxga+ led negro\"",
+         "price" : "184",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - 24g2u5/bk pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "185",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx2458-mhd 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd led negro, rojo\"",
+         "price" : "186",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2319h 58,4 cm (23\"\") 1920 x 1080 pixeles full hd lcd negro - dell-p2319he\"",
+         "price" : "187",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - s line monitor lcd con tecnología softblue 243s7eymb/00",
+         "price" : "187",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - be239qlbh 58,4 cm (23\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "187",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite x2783hsu-b3 pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "188",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - 24f 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led plata\"",
+         "price" : "188",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"nec - multisync e233wmi 58,4 cm (23\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "189",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision t23i-20 58,4 cm (23\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "189",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - va2732-mhd pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "190",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - e series e2720h 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "190",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - gw2480t 60,5 cm (23.8\"\") 1920 x 1080 pixeles led negro\"",
+         "price" : "190",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - bl2483tm 61 cm (24\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "190",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series s2721hs 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro, plata\"",
+         "price" : "191",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - bl2381t 57,1 cm (22.5\"\") 1920 x 1200 pixeles wuxga led negro\"",
+         "price" : "191",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2419h 61 cm (24\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "191",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27mp59g-p led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "191",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 25bl55wy-b pantalla para pc 63,5 cm (25\"\") 1920 x 1200 pixeles full hd negro\"",
+         "price" : "192",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - b7 b227qbmiprzx 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "193",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - hp e22 g4 fhd monitor",
+         "price" : "193",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - mb169c+ 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd led negro, plata\"",
+         "price" : "193",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - cb2 cb272 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "193",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - b line monitor lcd 241b8qjeb/00",
+         "price" : "194",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 24bl650c-b led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd ips negro\"",
+         "price" : "195",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series s2421hgf 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "196",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master g2730hsu-b1 led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "198",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xu2792hsu-b1 led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "198",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master red eagle 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro - g2470hsu-b1\"",
+         "price" : "198",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - 27w led monitor bl2780 black",
+         "price" : "198",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - f27t450fqu 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "198",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master g2466hsu-b1 led display 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "198",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision s27e-20 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "199",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - be24eqsb 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "200",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - pro mp271 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "201",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - gl2780e",
+         "price" : "201",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - bl2780 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "201",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - gw2780 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "201",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c24rg50fqr 59,7 cm (23.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "202",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - elitedisplay e202 50,8 cm (20\"\") 1600 x 900 pixeles hd+ led negro, plata\"",
+         "price" : "202",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vz279heg1r 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "203",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - gl2780 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro - 9h.lj6lb.vbe\"",
+         "price" : "203",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix mag161v 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "203",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - mb169b+ 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd led negro, plata\"",
+         "price" : "203",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"nec - multisync e243wmi 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "203",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - zenscreen mb16ace 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd led gris\"",
+         "price" : "203",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - e-series e23 g4 58,4 cm (23\"\") 1920 x 1080 pixeles full hd lcd negro, plata\"",
+         "price" : "204",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - hp p27v g4 fhd monitor 27in mntr fhd 1920x1080 300nitsvga/hdmi in",
+         "price" : "204",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27mk600m-w pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "207",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - lf24t650fyr pantalla para pc 61 cm (24\"\") 1920 x 1080 pixeles full hd gris\"",
+         "price" : "207",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx2458-p-mhd pantalla para pc 61 cm (24\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "207",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 24gl650-b led display 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd negro, rojo\"",
+         "price" : "207",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27mk600m-b pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "208",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx2776-smh pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led plata\"",
+         "price" : "209",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - be24eqk 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "209",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx2458-c-mhd 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "209",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"nec - multisync e241n 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "210",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"nec - multisync e223w 55,9 cm (22\"\") 1680 x 1050 pixeles led negro\"",
+         "price" : "211",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vg series vg2440v led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "211",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - s line 272s1ae/00 led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "212",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - bl2783 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "212",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - gl2780 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro - 9h.lj6lb.qbe\"",
+         "price" : "212",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - i2490pxqu/bt pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led gris\"",
+         "price" : "213",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - pro mp271p 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "214",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - e24 g4 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro, plata\"",
+         "price" : "216",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - p24q g4 60,5 cm (23.8\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "216",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2421 61,2 cm (24.1\"\") 1920 x 1200 pixeles wuxga lcd negro\"",
+         "price" : "218",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - b line 242b1h/00 led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "219",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx2485-mhu led display 61 cm (24\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "219",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vg series vg2719 led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "219",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master red eagle 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "219",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - g1 c24g1 led display 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "220",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx2718-pc-mhd led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "221",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xub2796hsu-b1 led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "222",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xub2792hsu-w1 pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led blanco\"",
+         "price" : "222",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master gb2470hsu-b1 pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "222",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xu2595wsu-b1 pantalla para pc 63,4 cm (24.9\"\") 1920 x 1200 pixeles wuxga led negro\"",
+         "price" : "222",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master gb2730hsu-b1 led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "222",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"keepout - xgm272k led display 68,6 cm (27\"\") 2560 x 1440 pixeles 2k ultra hd negro, rojo\"",
+         "price" : "223",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg249q1r 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "223",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - bl2581t 63,5 cm (25\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "224",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - ew2780 68,6 cm (27\"\") 1920 x 1080 pixeles ips gris\"",
+         "price" : "225",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - bl2780t 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "225",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg249q1a 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "227",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision t22v-20 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "228",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - be24aqlbh 61,2 cm (24.1\"\") 1920 x 1200 pixeles wuxga led negro\"",
+         "price" : "228",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - p27h g4 68,6 cm (27\"\") 1920 x 1080 pixeles full hd ips\"",
+         "price" : "229",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 29wl500-b pantalla para pc 73,7 cm (29\"\") 2560 x 1080 pixeles ultrawide full hd led negro\"",
+         "price" : "229",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - p27v g4 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "230",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vp series vp2458 pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "231",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - g24-10 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "231",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix g24c6 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "231",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master gb2560hsu-b1 led display 62,2 cm (24.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "232",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - brilliance monitor lcd con powersensor 221b7qpjkeb/00",
+         "price" : "233",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vx279hg 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "234",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - 27p2q led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "234",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2719h 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "235",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkcentre tiny in one 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "236",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c32r500fhr 81,3 cm (32\"\") 1920 x 1080 pixeles full hd led gris\"",
+         "price" : "236",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - v4 q27v4ea led display 68,6 cm (27\"\") 2560 x 1440 pixeles 2k ultra hd negro\"",
+         "price" : "236",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - b line 243b9/00 pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "237",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"v7 - monitor de pantalla táctil portátil usb-c de 15,6\"\", 1080p, hdmi, ips, ultrafino, 10 puntos de contacto, tipo c, altavoz, 16\"",
+         "price" : "238",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 29wp60g-b pantalla para pc 73,7 cm (29\"\") 2560 x 1080 pixeles ultrawide full hd led negro\"",
+         "price" : "240",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series s2721hgf 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "240",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - 27m 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led blanco\"",
+         "price" : "241",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg24vqe 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "244",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - be24eqsk 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "244",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - zenscreen mb16acm 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd led gris\"",
+         "price" : "244",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vg248qe 61 cm (24\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "244",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - mb14ac 35,6 cm (14\"\") 1920 x 1080 pixeles full hd gris\"",
+         "price" : "244",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - zenscreen mb16ac 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd led gris\"",
+         "price" : "244",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - be24dqlb 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "245",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"nec - multisync ea224wmi 54,6 cm (21.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "245",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg249q 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "246",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - b7 b277bmiprzx 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "247",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - hp e24q g4 qhd monitor",
+         "price" : "248",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - bl2420pt 60,5 cm (23.8\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "248",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - b7 b277bmiprx 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "251",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 24gn650-b pantalla para pc 61 cm (24\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "252",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c27t550fdr 68,6 cm (27\"\") 1920 x 1080 pixeles negro\"",
+         "price" : "252",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - x series xg2405 pantalla para pc 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "252",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix g241 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro - optix g241\"",
+         "price" : "252",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix g241 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro - 9s6-3ba41t-006\"",
+         "price" : "254",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - va27dqsb 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "254",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vx279c 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "254",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg24vq 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "255",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - hp e27 g4 fhd monitor 27in mntr 1920x1080 vga/hdmi/disp port in",
+         "price" : "255",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master red eagle 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "255",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Samsung - lu28e590dsz/en",
+         "price" : "257",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - s27am502nu 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "257",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - s27am500nu 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "259",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vg248qg 61 cm (24\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "259",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - s27am500nr 68,6 cm (27\"\") 1920 x 1080 pixeles negro\"",
+         "price" : "260",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx3276-2k-mhd pantalla para pc 80 cm (31.5\"\") 2560 x 1440 pixeles quad hd led negro, plata\"",
+         "price" : "260",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - xl2411k 61 cm (24\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "260",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - value series va2719-2k-smhd pantalla para pc 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "260",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx3211-mh pantalla para pc 81,3 cm (32\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "260",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - g25-10 62,2 cm (24.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "261",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vg series vg1655 led display 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd plata\"",
+         "price" : "262",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 29wn600-w pantalla para pc 73,7 cm (29\"\") 2560 x 1080 pixeles ultrawide full hd led plata\"",
+         "price" : "263",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg24vqr pantalla para pc 59,9 cm (23.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "264",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"keepout - xgm27qhd+ pantalla para pc 68,6 cm (27\"\") 2560 x 1440 pixeles 2k ultra hd led negro, rojo\"",
+         "price" : "264",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - proart pa248qv 61,2 cm (24.1\"\") 1920 x 1200 pixeles wuxga led negro\"",
+         "price" : "265",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master gb2730qsu-b1 led display 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "266",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx2758-pc-mh pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "267",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - p27q g4 qhd 27in 16:9 1000:1 mntr 5ms 2560x1440 hdmi vga in",
+         "price" : "268",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - pb247q 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "269",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - elitedisplay s14 35,6 cm (14\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "270",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2421d 60,5 cm (23.8\"\") 2560 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "271",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx3218-pc-mhd led display 80 cm (31.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "272",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master gb2760hsu-b1 pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "272",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - 24in lcd 1920x1080 16:9 14ms mntr 1js07a4 1000:1 dp/usb in",
+         "price" : "272",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c32t550fdu 80 cm (31.5\"\") 1920 x 1080 pixeles full hd azul, gris\"",
+         "price" : "273",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - 273b9/00 led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "273",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision m14 35,6 cm (14\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "273",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - b line 243b1/00 led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "273",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkcentre tiny-in-one 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro - 11gdpat1eu\"",
+         "price" : "273",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - b line 241b7qupbeb/00 led display 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "278",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - pa247cv 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro, plata\"",
+         "price" : "279",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vg258qr 62,2 cm (24.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "279",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vg279q1r 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "279",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg259qr 62,2 cm (24.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "279",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c32t550fdr 81,3 cm (32\"\") 1920 x 1080 pixeles negro, azul, gris\"",
+         "price" : "280",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27gl63t-b pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "281",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master black hawk 68,6 cm (27\"\") 2560 x 1440 pixeles wqxga led negro\"",
+         "price" : "282",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite b2791qsu-b1 pantalla para pc 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "282",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vg series vg2755 pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "283",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series 3276-mhd-2 81,3 cm (32\"\") 1920 x 1080 pixeles full hd led plata\"",
+         "price" : "283",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - b7 b277ubmiipprzx 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "284",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - x series xg2705 pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "285",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"gigabyte - g27f-ek led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "287",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkcentre tiny-in-one 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro - 11gepat1eu\"",
+         "price" : "287",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c27g53tqwu 68,6 cm (27\"\") 2560 x 1440 pixeles negro\"",
+         "price" : "288",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision p24q-20 60,5 cm (23.8\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "288",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - e24u g4 fhd mntr 1920x1080 usb-c 65w hdmi dp in",
+         "price" : "288",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vg278q 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "289",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg279q1a 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "289",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vg279q1a pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "290",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27gl650f-b led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "290",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"cooler master - gm27-cf 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "290",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Gigabyte - monitor gigabyte 27 m27f-ek",
+         "price" : "292",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - u2421he 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd lcd negro, plata\"",
+         "price" : "296",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c27g55tqwr 68,6 cm (27\"\") 2560 x 1440 pixeles negro\"",
+         "price" : "297",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"gigabyte - g27fc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "299",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - m5 ls32am500nu 81,3 cm (32\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "299",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - 162b9t/00 pantalla para pc 39,6 cm (15.6\"\") 1366 x 768 pixeles lcd negro\"",
+         "price" : "299",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - mb16ah 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd negro, gris\"",
+         "price" : "300",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vg279q 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "300",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg27vq pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "300",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx2718-2kpc-mhd led display 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "301",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg279qr 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "301",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision s27q-10 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "302",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - s32am500nr 81,3 cm (32\"\") 1920 x 1080 pixeles negro\"",
+         "price" : "304",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xb3270qs-b1 pantalla para pc 80 cm (31.5\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "305",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 32gn500-b led display 80 cm (31.5\"\") 1920 x 1080 pixeles full hd negro, rojo\"",
+         "price" : "307",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - el2870u 70,9 cm (27.9\"\") 3840 x 2160 pixeles 4k ultra hd led negro, gris\"",
+         "price" : "308",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Millenium - monitor gam millenium 27 qhd,144hz,2560x1440,1ms,hdmi,display port,16:9.",
+         "price" : "308",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - ex2710 pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led gris\"",
+         "price" : "308",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27ul500-w pantalla para pc 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led plata\"",
+         "price" : "308",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - ex2710u 68,6 cm (27\"\") full hd\"",
+         "price" : "310",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 29bn650-b pantalla para pc 73,7 cm (29\"\") 2560 x 1080 pixeles ultrawide full hd negro\"",
+         "price" : "311",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c27rg50fqr 68,6 cm (27\"\") 1920 x 1080 pixeles negro\"",
+         "price" : "314",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xub2796qsu-b1 led display 68,6 cm (27\"\") 2560 x 1440 pixeles 2k ultra hd negro\"",
+         "price" : "315",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p2421dc 60,5 cm (23.8\"\") 2560 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "315",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - pro mp271qp 68,6 cm (27\"\") 2560 x 1440 pixeles led negro\"",
+         "price" : "316",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - ultrasharp u2421e 61,2 cm (24.1\"\") 1920 x 1200 pixeles wuxga lcd negro, plata\"",
+         "price" : "316",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - 79 series u2879vf pantalla para pc 71,1 cm (28\"\") 3840 x 2160 pixeles 4k ultra hd lcd negro, plata\"",
+         "price" : "316",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 32qk500 80 cm (31.5\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "316",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - 65e6kac1eu pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "317",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - mb16ap 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd gris\"",
+         "price" : "319",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - lu32j590uqu 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "321",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c27rg50fqu 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "322",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - va27aqsb 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "322",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - professional p2720d 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "326",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master gb2760qsu-b1 led display 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "326",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx3211-2k-mhd pantalla para pc 81,3 cm (32\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "326",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - td1655 led display 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd plata\"",
+         "price" : "329",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg279ql1a 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "329",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - pb278qv 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "329",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix g32c4 80 cm (31.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "329",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27qn600-b pantalla para pc 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "329",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - zenscreen mb16ahp 39,6 cm (15.6\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "329",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - lt340c 81,3 cm (32\"\") 1366 x 768 pixeles hd led negro\"",
+         "price" : "330",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - pd2500q 63,5 cm (25\"\") 2560 x 1440 pixeles quad hd lcd gris\"",
+         "price" : "330",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - xl2731 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "331",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - pd2500q/25 2560x1440 wqhd ips 350 cd/m2",
+         "price" : "332",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - ew2780q 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro, gris\"",
+         "price" : "332",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - zowie xl2731 27in tn led 1ms mntr 1920x1080 16:9 1000:1 hdmi",
+         "price" : "333",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - pb278q 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "335",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - v4 u27v4ea pantalla para pc 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "336",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27ul550 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led plata\"",
+         "price" : "336",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 32gn550-b pantalla para pc 80 cm (31.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "338",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 34wl500-b pantalla para pc 86,4 cm (34\"\") 2560 x 1080 pixeles ultrawide full hd led negro\"",
+         "price" : "338",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - vp28uqgl 71,1 cm (28\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "340",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkcentre tiny-in-one 60,5 cm (23.8\"\") 1920 x 1080 pixeles full hd led negro - 11gcpat1eu\"",
+         "price" : "342",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - e14 g4 portable monitor",
+         "price" : "342",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - hp z24n g3 wuxga display",
+         "price" : "343",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - g27c-10 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "343",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx2705-2kp-mhd led display 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "343",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 34wp65g-b pantalla para pc 86,4 cm (34\"\") 2560 x 1080 pixeles ultrawide full hd negro\"",
+         "price" : "348",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c32g55tqwr 81,3 cm (32\"\") 2560 x 1440 pixeles negro\"",
+         "price" : "348",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - monitor lcd con smoothtouch 222b9t/00",
+         "price" : "348",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg328h1b 80 cm (31.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "349",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg258qm 62,2 cm (24.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "349",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - ur590 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd negro\"",
+         "price" : "350",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - u32j590uqr 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd lcd negro\"",
+         "price" : "351",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - vg270up 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "354",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix mag274r 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "354",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - pd2700q 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "355",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision s28u-10 71,1 cm (28\"\") 3840 x 2160 pixeles 4k ultra hd lcd negro\"",
+         "price" : "357",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - u28r550uqr 71,1 cm (28\"\") 3840 x 2160 pixeles 4k ultra hd led azul, gris\"",
+         "price" : "358",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg27wq1b 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "359",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 34wn650-w led display 86,4 cm (34\"\") 2560 x 1080 pixeles ultrawide full hd blanco\"",
+         "price" : "360",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision m14t 35,6 cm (14\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "362",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 32qn600-b pantalla para pc 81,3 cm (32\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "364",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision t27q-20 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "364",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - proart pa278qv 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "369",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - hp e23 g4 23in ips mntr kit promo bundle 2 units",
+         "price" : "370",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 32gn650-b pantalla para pc 80 cm (31.5\"\") 2560 x 1440 pixeles quad hd led negro, rojo\"",
+         "price" : "370",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision t25m-10 63,5 cm (25\"\") 1920 x 1200 pixeles wuxga led negro\"",
+         "price" : "371",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx2785-2k-mhdu led display 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "372",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - c32g2ze/bk pantalla para pc 80 cm (31.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "374",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision t27h-20 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "377",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - b6 b276hule 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led gris\"",
+         "price" : "378",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27ul650-w led display 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd plata\"",
+         "price" : "378",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"gigabyte - g27q 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "379",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg289q1a 71,1 cm (28\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "380",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master gb3266qsu-b1 led display 81,3 cm (32\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "381",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - xl2540k 62,2 cm (24.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "385",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg289q 71,1 cm (28\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "387",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - proart pa24ac pantalla para pc 61 cm (24\"\") 1920 x 1200 pixeles wuxga plata\"",
+         "price" : "387",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Gigabyte - monitor gigabyte 27 g27qc-ek",
+         "price" : "388",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg27wq 68,6 cm (27\"\") 2560 x 1440 pixeles full hd led negro\"",
+         "price" : "389",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27gn750-b led display 68,6 cm (27\"\") 1920 x 1080 pixeles full hd negro, rojo\"",
+         "price" : "391",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite b2875uhsu-b1 pantalla para pc 71,1 cm (28\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "392",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - hp e24 g4 fhd monitor mntr promo bundle 2 units in",
+         "price" : "393",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - ultrasharp u2520d 63,5 cm (25\"\") 2560 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "393",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix g32cq4 80 cm (31.5\"\") 2560 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "395",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - e2 u32e2n led display 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd negro\"",
+         "price" : "398",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - ls34j550wqu led display 86,6 cm (34.1\"\") 3440 x 1440 pixeles ultrawide quad hd negro\"",
+         "price" : "399",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix mag322cr 80 cm (31.5\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "399",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg279qm 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "399",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - proart pa24ac 61,2 cm (24.1\"\") 1920 x 1200 pixeles wuxga led plata\"",
+         "price" : "400",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - ls34j550wqr 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "401",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Gigabyte - monitor gigabyte 27 m27q-ek",
+         "price" : "401",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - z27qg3 27in qhd ips usb/dp/hdmimntr 1000:1 350cd/cm 178h/178v 5ms in",
+         "price" : "402",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - ultrasharp u2719d led display 68,6 cm (27\"\") 2560 x 1440 pixeles wide quad hd lcd negro\"",
+         "price" : "403",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - xv272up 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "404",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 32un500-w pantalla para pc 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd negro, blanco\"",
+         "price" : "411",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - s32am700ur 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "412",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Philips - monitor lcd con smoothtouch 242b9t/00",
+         "price" : "412",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"nec - multisync ea271f 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "414",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - s32am700uu 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd negro\"",
+         "price" : "414",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - va3456-mhdj 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "415",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix g27cq4 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "415",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"gigabyte - g32qc a pantalla para pc 80 cm (31.5\"\") 2560 x 1440 pixeles 2k ultra hd led negro\"",
+         "price" : "421",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series s3221qs 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd lcd negro, gris\"",
+         "price" : "423",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx3276-4k-mhd pantalla para pc 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd led plata\"",
+         "price" : "425",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vx series vx3211-4k-mhd 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd lcd negro\"",
+         "price" : "425",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg32vq1br 80 cm (31.5\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "429",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - proart pa278cv 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "429",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - nitro xz2 80 cm (31.5\"\") 2560 x 1440 pixeles quad hd led negro, rojo\"",
+         "price" : "432",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xub3493wqsu-b1 pantalla para pc 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "435",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - 3840/2160 uhd hdmi gr 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led plata\"",
+         "price" : "439",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - pd2705q 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led gris\"",
+         "price" : "439",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - 27xq 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "442",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - prolite xb3288uhsu-b1 led display 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd negro\"",
+         "price" : "447",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg27aq1a 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "450",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - q27h-10 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led gris\"",
+         "price" : "454",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27uk670-b pantalla para pc 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led antracita\"",
+         "price" : "456",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - cb2 cb342cksmiiphzx 86,4 cm (34\"\") 3440 x 1440 pixeles 4k ultra hd led negro, plata\"",
+         "price" : "457",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s series s2721dgfa 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "462",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 34wn750-b led display 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd negro\"",
+         "price" : "462",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - hp e27 g4 fhd monitor mntr promo bundle 2 units in",
+         "price" : "462",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Gigabyte - monitor gigabyte 25 aorus fi25f-ek",
+         "price" : "463",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg27bq 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "469",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - 9h.lj8la.tbe pantalla para pc 68,6 cm (27\"\") 2560 x 1440 pixeles led gris, metálico\"",
+         "price" : "473",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Lg - lg monitor 34gn73a-b 34",
+         "price" : "478",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkcentre tiny-in-one 27 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "479",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - b line 345b1c/00 pantalla para pc 86,4 cm (34\"\") 3440 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "479",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg32vq 80 cm (31.5\"\") 2560 x 1440 pixeles led negro\"",
+         "price" : "480",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - rog strix xg17ahpe 43,9 cm (17.3\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "484",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - cm2241w 61 cm (24\"\") 1920 x 1200 pixeles wuxga negro\"",
+         "price" : "484",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - xg27wq 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "490",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix mag322cqr 80 cm (31.5\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "494",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix mag321curv 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd wva negro\"",
+         "price" : "494",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - ew3270u 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd led negro, gris, metálico\"",
+         "price" : "494",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix mag274qrf 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "495",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - sw240 61,2 cm (24.1\"\") 1920 x 1080 pixeles full hd led gris\"",
+         "price" : "495",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - ew3270u 31.5 '''' led 4k 4ms",
+         "price" : "498",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - ew2780u 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led negro, marrón\"",
+         "price" : "498",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg27aq 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "499",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27ul850-w pantalla para pc 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led plata\"",
+         "price" : "499",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - s2719dc pantalla para pc 68,6 cm (27\"\") 2560 x 1440 pixeles wide quad hd lcd plana plata\"",
+         "price" : "506",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - g series c34g55twwu 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd lcd negro\"",
+         "price" : "509",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 35wn65c-b pantalla para pc 88,9 cm (35\"\") 3440 x 1440 pixeles ultrawide quad hd negro\"",
+         "price" : "510",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - proart pa279cv 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led negro, plata\"",
+         "price" : "513",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - odyssey c34g55twwr 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "517",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"nec - multisync ea295wmi 73,7 cm (29\"\") 2560 x 1080 pixeles qxga lcd blanco\"",
+         "price" : "521",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master gb3461wqsu-b1 pantalla para pc 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "522",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vg series vg3448 pantalla para pc 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "524",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - zowie xl2546 62,2 cm (24.5\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "528",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - z27u g3 68,6 cm (27\"\") 2560 x 1440 pixeles 2k ultra hd led plata\"",
+         "price" : "530",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"gigabyte - aorus fi27q 68,6 cm (27\"\") 2560 x 1440 pixeles 2k ultra hd led negro - fi27q-ek\"",
+         "price" : "531",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg27aql1a 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "532",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - xl2546/25 1920x1080 tn 16:9",
+         "price" : "532",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"iiyama - g-master gb3466wqsu-b1 led display 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd negro\"",
+         "price" : "533",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - lc34h890wgu 86,4 cm (34\"\") 3440 x 1440 pixeles quad hd qled negro\"",
+         "price" : "534",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c34h890wgr 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd negro\"",
+         "price" : "536",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - ultrasharp up2716d 68,6 cm (27\"\") 2560 x 1440 pixeles 2k ultra hd led negro, plata\"",
+         "price" : "536",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"gigabyte - g34wqc led display 86,4 cm (34\"\") 3440 x 1440 pixeles quad hd negro\"",
+         "price" : "538",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c34h890wgr 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide full hd plata\"",
+         "price" : "538",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - 27 4kuhd f/desing hdmi dp",
+         "price" : "545",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - ex3203r 80 cm (31.5\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "545",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - e27d g4 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "546",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - predator xb271hua 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "547",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"elo touch solution - i-series 3.0 andr8.1 10.1in hd1 25,6 cm (10.1\"\") 1280 x 800 pixeles lcd negro\"",
+         "price" : "553",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - rog strix xg32vc 80 cm (31.5\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "564",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - elite xg270qc led display 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "565",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - xl2546k 62,2 cm (24.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "578",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hikvision digital technology - ds-d5043qe pantalla para pc 108 cm (42.5\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "583",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 35wn75c-b pantalla para pc 88,9 cm (35\"\") 3440 x 1440 pixeles ultrawide quad hd negro\"",
+         "price" : "589",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - rog strix xg17ahp 43,9 cm (17.3\"\") 1920 x 1080 pixeles full hd led negro, gris\"",
+         "price" : "595",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Benq - zowie xl2740 68.58cm 27in tn mntr 1920x1080 16:9 400cd dp 1ms",
+         "price" : "604",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - p3421w 86,7 cm (34.1\"\") 3440 x 1440 pixeles quad hd lcd negro, plata\"",
+         "price" : "605",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 34wn780-b pantalla para pc 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "608",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"nec - multisync ea295wmi 73,7 cm (29\"\") 2560 x 1080 pixeles qxga lcd negro\"",
+         "price" : "634",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg35vq 88,9 cm (35\"\") 3440 x 1440 pixeles ultrawide dual quad hd led negro\"",
+         "price" : "643",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - tuf gaming vg34vql1b 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "643",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - odyssey c27g75tqsu 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd qled negro\"",
+         "price" : "644",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c27g75tqsr 68,3 cm (26.9\"\") 2560 x 1440 pixeles negro\"",
+         "price" : "656",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision t32p-20 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd lcd negro\"",
+         "price" : "658",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"gigabyte - aorus fi27q 68,6 cm (27\"\") 2560 x 1440 pixeles 2k ultra hd led negro - aorus fi27qp-ek\"",
+         "price" : "661",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - proart pa27ac 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro, gris\"",
+         "price" : "663",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - g34w-10 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd negro\"",
+         "price" : "679",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 43un700-b led display 108 cm (42.5\"\") 3840 x 2160 pixeles negro\"",
+         "price" : "681",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - xl2746s 68,6 cm (27\"\") 1920 x 1080 pixeles full hd lcd negro\"",
+         "price" : "687",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"cooler master - gaming gm34-cw 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd negro\"",
+         "price" : "713",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - ew3280u 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd led negro, marrón\"",
+         "price" : "713",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vp2785-2k pantalla para pc 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro, plata\"",
+         "price" : "715",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27cn650n-6a pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "718",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision t34w-20 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd lcd negro\"",
+         "price" : "720",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c34j791wtr 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd qled blanco\"",
+         "price" : "724",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Gigabyte - monitor gigabyte 27 aorus fi27q-x-ek",
+         "price" : "726",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c32g75tqsu 81,3 cm (32\"\") 2560 x 1440 pixeles quad hd qled negro\"",
+         "price" : "743",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - legion y27gq-20 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro - 65ecgac1eu\"",
+         "price" : "751",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c32g75tqsr 80 cm (31.5\"\") 2560 x 1440 pixeles qled negro\"",
+         "price" : "752",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - ag273qz pantalla para pc 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro, rojo\"",
+         "price" : "755",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - rog swift pg259qn 62,2 cm (24.5\"\") 1920 x 1080 pixeles full hd negro\"",
+         "price" : "762",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - pd3200u 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "771",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 27cn650w-ac pantalla para pc 68,6 cm (27\"\") 1920 x 1080 pixeles full hd led negro\"",
+         "price" : "772",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - ex3501r 88,9 cm (35\"\") 3440 x 1440 pixeles ultrawide quad hd led gris\"",
+         "price" : "783",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - elite xg270qg led display 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd negro\"",
+         "price" : "785",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - legion y27gq-20 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro - 65efgac1eu\"",
+         "price" : "785",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vp series vp2785-4k pantalla para pc 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "822",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - creator ps321qr 81,3 cm (32\"\") 2560 x 1440 pixeles quad hd lcd negro\"",
+         "price" : "825",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Millenium - millenium monitor md 49",
+         "price" : "834",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - sw270c 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led gris\"",
+         "price" : "878",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - graphic series xg2703-gs pantalla para pc 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led negro\"",
+         "price" : "883",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix mpg341cqr 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "884",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - creator ps321urv 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd lcd negro\"",
+         "price" : "886",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - optix mpg341cqr 86,4 cm (34\"\") 3440 x 1440 pixeles ultrawide quad hd lcd negro\"",
+         "price" : "891",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c49j890dkr 124,5 cm (49\"\") 3840 x 1080 pixeles qled negro\"",
+         "price" : "891",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - predator z35 88,9 cm (35\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "895",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - 498p9/00 pantalla para pc 124,5 cm (49\"\") 5120 x 1440 pixeles lcd negro\"",
+         "price" : "904",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - rog strix xg43vq 110,2 cm (43.4\"\") 3840 x 1200 pixeles led negro\"",
+         "price" : "920",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lenovo - thinkvision p32p-20 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "921",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - ultrasharp u3421we 86,6 cm (34.1\"\") 3440 x 1440 pixeles lcd negro\"",
+         "price" : "939",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - conceptd cp3271kp 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "949",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c49hg90dmu 124,5 cm (49\"\") 3840 x 1080 pixeles qled negro\"",
+         "price" : "961",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c49hg90 124,5 cm (49\"\") 3840 x 1080 pixeles qled negro\"",
+         "price" : "961",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"aoc - u32u1 pantalla para pc 80 cm (31.5\"\") 3840 x 2160 pixeles 4k ultra hd led negro, plata\"",
+         "price" : "970",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - ultrasharp up3017 led display 76,2 cm (30\"\") 2560 x 1600 pixeles wqxga lcd negro\"",
+         "price" : "997",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Hp - hp e27d g4 qhd ad dock monitor mntr kit promo bundle 2 units",
+         "price" : "11",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vp series vp3268-4k pantalla para pc 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "30",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - c49rg90ssr 124,5 cm (49\"\") 5120 x 1440 pixeles qled negro\"",
+         "price" : "63",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - lc49rg90 124 cm (48.8\"\") 5120 x 1440 pixeles ultrawide dual quad hd qled gris\"",
+         "price" : "77",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 38wn75c-b led display 96,5 cm (38\"\") 3840 x 1600 pixeles ultrawide quad hd+ negro\"",
+         "price" : "100",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 38wn75c led display 96,5 cm (38\"\") 3840 x 1600 pixeles ultrawide quad hd+ negro\"",
+         "price" : "119",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"msi - prestige ps341wu 86,4 cm (34\"\") 5120 x 2160 pixeles lcd blanco\"",
+         "price" : "149",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - rog strix xg438qr 109,2 cm (43\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "187",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - sw271 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led negro, gris\"",
+         "price" : "199",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"hp - healthcare edition hc270cr 68,6 cm (27\"\") 2560 x 1440 pixeles quad hd led blanco\"",
+         "price" : "229",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"viewsonic - vp series vp3881 led display 96,5 cm (38\"\") 3840 x 1600 pixeles 4k ultra hd negro\"",
+         "price" : "275",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Zebra - ng concierge, 10 inch, android os, 32gb, landscape, imager,",
+         "price" : "301",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 49wl95c-we led display 124,5 cm (49\"\") 5120 x 1440 pixeles ultrawide quad hd negro, blanco\"",
+         "price" : "339",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"philips - momentum 558m1ry/00 pantalla para pc 139,7 cm (55\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "353",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Millenium - monitor millenium md 49 dqhd qled hdr10, 32/9,120hz,curvo",
+         "price" : "430",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"samsung - odyssey c49g95tssu 124,5 cm (49\"\") 5120 x 1440 pixeles quad hd qled negro, blanco\"",
+         "price" : "491",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - sw271c 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "647",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"benq - sw321c 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd led gris\"",
+         "price" : "977",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"lg - 32hl512d-b pantalla para pc 80 cm (31.5\"\") 3840 x 2160 pixeles full hd negro\"",
+         "price" : "366",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"acer - predator x35 88,9 cm (35\"\") 3440 x 1440 pixeles ultrawide quad hd led negro\"",
+         "price" : "484",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Lenovo - creator extreme",
+         "price" : "486",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - proart pa27ucx-k 68,6 cm (27\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "969",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"dell - ultrasharp up3218k 81,3 cm (32\"\") 7680 x 4320 pixeles 8k ultra hd lcd negro, plata\"",
+         "price" : "899",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - proart pa32ucx-pk 81,3 cm (32\"\") 3840 x 2160 pixeles 4k ultra hd led negro\"",
+         "price" : "959",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "\"asus - proart pq22uc 54,9 cm (21.6\"\") 3840 x 2160 pixeles 4k ultra hd oled negro, gris\"",
+         "price" : "752",
+         "shop" : "Zbitt",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor gaming asus vp228he 22'' full hd",
+         "price" : "110.04",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor asus vp229he 22'' full hd",
+         "price" : "129.9",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor asus vp229q 22'' full hd",
+         "price" : "139.9",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor gaming asus vg248qg 24'' full hd  negro",
+         "price" : "216.89",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor asus be229qlb 22'' full hd  negro",
+         "price" : "187.32",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor asus vp228de 21,5'' full hd",
+         "price" : "123.04",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor portátil asus mb169c+ 15,6'' gris",
+         "price" : "188.87",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor portátil asus zenscreen mb16ace full hd  gris",
+         "price" : "202.19",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor portátil asus zenscreen go mb16ap 15,6'' full hd  negro",
+         "price" : "299.9",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor portátil asus zenscreen mb16ac 15,6'' full hd  plata/negro",
+         "price" : "247.45",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor portátil asus zenscreen mb14ac 14'' full hd  gris",
+         "price" : "219.9",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor portátil asus xg17ahpe 17,3'' full hd  240hz",
+         "price" : "504.43",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor gaming curvo msi optix mag272c 27'' full hd  165hz negro",
+         "price" : "390",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor gaming lg ultragear 27gl650f 27'' full hd  hdr 144hz",
+         "price" : "285.83",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor samsung u28r550uqu 28'' 4k uhd",
+         "price" : "329.9",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor samsung s24r350fhu 24'' full hd",
+         "price" : "150.04",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor gaming lg ultragear 27gn750 27'' full hd  hdr 240hz",
+         "price" : "393.31",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor gaming asus tuf vg259q 24,5'' full hd",
+         "price" : "313.73",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor lg 34wn650-w ultra-wide 34'' full hd",
+         "price" : "349",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      }, {
+         "desc" : "Monitor conceptd cm2241 w 24'' fhd",
+         "price" : "482.26",
+         "shop" : "Fnac",
+         "type" : "monitores"
+      } ]
+   }
+}

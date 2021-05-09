@@ -1,0 +1,2830 @@
+{
+   "inventory" : {
+      "products" : [ {
+         "desc" : "Apple iphone 12 pro max 6,7'' 256gb azul pacífico",
+         "price" : "1337",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro max 6,7'' 256gb oro",
+         "price" : "1347",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro max 6,7'' 256gb plata",
+         "price" : "1347",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro max 6,7'' 256gb grafito",
+         "price" : "1347",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro max 6,7'' 128gb azul pacífico",
+         "price" : "1227",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro max 6,7'' 128gb oro",
+         "price" : "1227",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro max 6,7'' 128gb plata",
+         "price" : "1227",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro max 6,7'' 128gb grafito",
+         "price" : "1227",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro 6,1'' 512gb oro",
+         "price" : "1477",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro 6,1'' 512gb grafito",
+         "price" : "1477",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro 6,1'' 256gb azul pacífico",
+         "price" : "1267",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro 6,1'' 256gb oro",
+         "price" : "1267",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro 6,1'' 256gb plata",
+         "price" : "1267",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 pro 6,1'' 256gb grafito",
+         "price" : "1267",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 128gb azul",
+         "price" : "869",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 128gb blanco",
+         "price" : "869",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 128gb negro",
+         "price" : "869",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 128gb verde",
+         "price" : "869",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 64gb azul",
+         "price" : "827",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 128gb (product)red",
+         "price" : "869",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 256gb blanco",
+         "price" : "1017",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 64gb verde",
+         "price" : "827",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 64gb (product)red",
+         "price" : "827",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 64gb blanco",
+         "price" : "827",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 64gb negro",
+         "price" : "827",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 256gb verde",
+         "price" : "1017",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 256gb azul",
+         "price" : "1017",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 256gb (product)red",
+         "price" : "1017",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 6,1'' 256gb negro",
+         "price" : "1017",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 128gb (product)red",
+         "price" : "807",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 128gb blanco",
+         "price" : "807",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 128gb negro",
+         "price" : "807",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 64gb verde",
+         "price" : "727",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 64gb azul",
+         "price" : "727",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 64gb (product)red",
+         "price" : "727",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 64gb blanco",
+         "price" : "727",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 64gb negro",
+         "price" : "727",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 256gb verde",
+         "price" : "917",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 256gb azul",
+         "price" : "917",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 256gb blanco",
+         "price" : "917",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 256gb negro",
+         "price" : "917",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 128gb verde",
+         "price" : "797",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 12 mini 5,4'' 128gb azul",
+         "price" : "807",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro 5,8'' 64gb gris espacial",
+         "price" : "956",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro max 6,5'' 64gb plata",
+         "price" : "997",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro 5,8'' 256gb verde noche",
+         "price" : "1097",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro 5,8'' 256gb oro",
+         "price" : "1097",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro max 6,5'' 512gb plata",
+         "price" : "1397",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro max 6,5'' 256gb verde noche",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro max 6,5'' 256gb oro",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro max 6,5'' 256gb plata",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro max 6,5'' 256gb gris espacial",
+         "price" : "1147",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro max 6,5'' 64gb verde noche",
+         "price" : "997",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro max 6,5'' 64gb gris espacial",
+         "price" : "997",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro 5,8'' 512gb oro",
+         "price" : "1297",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro 5,8'' 512gb plata",
+         "price" : "1297",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro 5,8'' 512gb gris espacial",
+         "price" : "1297",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro 5,8'' 256gb plata",
+         "price" : "1097",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro 5,8'' 256gb gris espacial",
+         "price" : "1097",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple iphone 11 pro 5,8'' 64gb verde noche",
+         "price" : "956",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi mi 11 lite 6,55'' 128gb rosa + altavoz mi smart speaker",
+         "price" : "339",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi mi 11 lite 6,55'' 128gb negro + altavoz mi smart speaker",
+         "price" : "339",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi mi 11 lite 6,55'' 128gb azul + altavoz mi smart speaker",
+         "price" : "339",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi mi 10t 5g 6,67'' 128gb negro",
+         "price" : "339",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi mi 10t 5g 6,67'' 128gb plata",
+         "price" : "339",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi mi 10t lite 5g 6,67'' 128gb gris",
+         "price" : "299",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi mi 10t lite 5g 6,67'' 128gb azul",
+         "price" : "299",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi mi note 10 lite 6,47'' negro",
+         "price" : "378",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi mi 10 lite 6,57'' 128gb 5g gris",
+         "price" : "399",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi redmi note 10 6,43'' 128gb gris",
+         "price" : "195",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi redmi note 10 6,43'' 128gb blanco",
+         "price" : "195",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi redmi note 10 6,43'' 128gb verde",
+         "price" : "195",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi redmi 9 6,53'' 64gb gris",
+         "price" : "139",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi redmi note 9 6,53'' 128gb blanco",
+         "price" : "169",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi redmi note 9 6,53'' 128gb verde",
+         "price" : "169",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Xiaomi redmi 9c 6,53'' 64gb azul",
+         "price" : "129",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme 8 pro 6,43'' 128gb azul infinity",
+         "price" : "279",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme 8 pro 6,43'' 128gb negro infinity",
+         "price" : "279",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme c3 6,5 64gb rojo",
+         "price" : "130",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme 7 6,5'' 64gb azul",
+         "price" : "179",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme 7 pro 6,4'' 128gb azul",
+         "price" : "269",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme c11 6,52'' 32gb verde",
+         "price" : "89",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme c11 6,52'' 32gb gris",
+         "price" : "89",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme x50  5g 6,57'' 128gb plata",
+         "price" : "327",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme 7i 6,52\"\" 64gb azul\"",
+         "price" : "149",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme 7i 6,52\"\" 64gb plata\"",
+         "price" : "149",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme 7 6,5'' 128gb azul",
+         "price" : "229",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme 7 6,5'' 128gb blanco",
+         "price" : "229",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme 7 pro 6,4'' 128gb plata",
+         "price" : "269",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme x3 superzoom 6,5'' 256gb blanco",
+         "price" : "468",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme x3 superzoom 6,5'' 256gb azul",
+         "price" : "468",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Realme x50 pro 5g 6,44'' 128gb verde",
+         "price" : "561",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola moto edge 5g 6,7'' 128gb negro",
+         "price" : "349",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola moto g 5g plus 6,7'' 128gb azul",
+         "price" : "269",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola razr 5g 6,2'' 256gb negro",
+         "price" : "1269",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola moto g9 plus 6,8'' 128gb azul",
+         "price" : "179",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola moto g30 6,5'' 128gb negro",
+         "price" : "169",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola moto g9 play 6,5'' 64gb azul",
+         "price" : "129",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola moto e7 plus 6,5'' 64gb azul",
+         "price" : "109",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola moto g8 power lite 6,4'' 64gb negro",
+         "price" : "111",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 lite 5g 6,5'' 128gb plata",
+         "price" : "289",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 lite e 6,39'' 64gb negro",
+         "price" : "160",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 lite 6,4'' 128gb negro",
+         "price" : "199",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 lite 6,4'' 128gb verde",
+         "price" : "199",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 lite 5g 6,5'' 128gb negro + freebuds",
+         "price" : "272",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 pro+ 5g 6,58'' 512gb negro",
+         "price" : "1199",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 lite 5g 6,5'' 128gb negro",
+         "price" : "279",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 pro 6,58'' 256gb 5g plata",
+         "price" : "699",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 pro 6,58'' 256gb 5g negro",
+         "price" : "699",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 pro 6,58'' 256gb 5g oro",
+         "price" : "1099",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 6,1'' 128gb 5g plata",
+         "price" : "499",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 6,1'' 128gb 5g negro",
+         "price" : "499",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Huawei p40 6,1'' 128gb 5g oro",
+         "price" : "499",
+         "shop" : "Fnac",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Swissvoice - swissvoice móvil senior b24 - 2g",
+         "price" : "29.45",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Swissvoice - móvil senior concha 2g swissvoice s24 blanco",
+         "price" : "47.7",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Swissvoice - móvil senior concha 2g swissvoice s24 negro",
+         "price" : "50.15",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 1 12,7 cm (5\"\") sim única android 8.0 4g 1 gb 8 gb 2000 mah azul\"",
+         "price" : "57.25",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 1 12,7 cm (5\"\") sim única android 8.0 4g 1 gb 8 gb 2000 mah negro\"",
+         "price" : "58.75",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Swissvoice - móvil senior concha 2g swisvoice s28 blanco",
+         "price" : "69.15",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Swissvoice - móvil senior concha 2g swisvoice s28 negro",
+         "price" : "69.15",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ulefone - note 8p 14 cm (5.5\"\") sim doble android 10.0 4g microusb 2 gb 16 gb 2700 mah verde\"",
+         "price" : "71.45",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - y51 13,8 cm (5.45\"\") sim doble android 10 go edition 3g microusb 1 gb 16 gb 2500 mah color menta\"",
+         "price" : "72.25",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - y51 13,8 cm (5.45\"\") sim doble android 10.0 3g microusb 1 gb 16 gb 2500 mah gris\"",
+         "price" : "72.25",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"mywigo - uno 12,7 cm (5\"\") 2 gb 16 gb sim doble 4g microusb negro, blanco android 5.1 2350 mah\"",
+         "price" : "73.1",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"spc - smart plus 15,2 cm (5.99\"\") sim única 3g 1 gb 32 gb 4000 mah verde\"",
+         "price" : "77.7",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"spc - smart plus 15,2 cm (5.99\"\") sim única 3g 1 gb 32 gb 4000 mah gris\"",
+         "price" : "77.75",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Swissvoice - móvil senior concha 2g swisvoice d28 blanco",
+         "price" : "79.6",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Swissvoice - móvil senior concha 2g swisvoice d28 negro",
+         "price" : "79.6",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"spc - smart max 13,8 cm (5.45\"\") sim doble 4g microusb 2 gb 16 gb 2200 mah azul\"",
+         "price" : "88.55",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - y61 15,2 cm (5.99\"\") 1 gb 16 gb sim doble 4g microusb gris android 10.0 3000 mah\"",
+         "price" : "89.45",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"funker - explorer one 11,4 cm (4.5\"\") 1 gb 8 gb sim doble 3g negro android 5.0 2400 mah\"",
+         "price" : "90.4",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"spc - gen 13,8 cm (5.45\"\") 4g 3 gb 32 gb 3000 mah azul\"",
+         "price" : "99.45",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"spc - gen lite 15,5 cm (6.09\"\") 4g 1 gb 16 gb 3000 mah azul\"",
+         "price" : "99.45",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - a60 pro 15,5 cm (6.09\"\") sim doble android 9.0 4g microusb 3 gb 16 gb 4080 mah negro\"",
+         "price" : "104",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - a80 15,8 cm (6.2\"\") sim doble android 10.0 4g microusb 2 gb 16 gb 4200 mah azul\"",
+         "price" : "107",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - y81 15,8 cm (6.2\"\") sim doble android 10.0 4g microusb 2 gb 32 gb 4000 mah azul\"",
+         "price" : "111",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - bv5500 14 cm (5.5\"\") sim doble android 8.1 3g microusb 2 gb 16 gb 4400 mah amarillo\"",
+         "price" : "112",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 1se (2020) 15,8 cm (6.22\"\") sim doble android 10.0 4g 3 gb 32 gb 4000 mah gris\"",
+         "price" : "112",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 1se (2020) 15,8 cm (6.22\"\") sim doble android 10.0 4g 3 gb 32 gb 4000 mah verde\"",
+         "price" : "113",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - view4 lite 16,6 cm (6.52\"\") sim doble android 10.0 4g microusb 2 gb 32 gb 4000 mah oro\"",
+         "price" : "117",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - view4 lite 16,6 cm (6.52\"\") sim doble android 10.0 4g microusb 2 gb 32 gb 4000 mah azul\"",
+         "price" : "117",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - view4 lite 16,6 cm (6.52\"\") sim doble android 10.0 4g microusb 2 gb 32 gb 4000 mah verde\"",
+         "price" : "117",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ulefone - armor x7 12,7 cm (5\"\") 2 gb 16 gb sim doble 4g microusb negro android 10.0 4000 mah\"",
+         "price" : "121",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9a 16,6 cm (6.53\"\") sim doble 4g microusb 2 gb 32 gb 5000 mah gris\"",
+         "price" : "122",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 1se (2020) 15,8 cm (6.22\"\") sim doble android 10.0 4g 3 gb 64 gb 4000 mah gris\"",
+         "price" : "127",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"spc - gen 13,8 cm (5.45\"\") 4g 4 gb 64 gb 3000 mah azul\"",
+         "price" : "127",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 1se (2020) 15,8 cm (6.22\"\") sim doble android 10.0 4g 3 gb 64 gb 4000 mah verde\"",
+         "price" : "128",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9a 16,6 cm (6.53\"\") sim doble 4g microusb 2 gb 32 gb 5000 mah azul\"",
+         "price" : "128",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9c 16,6 cm (6.53\"\") sim doble 4g microusb 2 gb 32 gb 5000 mah naranja\"",
+         "price" : "130",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"gigaset - gs190 15,5 cm (6.1\"\") sim doble android 9.0 4g usb tipo c 3 gb 32 gb 4000 mah azul\"",
+         "price" : "132",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9c 16,6 cm (6.53\"\") sim doble android 10.0 4g microusb 2 gb 32 gb 5000 mah gris - mzb9981eu\"",
+         "price" : "133",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9a 16,6 cm (6.53\"\") sim doble 4g microusb 2 gb 32 gb 5000 mah verde\"",
+         "price" : "133",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - view 4 lite 16,6 cm (6.52\"\") sim doble android 10.0 4g microusb 2 gb 64 gb 4000 mah azul\"",
+         "price" : "138",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"oppo - a15 16,6 cm (6.52\"\") sim doble coloros 7.2 4g 2 gb 32 gb 4230 mah azul\"",
+         "price" : "139",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 20 se 17,3 cm (6.82\"\") sim doble android 11 4g usb tipo c 4 gb 64 gb 5000 mah verde\"",
+         "price" : "139",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"oppo - a15 16,6 cm (6.52\"\") sim doble coloros 7.2 4g 3 gb 32 gb 4230 mah negro\"",
+         "price" : "139",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9c 16,6 cm (6.53\"\") sim doble android 10.0 4g microusb 2 gb 32 gb 5000 mah gris - mzb9990eu\"",
+         "price" : "139",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9c 16,6 cm (6.53\"\") sim doble android 10.0 4g microusb 2 gb 32 gb 5000 mah azul\"",
+         "price" : "139",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 20 se 17,3 cm (6.82\"\") sim doble android 11 4g usb tipo c 4 gb 64 gb 5000 mah negro\"",
+         "price" : "140",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"motorola - moto e7 plus 16,5 cm (6.5\"\") sim doble android 10.0 4g microusb 4 gb 64 gb 5000 mah azul\"",
+         "price" : "143",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - a80 15,8 cm (6.2\"\") sim doble android 10.0 4g microusb 2 gb 16 gb 4200 mah negro\"",
+         "price" : "143",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 3l 2020 15,8 cm (6.22\"\") sim doble android 10.0 4g 4 gb 64 gb 4000 mah negro\"",
+         "price" : "144",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 3l 2020 15,8 cm (6.22\"\") sim doble android 10.0 4g 4 gb 64 gb 4000 mah azul\"",
+         "price" : "144",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 3 gb 32 gb 5020 mah gris\"",
+         "price" : "157",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9c 16,6 cm (6.53\"\") sim doble android 10.0 4g microusb 3 gb 64 gb 5000 mah azul\"",
+         "price" : "157",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 4 gb 64 gb 5020 mah gris\"",
+         "price" : "157",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9c 16,6 cm (6.53\"\") sim doble android 10.0 4g microusb 3 gb 64 gb 5000 mah gris\"",
+         "price" : "158",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"huawei - y6 2019 15,5 cm (6.09\"\") sim doble android 9.0 4g microusb 2 gb 32 gb 3020 mah negro\"",
+         "price" : "158",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 4 gb 64 gb 5020 mah púrpura\"",
+         "price" : "158",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"huawei - y6p 16 cm (6.3\"\") 3 gb 64 gb sim doble 4g microusb verde android 10.0 servicios móviles de huawei (hms, huawei mobile se\"",
+         "price" : "158",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 10se 16,6 cm (6.52\"\") sim doble android 10.0 4g usb tipo c 4 gb 128 gb 4000 mah negro\"",
+         "price" : "160",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 10se 16,6 cm (6.52\"\") sim doble android 10.0 4g usb tipo c 4 gb 128 gb 4000 mah azul\"",
+         "price" : "160",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 3 gb 32 gb 5020 mah púrpura\"",
+         "price" : "161",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a12 sm-a125f 16,5 cm (6.5\"\") sim doble 4g usb tipo c 3 gb 32 gb 5000 mah azul\"",
+         "price" : "162",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a12 sm-a125f 16,5 cm (6.5\"\") sim doble 4g usb tipo c 3 gb 32 gb 5000 mah negro\"",
+         "price" : "162",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a12 sm-a125f 16,5 cm (6.5\"\") sim doble 4g usb tipo c 3 gb 32 gb 5000 mah blanco\"",
+         "price" : "162",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 3x 2020 16,6 cm (6.52\"\") sim doble android 10.0 4g 4 gb 64 gb 5000 mah verde\"",
+         "price" : "162",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 3x 2020 16,6 cm (6.52\"\") sim doble android 10.0 4g 4 gb 64 gb 5000 mah negro\"",
+         "price" : "162",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy sm-a025g 16,5 cm (6.5\"\") 4g usb tipo c 3 gb 32 gb 5000 mah negro\"",
+         "price" : "164",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 3 gb 32 gb 5020 mah verde\"",
+         "price" : "164",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Swissvoice - smartphone senior swissvoice g50 negro",
+         "price" : "164",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 4 gb 64 gb 5020 mah verde\"",
+         "price" : "168",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - view5 16,6 cm (6.55\"\") sim doble android 10.0 4g usb tipo c 3 gb 64 gb 5000 mah azul\"",
+         "price" : "169",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 5i 16,6 cm (6.52\"\") sim doble coloros 6.0.1 4g microusb 4 gb 64 gb 5000 mah turquesa\"",
+         "price" : "169",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - poco m3 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 4 gb 64 gb 6000 mah azul\"",
+         "price" : "172",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"gigaset - gs190 15,5 cm (6.1\"\") sim doble android 9.0 4g usb tipo c 2 gb 32 gb 4000 mah gris, titanio\"",
+         "price" : "174",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - bv5900 14,5 cm (5.7\"\") 3 gb 32 gb sim doble 4g usb tipo c negro android 9.0 5580 mah\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"cat - s31 11,9 cm (4.7\"\") 4g microusb 2 gb 16 gb 4000 mah negro\"",
+         "price" : "176",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - poco m3 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 4 gb 64 gb 6000 mah amarillo\"",
+         "price" : "178",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - poco m3 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 4 gb 64 gb 6000 mah negro\"",
+         "price" : "178",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy m11 sm-m115f/dsn 16,3 cm (6.4\"\") sim doble 4g usb tipo c 3 gb 32 gb 5000 mah azul\"",
+         "price" : "179",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola - moto g9 play - green",
+         "price" : "179",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"hammer - energy 2 14 cm (5.5\"\") sim doble android 9.0 4g 3 gb 32 gb 5000 mah negro, gris, naranja\"",
+         "price" : "179",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola - moto g9 play - blue",
+         "price" : "179",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - view4 16,6 cm (6.52\"\") 3 gb 64 gb sim doble 4g microusb oro android 10.0 5000 mah\"",
+         "price" : "179",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7i 16,5 cm (6.5\"\") sim doble android 10.0 4g usb tipo c 4 gb 64 gb 6000 mah gris\"",
+         "price" : "180",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7i 16,5 cm (6.5\"\") sim doble android 10.0 4g usb tipo c 4 gb 64 gb 6000 mah azul\"",
+         "price" : "180",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 3 gb 64 gb 5020 mah verde\"",
+         "price" : "181",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9t 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 4 gb 64 gb 6000 mah gris\"",
+         "price" : "185",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9t 16,6 cm (6.53\"\") sim doble miui 12 4g usb tipo c 4 gb 64 gb 6000 mah azul\"",
+         "price" : "186",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a12 sm-a125f 16,5 cm (6.5\"\") sim doble 4g usb tipo c 4 gb 64 gb 5000 mah azul\"",
+         "price" : "186",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a12 16,5 cm (6.5\"\") sim doble 4g usb tipo c 4 gb 64 gb 5000 mah negro\"",
+         "price" : "186",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9t 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 4 gb 64 gb 6000 mah verde\"",
+         "price" : "187",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - poco m3 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 4 gb 128 gb 6000 mah azul\"",
+         "price" : "187",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"gigaset - gs195ls smartphones 15,7 cm (6.18\"\") sim doble android 9.0 4g usb tipo c 2 gb 32 gb 4000 mah negro\"",
+         "price" : "188",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Zte - zte smtp a52020 - 4g / 6,1 hd / oc 1.6ghz / 32gb rom / 2gb ram / 13mp / blue",
+         "price" : "189",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 10l 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 6 gb 64 gb 4000 mah azul - 10l dark blue\"",
+         "price" : "189",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 10l 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 6 gb 64 gb 4000 mah blanco\"",
+         "price" : "189",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9t 16,6 cm (6.53\"\") sim doble miui 12 4g usb tipo c 4 gb 64 gb 6000 mah naranja\"",
+         "price" : "191",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 8 16 cm (6.3\"\") sim doble 4g usb tipo c 4 gb 128 gb 4000 mah azul\"",
+         "price" : "191",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 8 16 cm (6.3\"\") sim doble 4g usb tipo c 4 gb 128 gb 4000 mah negro\"",
+         "price" : "191",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"maxcom - ms572 smart&strong 14,5 cm (5.71\"\") sim doble android 9.0 4g usb tipo c 3 gb 32 gb 4100 mah negro\"",
+         "price" : "195",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 3x 2020 16,6 cm (6.52\"\") sim doble android 10.0 4g 6 gb 128 gb 5000 mah negro\"",
+         "price" : "196",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - poco m3 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 4 gb 128 gb 6000 mah negro\"",
+         "price" : "196",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9t 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 4 gb 128 gb 6000 mah azul\"",
+         "price" : "197",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"alcatel - 3x 2020 16,6 cm (6.52\"\") sim doble android 10.0 4g 6 gb 128 gb 5000 mah verde\"",
+         "price" : "199",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 3 gb 64 gb 5020 mah gris\"",
+         "price" : "199",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 4 gb 128 gb 5020 mah verde\"",
+         "price" : "201",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - poco m3 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 4 gb 128 gb 6000 mah amarillo\"",
+         "price" : "202",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 3 gb 64 gb 5020 mah negro\"",
+         "price" : "202",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 4 gb 128 gb 5020 mah gris\"",
+         "price" : "203",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"oppo - a53s 16,5 cm (6.5\"\") sim doble coloros 7.2 4g usb tipo c 4 gb 128 gb 5000 mah azul\"",
+         "price" : "204",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"oppo - a72 16,5 cm (6.5\"\") sim doble coloros 7.1 4g usb tipo c 4 gb 128 gb 5000 mah púrpura\"",
+         "price" : "204",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"huawei - p smart 2021 16,9 cm (6.67\"\") sim doble android 10.0 servicios móviles de huawei (hms, huawei mobile services - 51096abx\"",
+         "price" : "206",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"huawei - p smart 2021 16,9 cm (6.67\"\") sim doble android 10.0 servicios móviles de huawei (hms, huawei mobile services - 51096abv\"",
+         "price" : "206",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 10 16,3 cm (6.43\"\") sim doble android 11 4g usb tipo c 4 gb 64 gb 5000 mah gris\"",
+         "price" : "208",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi 9t 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 4 gb 128 gb 6000 mah verde\"",
+         "price" : "210",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7 16,5 cm (6.5\"\") sim doble android 10.0 4g usb tipo c 6 gb 64 gb 5000 mah azul\"",
+         "price" : "210",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9s 16,9 cm (6.67\"\") 4 gb 64 gb sim doble 4g usb tipo c blanco 5020 mah\"",
+         "price" : "211",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"wiko - view5 plus 16,6 cm (6.55\"\") 4 gb 128 gb sim doble 4g microusb azul android 10.0 5000 mah\"",
+         "price" : "211",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 4 gb 128 gb 5020 mah blanco\"",
+         "price" : "212",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9s 16,9 cm (6.67\"\") 4 gb 64 gb ranura híbrida dual sim 4g usb tipo c azul 5020 mah\"",
+         "price" : "212",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9 16,6 cm (6.53\"\") sim doble 4g usb tipo c 4 gb 128 gb 5020 mah blanco - mzb9410eu\"",
+         "price" : "212",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 10 16,3 cm (6.43\"\") sim doble android 11 4g usb tipo c 4 gb 64 gb 5000 mah blanco\"",
+         "price" : "213",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a12 sm-a125f 16,5 cm (6.5\"\") sim doble 4g usb tipo c 4 gb 128 gb 5000 mah negro\"",
+         "price" : "215",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a12 sm-a125f 16,5 cm (6.5\"\") sim doble 4g usb tipo c 4 gb 128 gb 5000 mah azul\"",
+         "price" : "215",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Swissvoice - smartphone senior swissvoice c50s negro",
+         "price" : "216",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 10 16,3 cm (6.43\"\") sim doble android 11 4g usb tipo c 4 gb 64 gb 5000 mah verde\"",
+         "price" : "216",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7 16,5 cm (6.5\"\") 6 gb 64 gb sim doble 5g usb tipo c azul android 10.0 5000 mah\"",
+         "price" : "216",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7 16,5 cm (6.5\"\") 6 gb 64 gb sim doble 4g usb tipo c plata android 10.0 5000 mah\"",
+         "price" : "216",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 10l 16,6 cm (6.53\"\") sim doble android 10.0 4g usb tipo c 6 gb 64 gb 4000 mah azul - t770h-2alcwe32\"",
+         "price" : "223",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 10 16,3 cm (6.43\"\") sim doble android 11 4g usb tipo c 4 gb 128 gb 5000 mah blanco\"",
+         "price" : "224",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"cat - s42 14 cm (5.5\"\") sim doble android 10.0 4g 3 gb 32 gb 4200 mah negro\"",
+         "price" : "229",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola - moto g9 power",
+         "price" : "229",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - poco x3 nfc 16,9 cm (6.67\"\") ranura híbrida dual sim miui 12 4g usb tipo c 6 gb 64 gb 5160 mah azul\"",
+         "price" : "232",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 10 16,3 cm (6.43\"\") sim doble android 11 4g usb tipo c 4 gb 128 gb 5000 mah verde\"",
+         "price" : "234",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 10 16,3 cm (6.43\"\") sim doble android 11 4g usb tipo c 4 gb 128 gb 5000 mah gris\"",
+         "price" : "237",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - poco x3 nfc 16,9 cm (6.67\"\") ranura híbrida dual sim miui 12 4g usb tipo c 6 gb 64 gb 5160 mah gris\"",
+         "price" : "237",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 8 pro 16,6 cm (6.53\"\") ranura híbrida dual sim 4g usb tipo c 6 gb 128 gb 4500 mah negro\"",
+         "price" : "238",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Swissvoice - pack c50s+pulsera+funda swissvoice pack accesorios c50s negro",
+         "price" : "238",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - bv6300 pro 14,5 cm (5.7\"\") sim doble android 10.0 4g 6 gb 128 gb 4380 mah negro\"",
+         "price" : "249",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9s 16,9 cm (6.67\"\") 6 gb 128 gb sim doble 4g usb tipo c azul 5020 mah\"",
+         "price" : "250",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Zte - zte smtp a72020 - 4g / 6,1 hd / oc 1.6ghz / 64gb rom / 3gb ram / 13mp / blue",
+         "price" : "255",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9t 16,6 cm (6.53\"\") sim doble android 10.0 5g 4 gb 64 gb 5000 mah púrpura\"",
+         "price" : "258",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"oppo - a73 5g 16,5 cm (6.5\"\") sim doble coloros 7.2 usb tipo c 8 gb 128 gb 4040 mah negro\"",
+         "price" : "267",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"oppo - a73 5g 16,5 cm (6.5\"\") sim doble coloros 7.2 usb tipo c 8 gb 128 gb 4040 mah multicolor\"",
+         "price" : "267",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy sm-a325f 16,3 cm (6.4\"\") sim doble android 11 4g usb tipo c 128 gb 5000 mah azul\"",
+         "price" : "268",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7 16,5 cm (6.5\"\") 8 gb 128 gb sim doble 4g usb tipo c azul android 10.0 5000 mah\"",
+         "price" : "270",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7 16,5 cm (6.5\"\") 8 gb 128 gb sim doble 4g usb tipo c blanco android 10.0 5000 mah\"",
+         "price" : "270",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Zte - zte smtp a72020 black - 4g / 6,1 hd / oc 1.6ghz / 64gb rom / 3gb ram / 13mp",
+         "price" : "273",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 6 16,5 cm (6.5\"\") sim doble android 10.0 4g usb tipo c 4 gb 128 gb 4300 mah azul\"",
+         "price" : "274",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy xcover 4s sm-g398 12,7 cm (5\"\") 3 gb 32 gb sim doble 4g usb tipo c negro 2800 mah\"",
+         "price" : "274",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9t 16,6 cm (6.53\"\") sim doble android 10.0 5g usb tipo c 4 gb 128 gb 5000 mah negro\"",
+         "price" : "276",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy sm-a325f 16,3 cm (6.4\"\") sim doble android 11 4g usb tipo c 128 gb 5000 mah negro\"",
+         "price" : "278",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a32 5g sm-a326b 16,5 cm (6.5\"\") sim doble usb tipo c 4 gb 64 gb 5000 mah negro\"",
+         "price" : "283",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9t 16,6 cm (6.53\"\") sim doble android 10.0 5g 4 gb 128 gb 5000 mah púrpura\"",
+         "price" : "285",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - redmi note 9 pro 16,9 cm (6.67\"\") 6 gb 64 gb sim doble 4g usb tipo c verde 5020 mah\"",
+         "price" : "286",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - poco x3 nfc 16,9 cm (6.67\"\") ranura híbrida dual sim android 10.0 4g usb tipo c 6 gb 128 gb 5160 mah gris\"",
+         "price" : "288",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a50 sm-a505f 16,3 cm (6.4\"\") 4 gb 128 gb ranura híbrida dual sim 4g usb tipo c negro 4000 mah\"",
+         "price" : "289",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7 5g 16,5 cm (6.5\"\") usb tipo c 8 gb 128 gb 5000 mah azul\"",
+         "price" : "291",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy enterprise edition 13,5 cm (5.3\"\") android 11 4g 4 gb 64 gb 3000 mah negro\"",
+         "price" : "297",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7 pro 16,3 cm (6.4\"\") sim doble android 10.0 4g usb tipo c 8 gb 128 gb 4500 mah plata\"",
+         "price" : "300",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 10 plus 16,4 cm (6.47\"\") sim doble android 10.0 4g usb tipo c 6 gb 64 gb 4500 mah azul\"",
+         "price" : "306",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 10 plus 16,4 cm (6.47\"\") sim doble android 10.0 4g usb tipo c 6 gb 64 gb 4500 mah plata\"",
+         "price" : "306",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 6 16,5 cm (6.5\"\") sim doble android 10.0 4g usb tipo c 8 gb 128 gb 4300 mah azul\"",
+         "price" : "306",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 10 plus 16,4 cm (6.47\"\") sim doble android 10.0 4g usb tipo c 6 gb 256 gb 4500 mah plata\"",
+         "price" : "308",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"tcl - 10 plus 16,4 cm (6.47\"\") sim doble android 10.0 4g usb tipo c 6 gb 256 gb 4500 mah azul\"",
+         "price" : "308",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"zte - blade v20 smart 17,3 cm (6.82\"\") android 10.0 usb tipo c 4 gb 128 gb 5000 mah azul\"",
+         "price" : "310",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"crosscall - core m4 12,6 cm (4.95\"\") sim doble android 9.0 4g usb tipo c 2 gb 32 gb 3000 mah negro\"",
+         "price" : "312",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7 pro 16,3 cm (6.4\"\") 8 gb 128 gb sim doble 4g usb tipo c azul android 10.0 4500 mah\"",
+         "price" : "317",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - mi 11 lite 16,6 cm (6.55\"\") sim doble android 11 4g usb tipo c 6 gb 64 gb 4250 mah negro\"",
+         "price" : "319",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a42 5g sm-a426b 16,8 cm (6.6\"\") usb tipo c 4 gb 128 gb 5000 mah negro\"",
+         "price" : "320",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - bv9700 pro 14,8 cm (5.84\"\") ranura híbrida dual sim android 9.0 4g usb tipo c 6 gb 128 gb 4380 mah negro, gris\"",
+         "price" : "321",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 8 pro 16,3 cm (6.43\"\") sim doble android 11 4g usb tipo c 8 gb 128 gb 4500 mah negro - 5994806\"",
+         "price" : "324",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 8 pro 16,3 cm (6.43\"\") sim doble android 11 4g usb tipo c 8 gb 128 gb 4500 mah negro - 5991026\"",
+         "price" : "324",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 8 pro 16,3 cm (6.43\"\") sim doble android 11 4g usb tipo c 8 gb 128 gb 4500 mah azul\"",
+         "price" : "324",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"realme - 7 pro 16,3 cm (6.4\"\") 8 gb 128 gb sim doble 4g usb tipo c plata android 10.0 4500 mah\"",
+         "price" : "324",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"oppo - reno 4z 5g 16,7 cm (6.57\"\") sim doble coloros 7.1 usb tipo c 8 gb 128 gb 4000 mah blanco\"",
+         "price" : "329",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"oppo - reno 4z 5g 16,7 cm (6.57\"\") sim doble coloros 7.1 usb tipo c 8 gb 128 gb 4000 mah negro\"",
+         "price" : "329",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"cat - s52 14,3 cm (5.65\"\") sim doble android 9.0 4g usb tipo c 4 gb 64 gb 3100 mah negro\"",
+         "price" : "329",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Zte - zte blade 10 verde 6.49 hd+19.5:9, 4g, helio p60 octa, 4+128gb, 16/8/2+8mp, 5.000mah, a9.0",
+         "price" : "331",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ckp - iphone 8 semi nuevo 64gb gris",
+         "price" : "333",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Motorola - motorola g 5g plus",
+         "price" : "344",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a32 5g enterprise edition 16,5 cm (6.5\"\") sim doble android 11 usb tipo c 128 gb 5000 mah negro\"",
+         "price" : "344",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - mi 11 lite 16,6 cm (6.55\"\") sim doble 4g usb tipo c 6 gb 128 gb 4250 mah negro\"",
+         "price" : "347",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ckp - iphone 8 semi nuevo 64gb plata",
+         "price" : "348",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Ckp - iphone 8 64gb oro semi nuevo",
+         "price" : "348",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy a42 5g sm-a426b 16,8 cm (6.6\"\") usb tipo c 4 gb 128 gb 5000 mah gris\"",
+         "price" : "349",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"gigaset - gx290 15,5 cm (6.1\"\") ranura híbrida dual sim android 9.0 4g usb tipo c 3 gb 32 gb 6200 mah gris\"",
+         "price" : "360",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy sm-a525f 16,5 cm (6.5\"\") sim doble android 11 4g usb tipo c 6 gb 128 gb 4500 mah negro\"",
+         "price" : "365",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - bv9800 16 cm (6.3\"\") sim doble 4g usb tipo c 6 gb 128 gb 6580 mah negro\"",
+         "price" : "408",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - bv9800 16 cm (6.3\"\") sim doble 4g usb tipo c 6 gb 128 gb 6580 mah negro, naranja\"",
+         "price" : "422",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy sm-a526b 16,5 cm (6.5\"\") sim doble android 11 5g usb tipo c 6 gb 128 gb 4500 mah azul\"",
+         "price" : "438",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy sm-a526b 16,5 cm (6.5\"\") sim doble android 11 5g usb tipo c 6 gb 128 gb 4500 mah negro\"",
+         "price" : "448",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - bv9900 14,8 cm (5.84\"\") 8 gb 256 gb sim doble negro android 9.0 4380 mah\"",
+         "price" : "450",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy sm-a725f 17 cm (6.7\"\") android 11 4g usb tipo c 6 gb 128 gb 5000 mah azul\"",
+         "price" : "460",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy sm-a725f 17 cm (6.7\"\") sim doble android 11 4g usb tipo c 6 gb 128 gb 5000 mah negro\"",
+         "price" : "467",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"crosscall - core x4 13,8 cm (5.45\"\") sim doble android 9.0 4g usb tipo c 3 gb 32 gb 3850 mah negro\"",
+         "price" : "474",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"fairphone - 3+ 14,3 cm (5.65\"\") sim doble android 10.0 4g usb tipo c 4 gb 64 gb 3040 mah negro\"",
+         "price" : "500",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ckp - apple iphone x 14,7 cm (5.8\"\") sim única ios 11 4g 64 gb gris renovado\"",
+         "price" : "512",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"ckp - apple iphone x 14,7 cm (5.8\"\") sim única ios 11 4g 3 gb 64 gb 2716 mah plata renovado\"",
+         "price" : "512",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - mi 10t 16,9 cm (6.67\"\") sim doble 5g usb tipo c 6 gb 128 gb 5000 mah negro\"",
+         "price" : "524",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"blackview - bv9800 pro 16 cm (6.3\"\") sim doble 4g usb tipo c 6 gb 128 gb 6580 mah negro\"",
+         "price" : "524",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Crosscall - smartphone core x4 (4+64gb) black",
+         "price" : "527",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Samsung - samsung xcover pro ee",
+         "price" : "535",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - mi 10t pro 16,9 cm (6.67\"\") sim doble miui 12 5g usb tipo c 8 gb 128 gb 5000 mah negro\"",
+         "price" : "537",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone se 11,9 cm (4.7\"\") 64 gb ranura híbrida dual sim 4g negro ios 14\"",
+         "price" : "540",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple - cs/iphone se white 64gb",
+         "price" : "540",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"motorola - edge 17 cm (6.7\"\") sim doble android 10.0 5g usb tipo c 6 gb 128 gb 4500 mah negro\"",
+         "price" : "574",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s10e sm-g970f 14,7 cm (5.8\"\") 6 gb 128 gb sim doble 4g usb tipo c negro android 9.0 3100 mah\"",
+         "price" : "592",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone se 11,9 cm (4.7\"\") ranura híbrida dual sim ios 14 4g 128 gb negro\"",
+         "price" : "596",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple - cs/iphone se white 128gb",
+         "price" : "596",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"cat - s62 pro 4g 14,5 cm (5.7\"\") android 10.0 usb tipo c 6 gb 128 gb 4000 mah negro\"",
+         "price" : "600",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone se 11,9 cm (4.7\"\") ranura híbrida dual sim ios 14 4g 128 gb rojo\"",
+         "price" : "619",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple - cs/iphone xr blue 64gb",
+         "price" : "651",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple - cs/iphone xr yellow 64gb",
+         "price" : "651",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone xr 15,5 cm (6.1\"\") sim doble ios 14 4g 64 gb rojo\"",
+         "price" : "651",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s20 fe sm-g780f 16,5 cm (6.5\"\") android 10.0 4g usb tipo c 6 gb 128 gb 4500 mah color menta\"",
+         "price" : "670",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s20 fe 5g sm-g781b 16,5 cm (6.5\"\") android 10.0 usb tipo c 6 gb 128 gb 4500 mah rojo\"",
+         "price" : "679",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple - cs/iphone xr blue 128gb",
+         "price" : "706",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple - cs/iphone xr yellow 128gb",
+         "price" : "706",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone xr 15,5 cm (6.1\"\") sim doble ios 14 4g 128 gb negro\"",
+         "price" : "706",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone xr 15,5 cm (6.1\"\") sim doble ios 14 4g 128 gb rojo\"",
+         "price" : "706",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone xr 15,5 cm (6.1\"\") sim doble ios 14 4g 128 gb coral\"",
+         "price" : "723",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"crosscall - trekker-x4 14 cm (5.5\"\") 4 gb 64 gb sim doble 4g usb tipo c negro android 8.1 4400 mah\"",
+         "price" : "725",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone se 11,9 cm (4.7\"\") ranura híbrida dual sim ios 14 4g 256 gb blanco\"",
+         "price" : "728",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"huawei - p30 pro 16,4 cm (6.47\"\") ranura híbrida dual sim android 9.0 4g usb tipo c 8 gb 128 gb 4200 mah azul\"",
+         "price" : "756",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 11 15,5 cm (6.1\"\") sim doble ios 14 4g 64 gb púrpura\"",
+         "price" : "761",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 11 15,5 cm (6.1\"\") sim doble ios 14 4g 64 gb verde\"",
+         "price" : "761",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple - cs/iphone 11 red 64gb",
+         "price" : "761",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 11 15,5 cm (6.1\"\") sim doble ios 14 4g 64 gb blanco\"",
+         "price" : "761",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 11 15,5 cm (6.1\"\") sim doble ios 14 4g 64 gb amarillo\"",
+         "price" : "761",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 11 15,5 cm (6.1\"\") sim doble ios 14 4g 128 gb púrpura\"",
+         "price" : "816",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 11 15,5 cm (6.1\"\") sim doble ios 14 4g 128 gb negro\"",
+         "price" : "816",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 11 15,5 cm (6.1\"\") sim doble ios 14 4g 128 gb amarillo\"",
+         "price" : "816",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 11 15,5 cm (6.1\"\") sim doble ios 14 4g 128 gb rojo\"",
+         "price" : "816",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 11 15,5 cm (6.1\"\") sim doble ios 14 4g 128 gb blanco\"",
+         "price" : "816",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 mini 13,7 cm (5.4\"\") sim doble ios 14 5g 64 gb rojo\"",
+         "price" : "822",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 mini 13,7 cm (5.4\"\") sim doble ios 14 5g 64 gb azul\"",
+         "price" : "822",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 mini 13,7 cm (5.4\"\") sim doble ios 14 5g 64 gb blanco\"",
+         "price" : "829",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"asus - zenfone zs671ks-2a016eu 16,9 cm (6.67\"\") sim doble android 10.0 5g usb tipo c 8 gb 256 gb 5000 mah negro\"",
+         "price" : "836",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy sm-n980f 17 cm (6.7\"\") 8 gb 256 gb 4g usb tipo c gris android 10.0 4300 mah\"",
+         "price" : "861",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 11 15,5 cm (6.1\"\") sim doble ios 14 4g 128 gb verde\"",
+         "price" : "869",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s20 sm-g980f 15,8 cm (6.2\"\") android 10.0 4g usb tipo c 8 gb 128 gb 4000 mah gris\"",
+         "price" : "872",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"xiaomi - mi 11 17,3 cm (6.81\"\") sim doble android 11 5g usb tipo c 8 gb 128 gb 4600 mah azul\"",
+         "price" : "875",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 mini 13,7 cm (5.4\"\") sim doble ios 14 5g 128 gb verde\"",
+         "price" : "884",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 mini 13,7 cm (5.4\"\") sim doble ios 14 5g 128 gb azul\"",
+         "price" : "884",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 mini 13,7 cm (5.4\"\") sim doble ios 14 5g 128 gb blanco\"",
+         "price" : "884",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 mini 13,7 cm (5.4\"\") sim doble ios 14 5g 128 gb rojo\"",
+         "price" : "884",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 mini 13,7 cm (5.4\"\") sim doble ios 14 5g 128 gb negro\"",
+         "price" : "884",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s21 5g sm-g991b 15,8 cm (6.2\"\") sim doble android 11 usb tipo c 8 gb 256 gb 4000 mah gris\"",
+         "price" : "890",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s21 5g sm-g991b 15,8 cm (6.2\"\") sim doble android 11 usb tipo c 8 gb 128 gb 4000 mah gris\"",
+         "price" : "911",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"sony - xperia 5 15,5 cm (6.1\"\") android 9.0 4g usb tipo c 6 gb 128 gb 3140 mah negro\"",
+         "price" : "923",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 64 gb blanco\"",
+         "price" : "940",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 64 gb azul\"",
+         "price" : "940",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 64 gb verde\"",
+         "price" : "940",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 64 gb negro\"",
+         "price" : "940",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 64 gb rojo\"",
+         "price" : "940",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple - cs/iphone 11 white 256gb",
+         "price" : "949",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Apple - cs/iphone 11 purple 256gb",
+         "price" : "949",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy sm-n981b 17 cm (6.7\"\") 8 gb 256 gb 5g usb tipo c gris android 10.0 4300 mah\"",
+         "price" : "962",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb verde\"",
+         "price" : "996",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb azul\"",
+         "price" : "996",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb blanco\"",
+         "price" : "996",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb negro\"",
+         "price" : "996",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb rojo\"",
+         "price" : "996",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 mini 13,7 cm (5.4\"\") sim doble ios 14 5g 256 gb negro\"",
+         "price" : "1010",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 mini 13,7 cm (5.4\"\") sim doble ios 14 5g 256 gb verde\"",
+         "price" : "1010",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s21+ 5g sm-g996b 17 cm (6.7\"\") sim doble android 11 usb tipo c 8 gb 256 gb 4800 mah violeta\"",
+         "price" : "1097",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s21+ 5g sm-g996b 17 cm (6.7\"\") sim doble android 11 usb tipo c 8 gb 128 gb 4800 mah negro\"",
+         "price" : "1115",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 256 gb azul\"",
+         "price" : "1120",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s21+ 5g sm-g996b 17 cm (6.7\"\") sim doble android 11 usb tipo c 8 gb 128 gb 4800 mah violeta\"",
+         "price" : "1123",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 15,5 cm (6.1\"\") sim doble ios 14 5g 256 gb negro\"",
+         "price" : "1129",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s20 5g sm-g981b 15,8 cm (6.2\"\") sim doble android 10.0 usb tipo c 12 gb 128 gb 4000 mah gris\"",
+         "price" : "1155",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb oro - mgmm3ql/a?es\"",
+         "price" : "1280",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb azul - mgmn3ql/a?es\"",
+         "price" : "1280",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb grafito - mgmk3ql/a?es\"",
+         "price" : "1280",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb plata - mgml3ql/a?es\"",
+         "price" : "1280",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb azul\"",
+         "price" : "1306",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb oro - mgmm3ql/a\"",
+         "price" : "1306",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb grafito - mgmk3ql/a\"",
+         "price" : "1306",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 128 gb plata - mgml3ql/a\"",
+         "price" : "1306",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"samsung - galaxy s21 ultra 5g sm-g998 17,3 cm (6.8\"\") sim doble android 11 usb tipo c 12 gb 128 gb 5000 mah negro\"",
+         "price" : "1335",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"huawei - mate 40 pro | 5g 17 cm (6.7\"\") sim doble android 10.0 usb tipo c 8 gb 256 gb 4400 mah negro\"",
+         "price" : "1371",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 128 gb azul - mgda3ql/a?es\"",
+         "price" : "1390",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 128 gb grafito - mgd73ql/a?es\"",
+         "price" : "1390",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 128 gb oro - mgd93ql/a?es\"",
+         "price" : "1390",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 128 gb plata\"",
+         "price" : "1390",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 256 gb grafito - mgmp3ql/a?es\"",
+         "price" : "1412",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 256 gb oro - mgmr3ql/a?es\"",
+         "price" : "1412",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 256 gb plata - mgmq3ql/a?es\"",
+         "price" : "1412",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 128 gb oro\"",
+         "price" : "1419",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 128 gb grafito - mgd73ql/a\"",
+         "price" : "1419",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 128 gb azul - mgda3ql/a\"",
+         "price" : "1419",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 256 gb oro\"",
+         "price" : "1441",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 256 gb plata - mgmq3ql/a\"",
+         "price" : "1441",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 256 gb grafito - mgmp3ql/a\"",
+         "price" : "1441",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro 15,5 cm (6.1\"\") sim doble ios 14 5g 256 gb azul\"",
+         "price" : "1441",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 256 gb grafito - mgdc3ql/a?es\"",
+         "price" : "1523",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 256 gb oro - mgde3ql/a?es\"",
+         "price" : "1523",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 256 gb grafito - mgdc3ql/a\"",
+         "price" : "1554",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 256 gb azul\"",
+         "price" : "1554",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 256 gb plata\"",
+         "price" : "1554",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 256 gb oro - mgde3ql/a\"",
+         "price" : "1554",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"huawei - p40 pro+ 16,7 cm (6.58\"\") sim doble android 10.0 servicios móviles de huawei (hms, huawei mobile services) 5g usb tipo c\"",
+         "price" : "1599",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"huawei - p40 pro+ 16,7 cm (6.58\"\") 8 gb 512 gb sim doble 5g usb tipo c negro android 10.0 servicios móviles de huawei (hms, huawe\"",
+         "price" : "1599",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "\"apple - iphone 12 pro max 17 cm (6.7\"\") sim doble ios 14 5g 512 gb oro\"",
+         "price" : "1777",
+         "shop" : "Zbitt",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 128gb grafito",
+         "price" : "1159",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 128gb plata",
+         "price" : "1159",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 128gb oro",
+         "price" : "1159",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 128gb azul pacífico",
+         "price" : "1159",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 256gb grafito",
+         "price" : "1279",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 256gb plata",
+         "price" : "1279",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 256gb oro",
+         "price" : "1279",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 256gb azul pacífico",
+         "price" : "1279",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 512gb grafito",
+         "price" : "1509",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 512gb plata",
+         "price" : "1509",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 512gb oro",
+         "price" : "1509",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro 512gb azul pacífico",
+         "price" : "1509",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 128gb grafito",
+         "price" : "1259",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 128gb plata",
+         "price" : "1259",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 128gb oro",
+         "price" : "1259",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 128gb azul pacífico",
+         "price" : "1259",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 256gb grafito",
+         "price" : "1379",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 256gb plata",
+         "price" : "1379",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 256gb oro",
+         "price" : "1379",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 256gb azul pacífico",
+         "price" : "1379",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 512gb grafito",
+         "price" : "1609",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 512gb plata",
+         "price" : "1609",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 512gb oro",
+         "price" : "1609",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 pro max 512gb azul pacífico",
+         "price" : "1609",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 64gb púrpura",
+         "price" : "909",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 64gb negro",
+         "price" : "909",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 64gb blanco",
+         "price" : "909",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 64gb azul",
+         "price" : "909",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 64gb verde",
+         "price" : "909",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 64gb product(red)",
+         "price" : "909",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 128gb púrpura",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 128gb negro",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 128gb blanco",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 128gb azul",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 128gb verde",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 128gb product(red)",
+         "price" : "959",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 256gb púrpura",
+         "price" : "1079",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 256gb negro",
+         "price" : "1079",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 256gb blanco",
+         "price" : "1079",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 256gb azul",
+         "price" : "1079",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 256gb verde",
+         "price" : "1079",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 256gb product(red)",
+         "price" : "1079",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 64gb púrpura",
+         "price" : "809",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 64gb negro",
+         "price" : "809",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 64gb blanco",
+         "price" : "809",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 64gb azul",
+         "price" : "809",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 64gb verde",
+         "price" : "809",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 64gb product(red)",
+         "price" : "809",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 128gb púrpura",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 128gb negro",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 128gb blanco",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 128gb azul",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 128gb verde",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 128gb product(red)",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 256gb púrpura",
+         "price" : "979",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 256gb negro",
+         "price" : "979",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 256gb blanco",
+         "price" : "979",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 256gb azul",
+         "price" : "979",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 256gb verde",
+         "price" : "979",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 12 mini 256gb product(red)",
+         "price" : "979",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 64 gb blanco",
+         "price" : "689",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 64gb negro",
+         "price" : "689",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 64 gb malva",
+         "price" : "689",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 64 gb amarillo",
+         "price" : "689",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 64 gb verde",
+         "price" : "689",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 64 gb product(red)",
+         "price" : "689",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 128gb negro",
+         "price" : "739",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 128 gb blanco",
+         "price" : "739",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 128 gb malva",
+         "price" : "739",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 128 gb amarillo",
+         "price" : "739",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 128 gb verde",
+         "price" : "739",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 128 gb product(red)",
+         "price" : "739",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 256 gb negro",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 256 gb blanco",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 256 gb malva",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 256 gb amarillo",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 256 gb verde",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone 11 256 gb product(red)",
+         "price" : "859",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone xr 64 gb negro",
+         "price" : "589",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone xr 64 gb blanco",
+         "price" : "589",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone xr 64 gb azul",
+         "price" : "589",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone xr 64 gb amarillo",
+         "price" : "589",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone xr 64gb (product)red",
+         "price" : "589",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone xr 128 gb negro",
+         "price" : "639",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone xr 128 gb blanco",
+         "price" : "639",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone xr 128 gb azul",
+         "price" : "639",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone xr 128 gb amarillo",
+         "price" : "639",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone xr 128 gb (product)red",
+         "price" : "639",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone se 256gb blanco",
+         "price" : "659",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone se 256gb (product)red",
+         "price" : "659",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone se 256gb negro",
+         "price" : "659",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone se 128 gb blanco",
+         "price" : "539",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone se 128 gb (product)red",
+         "price" : "539",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone se 128 gb negro",
+         "price" : "539",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone se 64 gb blanco",
+         "price" : "489",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone se 64 gb (product)red",
+         "price" : "489",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Iphone se 64 gb negro",
+         "price" : "489",
+         "shop" : "K-tuin",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Teléfono móvil spc 2304n negro",
+         "price" : "49.9",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-a125fzkkeub 166.3",
+         "price" : "189",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-a125fzbkeub 166.3",
+         "price" : "189",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-a125fzbueub 166.3",
+         "price" : "149",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Teléfono móvil spc goliath 2312n negro",
+         "price" : "59.9",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Teléfono móvil spc 2304b blanco",
+         "price" : "49.9",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone spc stella 2317t ",
+         "price" : "39.9",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone spc opal 2318n .",
+         "price" : "49.9",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone spc gen 32 3gb/32gb azul",
+         "price" : "99.9",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-a325fzugeub 162.1",
+         "price" : "286",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-a325fzkgeub 162.1",
+         "price" : "287",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-a125fzbveub 166.3",
+         "price" : "169",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g996bzkdeub 17.02",
+         "price" : "105",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g996bzkgeub 17.02",
+         "price" : "105",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g996bzsgeub 17.02",
+         "price" : "105",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g991bzadeub 15.74",
+         "price" : "859",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g991bzvdeub 15.74",
+         "price" : "859",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy note20 8bg/256gb negro",
+         "price" : "899",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-a526bzbdeub 16.63",
+         "price" : "429",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone spc apolo 1gb/16gb  negro 5",
+         "price" : "99.9",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g991bzwdeub 15.74",
+         "price" : "859",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g991bzageub 15.74",
+         "price" : "859",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g991bzigeub 15.74",
+         "price" : "859",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20 fe 6gb/128gb azul",
+         "price" : "599",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20 fe verde 16.5",
+         "price" : "599",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20 fe 6gb/128gb violeta",
+         "price" : "629",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Telefono samsung g. s10 lite negro 128gb",
+         "price" : "399",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20 8gb/128gb azul",
+         "price" : "599",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20 8gb/128gb gris",
+         "price" : "599",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20 8gb/128gb rosa",
+         "price" : "599",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20 5g 12gb/128gb gris",
+         "price" : "699",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20+ 8gb/128gb azul",
+         "price" : "699",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20+ 8gb/128gb gris",
+         "price" : "699",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20+ 8gb/128gb negro",
+         "price" : "699",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20+ 5g 12gb/128gb gris",
+         "price" : "799",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20+ 5g 12gb/128gb  negro",
+         "price" : "799",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20+ 5g 12gb/128gb azul",
+         "price" : "799",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s20 ultra5g 12gb/128gb  negro",
+         "price" : "859",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s10+ 8gb/128gb blanco",
+         "price" : "599",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s10+ 8gb/128gb verde",
+         "price" : "599",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s10 8gb/128gb verde",
+         "price" : "499",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung galaxy s10 8gb/128gb blanco",
+         "price" : "499",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g996bzvgeub 17.02",
+         "price" : "105",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g991bzideub 15.74",
+         "price" : "859",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g996bzsdeub 17.02",
+         "price" : "1105",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone samsung sm-g996bzvdeub 17.02",
+         "price" : "105",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone panasonic kx-tu466exbe negro",
+         "price" : "83.9",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone spc gen plus 3gb/32gb azul",
+         "price" : "129",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone wiko  view 4 3gb/64gb gold",
+         "price" : "169",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone wiko y80 2gb/16gb azul",
+         "price" : "99.9",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      }, {
+         "desc" : "Smartphone hisense qubo  xeus negro",
+         "price" : "27.9",
+         "shop" : "Milar",
+         "type" : "smartphones"
+      } ]
+   }
+}
